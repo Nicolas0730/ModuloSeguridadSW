@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700" prefWidth="1112.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.moduloseguridad.controller.LoginController">
+   <children>
+      <Pane layoutX="526.0" prefHeight="700.0" prefWidth="587.0" style="-fx-background-color: white;">
+         <children>
+            <Label alignment="CENTER" layoutX="9.0" layoutY="12.0" prefHeight="176.0" prefWidth="575.0" text="Bienvenido" textAlignment="JUSTIFY" textFill="#32a3a7" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri Bold" size="96.0" />
+               </font>
+            </Label>
+            <Label layoutX="54.0" layoutY="229.0" prefHeight="31.0" prefWidth="220.0" text="correo:" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri" size="26.0" />
+               </font>
+            </Label>
+            <TextField fx:id="usuariotxt" layoutX="54.0" layoutY="259.0" prefHeight="31.0" prefWidth="467.0" />
+            <Label layoutX="55.0" layoutY="307.0" prefHeight="31.0" prefWidth="220.0" text="Contraseña:" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri" size="26.0" />
+               </font>
+            </Label>
+            <PasswordField fx:id="contraseñatxt" layoutX="55.0" layoutY="338.0" prefHeight="31.0" prefWidth="467.0" />
+            <Button fx:id="iniciarSesionbtn" alignment="CENTER" blendMode="SRC_ATOP" contentDisplay="CENTER" depthTest="ENABLE" layoutX="243.0" layoutY="423.0" mnemonicParsing="false" onAction="#iniciarSesion" prefHeight="31.0" prefWidth="131.0" style="-fx-background-radius: 20; -fx-background-color: #32a3a7;" text="Iniciar Sesion" textAlignment="CENTER">
+               <font>
+                  <Font size="17.0" />
+               </font>
+               <effect>
+                  <Blend />
+               </effect></Button>
+            <Hyperlink fx:id="contraseñaPerdida" layoutX="226.0" layoutY="475.0" onAction="#recuperarContraseña" text="¿Perdiste tu contraseña?" underline="true">
+               <font>
+                  <Font name="Calibri" size="15.0" />
+               </font>
+            </Hyperlink>
+            <Hyperlink fx:id="registro" layoutX="270.0" layoutY="503.0" onAction="#registro" text="Registrate" textOverrun="CENTER_ELLIPSIS" underline="true">
+               <font>
+                  <Font name="Calibri" size="15.0" />
+               </font>
+            </Hyperlink>
+            <BorderPane layoutX="466.0" layoutY="688.0" prefHeight="167.0" prefWidth="162.0" />
+            <ImageView fitHeight="92.0" fitWidth="105.0" layoutX="446.0" layoutY="564.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@segundo.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+      <BorderPane layoutX="-2.0" prefHeight="700.0" prefWidth="400.0" style="-fx-background-color: #247378;">
+         <center>
+            <ImageView fitHeight="277.0" fitWidth="529.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+               <image>
+                  <Image url="@LOGO-CAMU.png" />
+               </image>
+            </ImageView>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

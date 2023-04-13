@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #600507;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.moduloseguridad.views.Principal">
+   <children>
+      <Text layoutX="117.0" layoutY="197.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sebastian es gay">
+         <font>
+            <Font name="System Bold Italic" size="47.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
