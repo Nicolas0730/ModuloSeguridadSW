@@ -11,6 +11,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.stage.Stage;
 
 import java.sql.SQLException;
 
@@ -56,15 +57,17 @@ public class RegistroController {
     @FXML
     void registro(ActionEvent event) throws SQLException {
 
+//        Stage stage = (Stage) registrarbtn.getScene().getWindow();
+//        stage.close();
+
         if (nombretxt.getText().isEmpty()||numeroCCtxt.getText().isEmpty()||correotxt.getText().isEmpty()||contraseñatxt.getText().isEmpty()){
             alerta.alertWarning("ERROR","CAMPOS VACÍOS");
-        }else{
-            userDAO.RegisterUser(nombretxt.getText(),tipoDocumentoCB.getValue(),numeroCCtxt.getText(),correotxt.getText(),contraseñatxt.getText());
+        }else {
+            userDAO.RegisterUser(nombretxt.getText(), tipoDocumentoCB.getValue(), numeroCCtxt.getText(), correotxt.getText(), contraseñatxt.getText());
             limpiarCampos();
             //FALTA QUE SE CIERRE LA PESTAÑA REGISTRO ANTES DE LLAMAR LA NUEA VISTA****************
             aplicacion.mostrarVentanaLogin();
         }
-
     }
 
     private void limpiarCampos() {
@@ -77,6 +80,9 @@ public class RegistroController {
 
     @FXML
     void volver(ActionEvent event) {
+
+        Stage stage = (Stage) volverbtn.getScene().getWindow();
+        stage.close();
 
         aplicacion.mostrarVentanaLogin();
 

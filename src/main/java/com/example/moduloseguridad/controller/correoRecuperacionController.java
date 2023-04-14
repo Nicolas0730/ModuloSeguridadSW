@@ -8,6 +8,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.control.TextField;
+import javafx.stage.Stage;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -61,26 +62,32 @@ public class correoRecuperacionController {
      */
     private boolean validarCorreo() throws SQLException {
 
-        if(correoRecuperaciontxt.getText().isEmpty()){
-            alertas.alertWarning("ERROR","CAMPOS VACÍOS");
+        if (correoRecuperaciontxt.getText().isEmpty()) {
+            alertas.alertWarning("ERROR", "CAMPOS VACÍOS");
             return false;
-        }else{
-            if(validar.alertExist(validar.emailExist(correoRecuperaciontxt.getText()),correoRecuperaciontxt.getText())){
+        } else {
+            if (validar.alertExist(validar.emailExist(correoRecuperaciontxt.getText()), correoRecuperaciontxt.getText())) {
                 return true;
-            }else{
-                return false;
-            }
+            } else return false;
         }
     }
 
     @FXML
     void registro(ActionEvent event) {
+
         aplicacion.mostrarVentanaRegistro();
+
+        Stage stage = (Stage) registro.getScene().getWindow();
+        stage.close();
     }
 
     @FXML
     void volver(ActionEvent event) {
+
         aplicacion.mostrarVentanaLogin();
+
+        Stage stage = (Stage) volverbtn.getScene().getWindow();
+        stage.close();
     }
 
     public void setAplication(Aplicacion aplicacion) {

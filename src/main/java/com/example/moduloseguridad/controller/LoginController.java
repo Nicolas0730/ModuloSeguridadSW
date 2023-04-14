@@ -9,6 +9,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.stage.Stage;
 import org.mindrot.jbcrypt.BCrypt;
 
 import java.io.IOException;
@@ -45,25 +46,24 @@ public class LoginController {
             alerta.alertWarning("ERROR","HAY CAMPOS VACÍOS.");
 
 
-        }else{
-            String con=userDAO.validarLogin(usuariotxt.getText()); //Clave traida de la base de datos
+        }else {
+            String con = userDAO.validarLogin(usuariotxt.getText()); //Clave traida de la base de datos
             String conn = hashPassword(contraseñatxt.getText());
 
-            System.out.println("1 "+con);
-            System.out.println("2 "+conn);
-            if (conn!=null&&con.equals(conn)) {
+            if (conn != null && con.equals(conn))
                 alerta.alertInformation("ACCESO CORRECTO", "");
-            }else {
-                alerta.alertWarning("ERROR ", "Los datos proporcionados son incorrectos");
-                usuariotxt.clear();
-                contraseñatxt.clear();
-            }
+            else alerta.alertWarning("ERROR ", "Los datos proporcionados son incorrectos");
+            usuariotxt.clear();
+            contraseñatxt.clear();
         }
-
     }
 
     @FXML
     void recuperarContraseña(ActionEvent event) {
+
+        Stage stage = (Stage) contraseñaPerdida.getScene().getWindow();
+        stage.close();
+
         aplicacion.cerrar();
         aplicacion.mostrarVentanaCorreoRecuperacion();
 
@@ -71,6 +71,9 @@ public class LoginController {
 
     @FXML
     void registro(ActionEvent event) {
+
+        Stage stage = (Stage) registro.getScene().getWindow();
+        stage.close();
 
         aplicacion.mostrarVentanaRegistro();
 
