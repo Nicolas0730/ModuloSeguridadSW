@@ -33,7 +33,7 @@
                     </effect></Button>
             <Group layoutX="66.0" layoutY="205.0">
                <children>
-                      <Label alignment="CENTER" opacity="0.5" prefHeight="31.0" prefWidth="467.0" text="Ingresa tu correo electrónico y te enviaremos un enlace" textOverrun="CENTER_ELLIPSIS">
+                      <Label alignment="CENTER" opacity="0.5" prefHeight="31.0" prefWidth="467.0" text="Ingresa tu correo electrónico y te enviaremos un código" textOverrun="CENTER_ELLIPSIS">
                           <font>
                               <Font name="Calibri" size="20.0" />
                           </font>

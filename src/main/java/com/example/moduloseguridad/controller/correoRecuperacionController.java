@@ -53,6 +53,9 @@ public class correoRecuperacionController {
             aplicacion.mostrarVentanaRecuperarContraseña(correoRecuperaciontxt.getText());
 
         }
+
+        Stage stage = (Stage) enviarbtn.getScene().getWindow();
+        stage.close();
     }
 
     /**
