@@ -43,8 +43,7 @@ public class correoRecuperacionController {
             //-----------------------ENVIO CORREO ---------------------------------
             //Código aleatorio que se enviará al usuario y se almacenará en la BD
             String codigo=validar.getCodigo().generarCadenaAleatoria(8);//El codigo es de 8 caracteres
-            System.out.println(codigo);
-//            ********ACTIVAR****************
+//           ********ACTIVAR****************
             validar.enviarCorreoRecuperacion(correoRecuperaciontxt.getText(), codigo);
 //            *********************
 
