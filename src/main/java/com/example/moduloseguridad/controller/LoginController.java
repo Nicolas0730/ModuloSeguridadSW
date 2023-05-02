@@ -50,9 +50,10 @@ public class LoginController {
             String con = userDAO.validarLogin(usuariotxt.getText()); //Clave traida de la base de datos
             String conn = hashPassword(contraseñatxt.getText());
 
-            if (conn != null && con.equals(conn))
+            if (conn != null && con.equals(conn)) {
                 alerta.alertInformation("ACCESO CORRECTO", "");
-            else alerta.alertWarning("ERROR ", "Los datos proporcionados son incorrectos");
+                aplicacion.mostrarPrincipal();
+            }else alerta.alertWarning("ERROR ", "Los datos proporcionados son incorrectos");
             usuariotxt.clear();
             contraseñatxt.clear();
         }
