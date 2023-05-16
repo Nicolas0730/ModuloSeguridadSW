@@ -7,13 +7,12 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.control.Button;
-import javafx.scene.control.ComboBox;
-import javafx.scene.control.PasswordField;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
 import javafx.stage.Stage;
 
 import java.sql.SQLException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class RegistroController {
 
@@ -35,6 +34,8 @@ public class RegistroController {
     @FXML
     private ComboBox<String> tipoDocumentoCB=new ComboBox<String>();
 
+    @FXML
+    private Label labelContrasenia=new Label("Debe contener al menos una letra mayúscula, un digito ");
 
     @FXML
     private PasswordField contraseñatxt;
@@ -50,6 +51,10 @@ public class RegistroController {
         tipoDocumento.add("DNI");
         tipoDocumento.add("Pasaporte");
 
+        labelContrasenia.setText("ERROR:La contraseña debe contener al menos una letra mayúscula, un digito , un caracter especial y un tamaño de 8");
+        labelContrasenia.setVisible(false);
+        labelContrasenia.setStyle("-fx-text-fill: red;");
+
         tipoDocumentoCB.setItems(tipoDocumento);
 
     }
@@ -57,15 +62,20 @@ public class RegistroController {
     @FXML
     void registro(ActionEvent event) throws SQLException {
 
-//        Stage stage = (Stage) registrarbtn.getScene().getWindow();
-//        stage.close();
 
-        if (nombretxt.getText().isEmpty()||numeroCCtxt.getText().isEmpty()||correotxt.getText().isEmpty()||contraseñatxt.getText().isEmpty()){
+        String regex = "^(?=.*[A-Z])(?=.*\\d)(?=.*[@#$%^&+=])(?=.*[a-zA-Z]).{8,}$";
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(contraseñatxt.getText());
+
+        if (nombretxt.getText().isEmpty()||numeroCCtxt.getText().isEmpty()||correotxt.getText().isEmpty()|| contraseñatxt.getText().isEmpty()){
             alerta.alertWarning("ERROR","CAMPOS VACÍOS");
+
+        } if (!matcher.matches()) {
+            labelContrasenia.setVisible(true);
         }else {
             userDAO.RegisterUser(nombretxt.getText(), tipoDocumentoCB.getValue(), numeroCCtxt.getText(), correotxt.getText(), contraseñatxt.getText());
             limpiarCampos();
-            //FALTA QUE SE CIERRE LA PESTAÑA REGISTRO ANTES DE LLAMAR LA NUEA VISTA****************
+
             aplicacion.mostrarVentanaLogin();
         }
     }
@@ -86,6 +96,13 @@ public class RegistroController {
 
         aplicacion.mostrarVentanaLogin();
 
+    }
+
+    @FXML
+    public void validarTexto(){
+        if (contraseñatxt.getText().isEmpty()){
+            labelContrasenia.setVisible(false);
+        }
     }
 
     @FXML

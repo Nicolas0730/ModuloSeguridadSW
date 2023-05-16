@@ -44,7 +44,7 @@
                               <Font name="Calibri" size="20.0" />
                           </font>
                       </Label>
-                      <PasswordField fx:id="contraseñatxt" layoutY="31.0" prefHeight="31.0" prefWidth="467.0" />
+                      <PasswordField fx:id="contraseñatxt" layoutY="31.0" onKeyPressed="#validarTexto" prefHeight="31.0" prefWidth="467.0" />
                </children>
             </Group>
             <Group layoutX="72.0" layoutY="451.0">
@@ -90,6 +90,7 @@
                           <Image url="@segundo.png" />
                       </image>
                   </ImageView>
+            <Label fx:id="labelContrasenia" layoutX="74.0" layoutY="436.0" prefHeight="17.0" prefWidth="467.0" />
             </children>
         </Pane>
         <BorderPane layoutX="-2.0" prefHeight="700.0" prefWidth="400.0" style="-fx-background-color: #247378;">
