@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import java.lang.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 <?import javafx.scene.Group?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.ComboBox?>
@@ -14,7 +21,7 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="699.0" prefWidth="1091.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.moduloseguridad.controller.RegistroController">
+<AnchorPane prefHeight="699.0" prefWidth="1091.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.moduloseguridad.controller.RegistroController">
     <children>
         <Pane layoutX="527.0" prefHeight="700.0" prefWidth="587.0" style="-fx-background-color: white;">
             <children>
@@ -24,7 +31,7 @@
                     </font>
                 </Label>
                 <TextField fx:id="nombretxt" layoutX="67.0" layoutY="164.0" prefHeight="31.0" prefWidth="467.0" />
-                <Button fx:id="registrarbtn" alignment="CENTER" blendMode="SRC_ATOP" contentDisplay="CENTER" depthTest="ENABLE" layoutX="214.0" layoutY="537.0" mnemonicParsing="false" onAction="#registro" prefHeight="38.0" prefWidth="171.0" style="-fx-background-radius: 20; -fx-background-color: #32a3a7;" text="Registrarte" textAlignment="CENTER">
+                <Button fx:id="registrarbtn" alignment="CENTER" blendMode="SRC_ATOP" contentDisplay="CENTER" depthTest="ENABLE" layoutX="214.0" layoutY="590.0" mnemonicParsing="false" onAction="#registro" prefHeight="38.0" prefWidth="171.0" style="-fx-background-radius: 20; -fx-background-color: #32a3a7;" text="Registrarte" textAlignment="CENTER">
                     <font>
                         <Font size="17.0" />
                     </font>
@@ -37,27 +44,9 @@
                         <Font name="Calibri Bold" size="50.0" />
                     </font>
                 </Label>
-            <Group layoutX="71.0" layoutY="371.0">
-               <children>
-                      <Label layoutX="1.0" prefHeight="31.0" prefWidth="321.0" text="Contraseña:" textOverrun="CENTER_ELLIPSIS">
-                          <font>
-                              <Font name="Calibri" size="20.0" />
-                          </font>
-                      </Label>
-                      <PasswordField fx:id="contraseñatxt" layoutY="31.0" onKeyPressed="#validarTexto" prefHeight="31.0" prefWidth="467.0" />
-               </children>
-            </Group>
-            <Group layoutX="72.0" layoutY="451.0">
-               <children>
-                      <TextField fx:id="correotxt" layoutY="31.0" prefHeight="31.0" prefWidth="467.0" />
-                      <Label layoutX="1.0" prefHeight="31.0" prefWidth="321.0" text="Correo:" textOverrun="CENTER_ELLIPSIS">
-                          <font>
-                              <Font name="Calibri" size="20.0" />
-                          </font>
-                      </Label>
-               </children>
-            </Group>
-            <Group layoutX="69.0" layoutY="213.0">
+            <Group layoutX="67.0" layoutY="344.0" />
+            <Group layoutX="66.0" layoutY="481.0" />
+            <Group layoutX="68.0" layoutY="202.0">
                <children>
                       <Label layoutX="1.0" prefHeight="31.0" prefWidth="321.0" text="Tipo de documento:" textOverrun="CENTER_ELLIPSIS">
                           <font>
@@ -67,7 +56,7 @@
                       <ComboBox fx:id="tipoDocumentoCB" layoutY="31.0" prefHeight="31.0" prefWidth="245.0" />
                </children>
             </Group>
-            <Group layoutX="69.0" layoutY="292.0">
+            <Group layoutX="67.0" layoutY="275.0">
                <children>
                       <Label layoutX="1.0" prefHeight="31.0" prefWidth="321.0" text="Número de identificacion:" textOverrun="CENTER_ELLIPSIS">
                           <font>
@@ -90,7 +79,29 @@
                           <Image url="@segundo.png" />
                       </image>
                   </ImageView>
-            <Label fx:id="labelContrasenia" layoutX="74.0" layoutY="436.0" prefHeight="17.0" prefWidth="467.0" />
+            <Group layoutX="67.0" layoutY="464.0">
+               <children>
+                  <Label layoutX="1.0" layoutY="38.0" prefHeight="31.0" prefWidth="321.0" text="Repita la contraseña:" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri" size="20.0" />
+                     </font>
+                  </Label>
+                  <PasswordField fx:id="repetirContraseñatxt" layoutY="69.0" prefHeight="31.0" prefWidth="467.0" />
+               </children>
+            </Group>
+                <TextField fx:id="correotxt" layoutX="66.0" layoutY="374.0" prefHeight="31.0" prefWidth="467.0" />
+                <Label layoutX="66.0" layoutY="343.0" prefHeight="31.0" prefWidth="321.0" text="Correo:" textOverrun="CENTER_ELLIPSIS">
+                    <font>
+                        <Font name="Calibri" size="20.0" />
+                    </font>
+                </Label>
+                <Label layoutX="67.0" layoutY="412.0" prefHeight="31.0" prefWidth="321.0" text="Contraseña:" textOverrun="CENTER_ELLIPSIS">
+                    <font>
+                        <Font name="Calibri" size="20.0" />
+                    </font>
+                </Label>
+                <PasswordField fx:id="contraseñatxt" layoutX="66.0" layoutY="443.0" prefHeight="31.0" prefWidth="467.0" />
+            <Label fx:id="labelContrasenia" layoutX="68.0" layoutY="481.0" prefHeight="21.0" prefWidth="467.0" />
             </children>
         </Pane>
         <BorderPane layoutX="-2.0" prefHeight="700.0" prefWidth="400.0" style="-fx-background-color: #247378;">
