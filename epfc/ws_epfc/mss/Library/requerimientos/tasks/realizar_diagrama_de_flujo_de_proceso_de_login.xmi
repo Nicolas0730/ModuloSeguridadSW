@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y--4oc0WORWzXEECK0vIUg" name=",_aBVe0PX_Ee2sYpjh_H8PKQ" guid="-Y--4oc0WORWzXEECK0vIUg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T16:11:00.296-0500" changeDescription="Se realizara un diagrama de flujo del proceso de login" version="1.0">
+  <mainDescription>La tarea de realizar un diagrama de flujo de proceso de inicio de sesión en un proyecto de software consiste en visualizar&#xD;
+de manera gráfica y secuencial los pasos y acciones que un usuario debe realizar para acceder al sistema. Este diagrama&#xD;
+proporciona una representación clara y visual de cómo se lleva a cabo el proceso de inicio de sesión, incluyendo las&#xD;
+interacciones entre el usuario y el sistema.</mainDescription>
+  <keyConsiderations>Identificar pasos clave, Flujo de informacion, Manejo de errores, Interfaz de usuario.</keyConsiderations>
+  <sections xmi:id="_cwr5cPhOEe2AQs_6oxtXKg" name="Identificar los pasos del proceso " guid="_cwr5cPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Analiza detalladamente los pasos necesarios para el proceso de login en el módulo de seguridad. Esto puede incluir ingresar&#xD;
+el nombre de usuario, la contraseña, la verificación de credenciales, etc.</sectionDescription>
+  </sections>
+  <sections xmi:id="_fKoMUPhOEe2AQs_6oxtXKg" name="Definir los simbolos y convenciones" guid="_fKoMUPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Familiarízate con los símbolos y convenciones utilizados en los diagramas de flujo, como el símbolo de inicio, las&#xD;
+decisiones, las acciones y los puntos de finalización.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ivPikPhOEe2AQs_6oxtXKg" name="Dibujar el simbolo de inicio" guid="_ivPikPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Comienza el diagrama de flujo con el símbolo de inicio, que indica el punto de partida del proceso de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ntm6APhOEe2AQs_6oxtXKg" name="Representar los pasos del proceso" guid="_ntm6APhOEe2AQs_6oxtXKg">
+    <sectionDescription>Utiliza los símbolos apropiados para representar cada paso del proceso de login. Por ejemplo, el símbolo de acción se usa&#xD;
+para representar acciones específicas, como ingresar la información de inicio de sesión.</sectionDescription>
+  </sections>
+  <sections xmi:id="_rxdxAPhOEe2AQs_6oxtXKg" name="Incluir decisiones" guid="_rxdxAPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Si existen decisiones o ramificaciones en el proceso de login, utiliza el símbolo de decisión para representarlas. Por&#xD;
+ejemplo, si el nombre de usuario o la contraseña son incorrectos, se puede tomar una ruta diferente en el proceso.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vNoV4PhOEe2AQs_6oxtXKg" name="Conectar los pasos con flechas" guid="_vNoV4PhOEe2AQs_6oxtXKg">
+    <sectionDescription>Utiliza flechas para conectar los símbolos y representar la secuencia de los pasos del proceso de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zY_jEPhOEe2AQs_6oxtXKg" name="Agregar puntos de finalizacion" guid="_zY_jEPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Incluye puntos de finalización en el diagrama de flujo para indicar el final del proceso de login exitoso o las salidas en&#xD;
+caso de error.</sectionDescription>
+  </sections>
+  <sections xmi:id="_32__cPhOEe2AQs_6oxtXKg" name="Documentar el diagrama de flujo" guid="_32__cPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Registra el diagrama de flujo en un documento o en una herramienta adecuada para su posterior referencia y uso.</sectionDescription>
+  </sections>
+  <purpose>El proposito de esta tarea es dar a conocer los procesos o pasos a seguir para el correcto desarrollo de un login</purpose>
+  <alternatives>&lt;p>&#xD;
+    Diagrama de actividades, Prototipado interactivo, Mapa de navegacion,&#xD;
+&lt;/p></alternatives>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nwNzEfXmEe2sYpjh_H8PKQ" guid="_nwNzEfXmEe2sYpjh_H8PKQ"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_nwNzAPXmEe2sYpjh_H8PKQ" name="entrega" guid="_nwNzAPXmEe2sYpjh_H8PKQ" presentationName="entrega" briefDescription="Este metodo se centra en entregar el producto o la solución de software terminada al cliente o al usuario final. Implica empaquetar el software, documentar los detalles de implementación, realizar pruebas finales y asegurarse de que el producto esté listo para ser utilizado" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T20:50:06.273-0500">
+    <methodElementProperty xmi:id="_p4-PQPXmEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzAfXmEe2sYpjh_H8PKQ" name="Content" guid="_nwNzAfXmEe2sYpjh_H8PKQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzAvXmEe2sYpjh_H8PKQ" name="Categories" guid="_nwNzAvXmEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzA_XmEe2sYpjh_H8PKQ" name="Domains" guid="_nwNzA_XmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzBPXmEe2sYpjh_H8PKQ" name="Disciplines" guid="_nwNzBPXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzBfXmEe2sYpjh_H8PKQ" name="RoleSets" guid="_nwNzBfXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzBvXmEe2sYpjh_H8PKQ" name="WP Types" guid="_nwNzBvXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzB_XmEe2sYpjh_H8PKQ" name="Tools" guid="_nwNzB_XmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzCPXmEe2sYpjh_H8PKQ" name="StandardCategories" guid="_nwNzCPXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzCfXmEe2sYpjh_H8PKQ" name="CustomCategories" guid="_nwNzCfXmEe2sYpjh_H8PKQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzCvXmEe2sYpjh_H8PKQ" name="Hidden" guid="_nwNzCvXmEe2sYpjh_H8PKQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nwNzC_XmEe2sYpjh_H8PKQ" name="Custom Categories" guid="_nwNzC_XmEe2sYpjh_H8PKQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwNzDPXmEe2sYpjh_H8PKQ" name="CoreContent" guid="_nwNzDPXmEe2sYpjh_H8PKQ"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nwNzDfXmEe2sYpjh_H8PKQ" name="CapabilityPatterns" guid="_nwNzDfXmEe2sYpjh_H8PKQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nwNzDvXmEe2sYpjh_H8PKQ" name="DeliveryProcesses" guid="_nwNzDvXmEe2sYpjh_H8PKQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nwNzD_XmEe2sYpjh_H8PKQ" name="ProcessContributions" guid="_nwNzD_XmEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

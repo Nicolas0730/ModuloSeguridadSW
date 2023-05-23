@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_S2CfMfXmEe2sYpjh_H8PKQ" guid="_S2CfMfXmEe2sYpjh_H8PKQ">
+    <resourceDescriptors xmi:id="_ikT6cfeJEe2tX4LLMx9DDg" id="-dW3nBrpr1b1CTxM7x4TPYg" uri="roles/tester.xmi"/>
+    <resourceDescriptors xmi:id="_fSbq0vgJEe27nrnM_TBeKQ" id="-jrPD1by36bsMB07Y4PrGVA" uri="tasks/realizar_plan_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_R-SewPgKEe27nrnM_TBeKQ" id="-bDZcnr-ND4j7wYt8yWXgqw" uri="tasks/realizar_casos_de_prueba.xmi"/>
+    <resourceDescriptors xmi:id="_4QJasPgLEe27nrnM_TBeKQ" id="-O29KHq8LI0TMVerP5VGHGQ" uri="tasks/realizar_informe_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_IsNIAfgNEe27nrnM_TBeKQ" id="-Ndg_4ZdsvoCyu9rg044arA" uri="tasks/desarrollar_el_registro_de_defectos.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_S2CfIPXmEe2sYpjh_H8PKQ" name="pruebas" guid="_S2CfIPXmEe2sYpjh_H8PKQ" presentationName="pruebas" briefDescription="Este metodo se centra en realizar pruebas en diferentes etapas del desarrollo para detectar errores, verificar la funcionalidad esperada y asegurar que el software cumpla con los requisitos establecidos." authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T14:46:49.733-0500" changeDescription="Se crea la dependencia pruebas." version="1.0">
+    <methodElementProperty xmi:id="_eGVusvXmEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfIfXmEe2sYpjh_H8PKQ" name="Content" guid="_S2CfIfXmEe2sYpjh_H8PKQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfIvXmEe2sYpjh_H8PKQ" name="Categories" guid="_S2CfIvXmEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfI_XmEe2sYpjh_H8PKQ" name="Domains" guid="_S2CfI_XmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfJPXmEe2sYpjh_H8PKQ" name="Disciplines" guid="_S2CfJPXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfJfXmEe2sYpjh_H8PKQ" name="RoleSets" guid="_S2CfJfXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfJvXmEe2sYpjh_H8PKQ" name="WP Types" guid="_S2CfJvXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfJ_XmEe2sYpjh_H8PKQ" name="Tools" guid="_S2CfJ_XmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfKPXmEe2sYpjh_H8PKQ" name="StandardCategories" guid="_S2CfKPXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfKfXmEe2sYpjh_H8PKQ" name="CustomCategories" guid="_S2CfKfXmEe2sYpjh_H8PKQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfKvXmEe2sYpjh_H8PKQ" name="Hidden" guid="_S2CfKvXmEe2sYpjh_H8PKQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_S2CfK_XmEe2sYpjh_H8PKQ" name="Custom Categories" guid="_S2CfK_XmEe2sYpjh_H8PKQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S2CfLPXmEe2sYpjh_H8PKQ" name="CoreContent" guid="_S2CfLPXmEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1RAsMPavEe2RbJufFOgbsg" name="gestion_de_pruebas" guid="_1RAsMPavEe2RbJufFOgbsg" presentationName="Gestion de pruebas" briefDescription="Esta metodo se enfoca en llevar a cabo el ciclo de pruebas en un proyecto de software">
+          <methodElementProperty xmi:id="_1RAsMfavEe2RbJufFOgbsg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_2nxq0PavEe2RbJufFOgbsg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AeobMPawEe2RbJufFOgbsg" name="tester" guid="_AeobMPawEe2RbJufFOgbsg" presentationName="Tester" briefDescription="El tester es responsable de realizar pruebas exhaustivas en el software para identificar y reportar defectos.">
+            <methodElementProperty xmi:id="_Bab8IPawEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-dW3nBrpr1b1CTxM7x4TPYg" href="uma://-dW3nBrpr1b1CTxM7x4TPYg#-dW3nBrpr1b1CTxM7x4TPYg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CjvHMPgIEe27nrnM_TBeKQ" name="realizar_plan_de_pruebas" guid="_CjvHMPgIEe27nrnM_TBeKQ" presentationName="Realizar plan de pruebas" briefDescription="Realizar plan de pruebas implica la creación de un documento detallado que establece la estrategia y enfoque para llevar a cabo las pruebas de software.">
+            <methodElementProperty xmi:id="_fSbq0PgJEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-jrPD1by36bsMB07Y4PrGVA" href="uma://-jrPD1by36bsMB07Y4PrGVA#-jrPD1by36bsMB07Y4PrGVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xfcN0PgJEe27nrnM_TBeKQ" name="realizar_casos_de_prueba" guid="_xfcN0PgJEe27nrnM_TBeKQ" presentationName="Realizar casos de prueba" briefDescription="Realizar casos de pruebas implica diseñar y crear escenarios de prueba que permitan verificar el correcto funcionamiento del software.">
+            <methodElementProperty xmi:id="_R-QCgPgKEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-bDZcnr-ND4j7wYt8yWXgqw" href="uma://-bDZcnr-ND4j7wYt8yWXgqw#-bDZcnr-ND4j7wYt8yWXgqw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eb85UPgKEe27nrnM_TBeKQ" name="realizar_informe_de_pruebas" guid="_eb85UPgKEe27nrnM_TBeKQ" presentationName="Realizar informe de pruebas" briefDescription="El informe de pruebas es un documento que resume los resultados y hallazgos obtenidos durante las pruebas realizadas en un proyecto de software.">
+            <methodElementProperty xmi:id="_4QHlgPgLEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-O29KHq8LI0TMVerP5VGHGQ" href="uma://-O29KHq8LI0TMVerP5VGHGQ#-O29KHq8LI0TMVerP5VGHGQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CyXcQPgMEe27nrnM_TBeKQ" name="desarrollar_el_registro_de_defectos" guid="_CyXcQPgMEe27nrnM_TBeKQ" presentationName="Desarrollar el registro de defectos" briefDescription="Desarrollar el registro de defectos implica crear y mantener un sistema o herramienta para registrar y gestionar los defectos encontrados durante el proceso de pruebas de un proyecto de software.">
+            <methodElementProperty xmi:id="_IsHBYPgNEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ndg_4ZdsvoCyu9rg044arA" href="uma://-Ndg_4ZdsvoCyu9rg044arA#-Ndg_4ZdsvoCyu9rg044arA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S2CfLfXmEe2sYpjh_H8PKQ" name="CapabilityPatterns" guid="_S2CfLfXmEe2sYpjh_H8PKQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S2CfLvXmEe2sYpjh_H8PKQ" name="DeliveryProcesses" guid="_S2CfLvXmEe2sYpjh_H8PKQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S2CfL_XmEe2sYpjh_H8PKQ" name="ProcessContributions" guid="_S2CfL_XmEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

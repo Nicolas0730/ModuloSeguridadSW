@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_8PRO85DvQ_jHc36SFhQdw" name=",_cdf2oPasEe2RbJufFOgbsg" guid="-_8PRO85DvQ_jHc36SFhQdw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T20:23:34.934-0500" changeDescription="Realizacion de los metodos necesarios para el proyecto" version="1.0">
+  <mainDescription>En un proyecto de software, los métodos son funciones asociadas a objetos en lenguajes de programación orientados a&#xD;
+objetos. Son bloques de código que encapsulan la lógica y las operaciones relacionadas con un objeto en particular. Los&#xD;
+métodos se definen dentro de las clases y pueden acceder y manipular los datos y atributos de dicha clase. Proporcionan una&#xD;
+forma estructurada y coherente de realizar tareas específicas dentro del contexto de un objeto.</mainDescription>
+  <keyConsiderations>Diseño de los metodos, Definir parametros, Visibilidad y alcance</keyConsiderations>
+  <sections xmi:id="_d3Q4EPgvEe27nrnM_TBeKQ" name="Analizar los requisitos" guid="_d3Q4EPgvEe27nrnM_TBeKQ">
+    <sectionDescription>Comprender los requisitos funcionales y no funcionales del módulo de login. Identificar las funcionalidades y&#xD;
+características clave que se deben implementar.</sectionDescription>
+  </sections>
+  <sections xmi:id="_gZ2JkPgvEe27nrnM_TBeKQ" name="Diseñar la estructura del codigo" guid="_gZ2JkPgvEe27nrnM_TBeKQ">
+    <sectionDescription>Definir la estructura del código y la organización de los diferentes métodos. Determinar las clases y objetos necesarios,&#xD;
+así como las relaciones entre ellos. Considerar las mejores prácticas de diseño de software y las convenciones de&#xD;
+codificación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_jeDhcPgvEe27nrnM_TBeKQ" name="Implementar los metodos" guid="_jeDhcPgvEe27nrnM_TBeKQ">
+    <sectionDescription>Escribir el código para implementar los diferentes métodos del módulo de login. Asegurarse de seguir las mejores prácticas&#xD;
+de programación, utilizar un estilo de codificación consistente y aplicar principios de modularidad y reutilización del&#xD;
+código.</sectionDescription>
+  </sections>
+  <sections xmi:id="_maut8PgvEe27nrnM_TBeKQ" name="Realizar pruebas unitarias" guid="_maut8PgvEe27nrnM_TBeKQ">
+    <sectionDescription>Crear pruebas unitarias para cada uno de los métodos implementados. Verificar que cada método funcione correctamente y&#xD;
+cumpla con los requisitos establecidos. Corregir cualquier error o problema identificado durante las pruebas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_o7I1MPgvEe27nrnM_TBeKQ" name="Validar la funcionalidad" guid="_o7I1MPgvEe27nrnM_TBeKQ">
+    <sectionDescription>Probar la funcionalidad del módulo de login en su conjunto, asegurándose de que los métodos implementados trabajen de&#xD;
+manera integrada y cumplan con los objetivos establecidos. Verificar que el login sea seguro, que se manejen adecuadamente&#xD;
+las credenciales de usuario y que se sigan las prácticas recomendadas de autenticación y autorización.</sectionDescription>
+  </sections>
+  <sections xmi:id="_s_HoAPgvEe27nrnM_TBeKQ" name="Realizar pruebas de seguridad" guid="_s_HoAPgvEe27nrnM_TBeKQ">
+    <sectionDescription>Evaluar la seguridad del módulo de login mediante pruebas de penetración y otras técnicas de análisis de seguridad.&#xD;
+Identificar posibles vulnerabilidades y asegurarse de que se implementen las medidas necesarias para proteger la&#xD;
+información y prevenir ataques.</sectionDescription>
+  </sections>
+  <sections xmi:id="_yN29wPgvEe27nrnM_TBeKQ" name="Optimizar el codigo" guid="_yN29wPgvEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar mejoras en el código para optimizar el rendimiento y la eficiencia del módulo de login. Identificar posibles&#xD;
+cuellos de botella o áreas de mejora y aplicar técnicas de optimización adecuadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_08Rr0PgvEe27nrnM_TBeKQ" name="Documentar el codigo" guid="_08Rr0PgvEe27nrnM_TBeKQ">
+    <sectionDescription>Generar una documentación clara y completa para los métodos implementados. Describir su funcionalidad, parámetros, valores&#xD;
+de retorno y cualquier otro detalle relevante. Proporcionar ejemplos de uso y explicar cómo se integran con el resto del&#xD;
+módulo de login.</sectionDescription>
+  </sections>
+  <purpose>El propósito de los métodos en un proyecto de software es encapsular la lógica y las operaciones relacionadas con un objeto&#xD;
+específico.</purpose>
+  <alternatives>Una alternativa al enfoque de métodos en un proyecto de software podría ser la programación procedural, donde las funciones&#xD;
+independientes se utilizan para realizar las operaciones en lugar de métodos asociados a objetos.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

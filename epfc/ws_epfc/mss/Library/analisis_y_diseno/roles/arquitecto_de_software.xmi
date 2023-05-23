@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WxNU2SD1w08v8sp5npoLkw" name="new_role,_ezww4PdQEe2RbJufFOgbsg" guid="-WxNU2SD1w08v8sp5npoLkw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T15:54:39.691-0500" changeDescription="Se crea el rol de arquitecto de software" version="1.0">
+  <mainDescription>El arquitecto de software es un profesional encargado de definir la estructura, componentes y relaciones del sistema de&#xD;
+software. Trabaja en colaboración con los desarrolladores, analistas y otros miembros del equipo para comprender los&#xD;
+requisitos del proyecto y traducirlos en una arquitectura técnica sólida. El arquitecto de software debe considerar&#xD;
+aspectos como la seguridad, la escalabilidad, la disponibilidad y la eficiencia del sistema.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Diseño de la arquitectura, Conocimiento tecnico, Habilidades de comunicacion, Habilidad analitica.&#xD;
+&lt;/p></keyConsiderations>
+  <skills>Conocimientos tecnicos, Pensamiento analitico, Resolucion de problemas, Habilidades de diseño, Comunicacion Efectiva.</skills>
+  <synonyms>Diseñador de Software</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MNLdpa3Ag6LS9ySNXO1vDA" name="new_artifact,_-62-kPXvEe2sYpjh_H8PKQ" guid="-MNLdpa3Ag6LS9ySNXO1vDA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T09:26:36.861-0500" changeDescription="inicio del " version="1.0">
+  <mainDescription>Los requisitos son artefactos fundamentales en un proyecto de software, ya que describen de manera detallada y precisa las&#xD;
+funcionalidades, características y restricciones que debe cumplir el sistema a desarrollar. Estos requisitos actúan como la&#xD;
+base para el diseño, implementación y prueba del software.&lt;br />&#xD;
+Los requisitos pueden clasificarse en requisitos funcionales y no funcionales. Los requisitos funcionales definen las&#xD;
+funciones específicas que el sistema debe realizar, como acciones, comportamientos y operaciones que deben estar&#xD;
+disponibles para los usuarios. Por otro lado, los requisitos no funcionales describen características del sistema que no&#xD;
+están directamente relacionadas con una funcionalidad específica, como rendimiento, seguridad, usabilidad o requisitos&#xD;
+legales.</mainDescription>
+  <keyConsiderations>Claridad y comprension, Especificidad, Priorizacion, Rastreabilidad, Flexibilidad y&amp;nbsp;adaptabilidad, Documentacion&#xD;
+adecuada</keyConsiderations>
+  <purpose>Dar a conocer los requisitos necesarios para el correcto desarrollo del proyecto</purpose>
+  <briefOutline>&lt;p>&#xD;
+    Actúan como una descripción detallada de las funcionalidades y restricciones que el sistema debe cumplir&amp;nbsp;&#xD;
+&lt;/p></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

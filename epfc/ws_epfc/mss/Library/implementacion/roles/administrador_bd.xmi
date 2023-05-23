@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1Qh9TVnd-BlpvrRk3_kZQA" name="new_role,_WqCPsPdbEe2RbJufFOgbsg" guid="-1Qh9TVnd-BlpvrRk3_kZQA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:13:58.926-0500" changeDescription="Se crea el rol de Administrador BD" version="1.0">
+  <mainDescription>El rol del Administrador de Bases de Datos es fundamental en el ámbito de los proyectos de software y sistemas de&#xD;
+información. El Administrador de Bases de Datos es responsable de la gestión y administración de las bases de datos&#xD;
+utilizadas por una organización, asegurando su correcto funcionamiento, rendimiento, seguridad y disponibilidad.&lt;br />&#xD;
+La tarea principal del Administrador de Bases de Datos es diseñar, implementar y mantener las bases de datos de acuerdo con&#xD;
+las necesidades del proyecto o sistema. Esto implica realizar actividades como el diseño lógico y físico de la base de&#xD;
+datos, la creación de esquemas y tablas, la definición de índices y restricciones, y la optimización del rendimiento de las&#xD;
+consultas y transacciones.</mainDescription>
+  <keyConsiderations>Planfiacion y diseño, Optimizacion, Implementacion de medidas de seguridad</keyConsiderations>
+  <skills>Tecnicas especializadas en el manejo de BD, Conocimientos solidos, Lenguaje apropiado, Modelado de&amp;nbsp;datos, Optimizacion&#xD;
+de consultas.&amp;nbsp;</skills>
+  <assignmentApproaches>el enfoque principal del Administrador de Base de Datos es trabajar estrechamente con el equipo de desarrollo de software,&#xD;
+el arquitecto de software y los analistas para comprender los requisitos y traducirlos en una estructura de base de datos&#xD;
+adecuada</assignmentApproaches>
+  <synonyms>Administrador de Sistemas de Base de Datos, Administrador de Bases de Datos, Especialista en Base de Datos.</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

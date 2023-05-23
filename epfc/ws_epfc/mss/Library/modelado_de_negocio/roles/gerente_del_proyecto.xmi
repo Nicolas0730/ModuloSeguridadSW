@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Mp8Nx7vSF_ERCMSPLVxNVQ" name="new_role,_moNaYPXsEe2sYpjh_H8PKQ" guid="-Mp8Nx7vSF_ERCMSPLVxNVQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T21:30:59.096-0500">
+  <mainDescription>El rol del gerente de proyecto implica liderar, planificar, coordinar y supervisar todas las actividades relacionadas con&#xD;
+el desarrollo y entrega exitosa del software. El gerente de proyecto es responsable de establecer los objetivos del&#xD;
+proyecto, asignar recursos, gestionar el alcance, el cronograma y el presupuesto, y comunicarse eficazmente con el equipo&#xD;
+de desarrollo y todas las partes interesadas involucradas.&lt;br />&#xD;
+El gerente de proyecto también desempeña un papel fundamental en la identificación y gestión de los riesgos del proyecto,&#xD;
+resolviendo problemas y tomando decisiones para mantener el proyecto en el camino correcto. Además, actúa como punto de&#xD;
+contacto principal para las comunicaciones internas y externas del proyecto, asegurando una comunicación fluida y efectiva&#xD;
+entre todos los miembros del equipo, los clientes y otras partes interesadas.</mainDescription>
+  <skills>Gestion de proyectos, Liderazgo, Comunicacion, Gestion de alcance, Gestion de riesgos, Gestion de recursos, Conocimientos&#xD;
+tecnicos</skills>
+  <assignmentApproaches>Asiganacion directa, Asignacion por disponibilidad, Asignacion por habilidades.</assignmentApproaches>
+  <synonyms>Director de proyectos, Gestor de proyectos</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

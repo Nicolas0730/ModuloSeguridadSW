@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b1QEniOpPGCHtN_Z_U60YQ" name="plan_de_mitigacion_de_riesgos_terminado,_6sXLQPdXEe2RbJufFOgbsg" guid="-b1QEniOpPGCHtN_Z_U60YQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T16:45:14.705-0500" changeDescription="Se realizo un plan de mitigacion de riesgos" version="2.0">
+  <mainDescription>Un plan de mitigación de riesgos es un artefacto en un proyecto de software que tiene como objetivo identificar, evaluar y&#xD;
+establecer estrategias para reducir los riesgos potenciales que pueden afectar el éxito del proyecto. Este plan se&#xD;
+desarrolla en las etapas iniciales del proyecto y se actualiza de forma continua a medida que se identifican nuevos riesgos&#xD;
+o cambian las circunstancias.</mainDescription>
+  <keyConsiderations>Identifiacion de riesgos, Evaluacion y priorizacion, Acciones preventivas y correctivas, Monitoreo y actualizaciones</keyConsiderations>
+  <purpose>El propósito de un plan de mitigación de riesgos es anticiparse a los posibles problemas y establecer acciones preventivas&#xD;
+o correctivas para minimizar su impacto en el proyecto.</purpose>
+  <briefOutline>El plan de mitigación de riesgos es un documento clave en un proyecto de software que identifica y establece acciones para&#xD;
+reducir los riesgos potenciales.</briefOutline>
+  <representation>&amp;nbsp;El plan de mitigación de riesgos se puede representar en forma de tabla o matriz.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

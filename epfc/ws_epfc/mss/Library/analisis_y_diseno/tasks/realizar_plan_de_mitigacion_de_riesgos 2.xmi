@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n7n3J0ci3XABrLGIBnNzLA" name=",_jN9TAPdKEe2RbJufFOgbsg" guid="-n7n3J0ci3XABrLGIBnNzLA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T15:52:17.884-0500" changeDescription="Se realizara un plana de mitigacion de riesgos que ponga en peligro el proyecto" version="1.0">
+  <mainDescription>Un plan de mitigación de riesgos es un documento que identifica los posibles riesgos que podrían afectar el éxito del&#xD;
+proyecto y propone medidas para reducir su impacto o probabilidad de ocurrencia. Incluye una evaluación de riesgos,&#xD;
+estrategias de mitigación, asignación de responsabilidades y un cronograma para implementar las acciones necesarias.</mainDescription>
+  <keyConsiderations>Identifiacion y evaluacion de riesgos, Priorizacion y enfoque, Estrategias de mitagacion, Monitoreo y actualizacion.</keyConsiderations>
+  <sections xmi:id="_xLBkkPgrEe27nrnM_TBeKQ" name="Identificacion de riesgos" guid="_xLBkkPgrEe27nrnM_TBeKQ">
+    <sectionDescription>Identificar y listar todos los posibles riesgos relacionados con la seguridad del módulo de login. Esto puede incluir&#xD;
+amenazas como ataques de fuerza bruta, vulnerabilidades de seguridad, robo de credenciales, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_03iSkPgrEe27nrnM_TBeKQ" name="Evaluacion de riesgos" guid="_03iSkPgrEe27nrnM_TBeKQ">
+    <sectionDescription>Evaluar la probabilidad de ocurrencia y el impacto de cada riesgo identificado. La evaluación debe considerar factores como&#xD;
+la criticidad del módulo de login, la sensibilidad de los datos involucrados y el potencial daño que podría causar un&#xD;
+evento de riesgo.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4rDAcPgrEe27nrnM_TBeKQ" name="Priorizacion de riesgos" guid="_4rDAcPgrEe27nrnM_TBeKQ">
+    <sectionDescription>&amp;nbsp;Priorizar los riesgos según su nivel de importancia y urgencia. Establecer criterios claros para determinar qué&#xD;
+riesgos son más críticos y requieren atención inmediata.</sectionDescription>
+  </sections>
+  <sections xmi:id="_-fnAEPgrEe27nrnM_TBeKQ" name="Definicion de estrategias de mitigacion" guid="_-fnAEPgrEe27nrnM_TBeKQ">
+    <sectionDescription>Para cada riesgo prioritario, definir estrategias y medidas de mitigación. Estas estrategias pueden incluir la&#xD;
+implementación de controles de seguridad adicionales, el fortalecimiento de las políticas de autenticación, la mejora de la&#xD;
+encriptación de datos, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_EHRzMPgsEe27nrnM_TBeKQ" name="Asignacion de recursos" guid="_EHRzMPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Asignar los recursos necesarios para llevar a cabo las medidas de mitigación. Esto puede incluir personal, herramientas de&#xD;
+seguridad, presupuesto, capacitación, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_IXu7wPgsEe27nrnM_TBeKQ" name="Implementacion y seguimiento" guid="_IXu7wPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Implementar las medidas de mitigación y realizar un seguimiento regular de su progreso. Asegurarse de que las acciones&#xD;
+planificadas se lleven a cabo según lo previsto y monitorear su efectividad en la reducción de los riesgos identificados.</sectionDescription>
+  </sections>
+  <sections xmi:id="_LxY_MPgsEe27nrnM_TBeKQ" name="Evaluacion continua" guid="_LxY_MPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Evaluar regularmente la efectividad de las medidas de mitigación implementadas. Realizar revisiones periódicas del plan de&#xD;
+mitigación de riesgos y realizar ajustes según sea necesario para abordar nuevos riesgos o cambios en el entorno de&#xD;
+seguridad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_OtEGIPgsEe27nrnM_TBeKQ" name="Actualizacion y revision" guid="_OtEGIPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Actualizar y revisar el plan de mitigación de riesgos a medida que surjan nuevos riesgos o cambien las circunstancias del&#xD;
+proyecto. Mantener el plan actualizado y relevante a lo largo del ciclo de vida del proyecto.</sectionDescription>
+  </sections>
+  <purpose>&amp;nbsp;El propósito del plan de mitigación de riesgos es anticiparse y abordar los posibles riesgos que podrían surgir&#xD;
+durante el desarrollo y operación del software.</purpose>
+  <alternatives>Una alternativa al plan de mitigación de riesgos podría ser la implementación de un plan de contingencia.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

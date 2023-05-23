@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DRxTHugchAQHnnWpDev3Fg" name="new_artifact,_uJVKkPZ9Ee2RbJufFOgbsg" guid="-DRxTHugchAQHnnWpDev3Fg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T14:47:48.176-0500" changeDescription="Planeacion de los riesgos potenciales al desarrollo del proyecto" version="1.0">
+  <mainDescription>La planeación de la matriz de riesgo es un artefacto utilizado en proyectos de software para identificar y evaluar los&#xD;
+riesgos potenciales asociados con el desarrollo y la implementación del software. Consiste en analizar los posibles riesgos&#xD;
+que podrían afectar el éxito del proyecto, determinar su probabilidad de ocurrencia y el impacto que tendrían, y luego&#xD;
+desarrollar estrategias para mitigarlos. La matriz de riesgo muestra una lista de los riesgos identificados, su&#xD;
+clasificación y las acciones planeadas para abordarlos.</mainDescription>
+  <keyConsiderations>Identificar y clasificar riesgos, Priorizar riesgos, Desarrollar estrategias, Monitorear y actualizar</keyConsiderations>
+  <purpose>El propósito de la planeación de la matriz de riesgo es anticiparse a los posibles obstáculos y desafíos que podrían surgir&#xD;
+durante el proyecto de software</purpose>
+  <briefOutline>La planeación de la matriz de riesgo es un artefacto esencial en la gestión de proyectos de software. Ayuda a identificar&#xD;
+los riesgos potenciales y desarrollar estrategias para abordarlos de manera proactiva.</briefOutline>
+  <representation>&lt;p>&#xD;
+    Matriz&#xD;
+&lt;/p></representation>
+</org.eclipse.epf.uma:ArtifactDescription>

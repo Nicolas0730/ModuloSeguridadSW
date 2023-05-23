@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_oZiSUfXlEe2sYpjh_H8PKQ" guid="_oZiSUfXlEe2sYpjh_H8PKQ">
+    <resourceDescriptors xmi:id="_OLkSEPX8Ee2sYpjh_H8PKQ" id="-RDM4dmtJBwzG2dWA4NveYQ" uri="workproducts/planeacion_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_EOIRMvX_Ee2sYpjh_H8PKQ" id="-MznEaF2sXXf6ImTTaNdiaw" uri="workproducts/guia_de_requisitos_finalizado.xmi"/>
+    <resourceDescriptors xmi:id="_OtjoAPYAEe2sYpjh_H8PKQ" id="-Y--4oc0WORWzXEECK0vIUg" uri="tasks/realizar_diagrama_de_flujo_de_proceso_de_login.xmi"/>
+    <resourceDescriptors xmi:id="_iiL2YvZ_Ee2RbJufFOgbsg" id="-oWrEVDYvgXRDNnidCZPoVw" uri="tasks/realizar_casos_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_mRqDsfZ9Ee2RbJufFOgbsg" id="-vWQzYVs_M6AewDcZqaJVOg" uri="workproducts/diagrama_de_caso_de_uso_finalizado.xmi"/>
+    <resourceDescriptors xmi:id="_6QBmIPX6Ee2sYpjh_H8PKQ" id="-fxabq3n9S2ZA3RifwGmcWA" uri="tasks/realizar_especificaciones_de_los_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_n_ea8vZ-Ee2RbJufFOgbsg" id="-KBu2g2znKB2lxmY4pFrumw" uri="workproducts/matriz_de_riesgo_finalizada.xmi"/>
+    <resourceDescriptors xmi:id="_DTG2IvZ9Ee2RbJufFOgbsg" id="-bQaUDM1YfuoKVKjlTdWvcw" uri="workproducts/diagrama_de_caso_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_QiLusPX9Ee2sYpjh_H8PKQ" id="-vup3J3ENL2T5Us9tqCmQzw" uri="roles/analista_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="__him0fZtEe2wDqCaHjj1zg" id="-vASz-otur3964B165IzTpA" uri="workproducts/diagrama_de_flujo.xmi"/>
+    <resourceDescriptors xmi:id="_WSUkEvZ7Ee2RbJufFOgbsg" id="-YVPZGXhX8PbXPxfO_0qcSQ" uri="workproducts/diagrama_de_flujo_terminado.xmi"/>
+    <resourceDescriptors xmi:id="_h3kokvZ-Ee2RbJufFOgbsg" id="-Slo_LfzbkcCDM-203AFVJg" uri="workproducts/planeacion_matriz_de_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_M66WgvaAEe2RbJufFOgbsg" id="-uqV4pPGoNMJzV0IKdHAKzg" uri="tasks/realizar_matriz_de_riesgo.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_oZiSQPXlEe2sYpjh_H8PKQ" name="requerimientos" guid="_oZiSQPXlEe2sYpjh_H8PKQ" presentationName="requerimientos" briefDescription="Este metodo se centra en la identificación, documentación y gestión de los requerimientos del proyecto. Este módulo es responsable de recopilar y analizar las necesidades y expectativas de los stakeholders, transformándolas en requerimientos claros y verificables." authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T20:50:20.370-0500">
+    <methodElementProperty xmi:id="_qyyooPXlEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSQfXlEe2sYpjh_H8PKQ" name="Content" guid="_oZiSQfXlEe2sYpjh_H8PKQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSQvXlEe2sYpjh_H8PKQ" name="Categories" guid="_oZiSQvXlEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSQ_XlEe2sYpjh_H8PKQ" name="Domains" guid="_oZiSQ_XlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSRPXlEe2sYpjh_H8PKQ" name="Disciplines" guid="_oZiSRPXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSRfXlEe2sYpjh_H8PKQ" name="RoleSets" guid="_oZiSRfXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSRvXlEe2sYpjh_H8PKQ" name="WP Types" guid="_oZiSRvXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSR_XlEe2sYpjh_H8PKQ" name="Tools" guid="_oZiSR_XlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSSPXlEe2sYpjh_H8PKQ" name="StandardCategories" guid="_oZiSSPXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSSfXlEe2sYpjh_H8PKQ" name="CustomCategories" guid="_oZiSSfXlEe2sYpjh_H8PKQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSSvXlEe2sYpjh_H8PKQ" name="Hidden" guid="_oZiSSvXlEe2sYpjh_H8PKQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oZiSS_XlEe2sYpjh_H8PKQ" name="Custom Categories" guid="_oZiSS_XlEe2sYpjh_H8PKQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZiSTPXlEe2sYpjh_H8PKQ" name="CoreContent" guid="_oZiSTPXlEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-kx1UPX5Ee2sYpjh_H8PKQ" name="analisis_y_diseno_de_requisitos_y_funcionalidades" guid="_-kx1UPX5Ee2sYpjh_H8PKQ" presentationName="Analisi y diseno de requisitos y funcionalidades" briefDescription="Este proceso se centra en comprender y documentar los requisitos del sistema, representar visualmente los flujos de trabajo y las interacciones, y evaluar los riesgos potenciales.">
+          <methodElementProperty xmi:id="_-kzDcPX5Ee2sYpjh_H8PKQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_DqrYIPX6Ee2sYpjh_H8PKQ" name="pakage_supporting" value="false"/>
+          <methodElementProperty xmi:id="_IoCC8PX6Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N9r5APX6Ee2sYpjh_H8PKQ" name="realizar_especificaciones_de_los_requisitos" guid="_N9r5APX6Ee2sYpjh_H8PKQ" presentationName="Realizar especificaciones de los requisitos" briefDescription="Esta tarea implica identificar, recopilar y documentar los requisitos funcionales y no funcionales del sistema. Se describirán las funcionalidades, características y comportamientos esperados del software." performedBy="_O5RsoPX8Ee2sYpjh_H8PKQ" mandatoryInput="_NsdJoPX7Ee2sYpjh_H8PKQ" output="_pC9gYPX-Ee2sYpjh_H8PKQ">
+            <methodElementProperty xmi:id="_6Qlm0PX6Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fxabq3n9S2ZA3RifwGmcWA" href="uma://-fxabq3n9S2ZA3RifwGmcWA#-fxabq3n9S2ZA3RifwGmcWA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NsdJoPX7Ee2sYpjh_H8PKQ" name="planeacion_de_requisitos" guid="_NsdJoPX7Ee2sYpjh_H8PKQ" presentationName="Planeacion de requisitos" briefDescription="La planeación de requisitos en un proyecto de software es el artefacto que establece los pasos y enfoques para identificar, analizar y documentar los requisitos del sistema">
+            <methodElementProperty xmi:id="_a3F-8PX7Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-RDM4dmtJBwzG2dWA4NveYQ" href="uma://-RDM4dmtJBwzG2dWA4NveYQ#-RDM4dmtJBwzG2dWA4NveYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O5RsoPX8Ee2sYpjh_H8PKQ" name="analista_de_requisitos" guid="_O5RsoPX8Ee2sYpjh_H8PKQ" presentationName="Analista de requisitos" briefDescription="El analista de requisitos es el profesional encargado de identificar, analizar y documentar los requisitos del sistema en un proyecto de software." responsibleFor="_lmJokPZ9Ee2RbJufFOgbsg _9cw_wPZ6Ee2RbJufFOgbsg _lTEfEPZ-Ee2RbJufFOgbsg _pC9gYPX-Ee2sYpjh_H8PKQ">
+            <methodElementProperty xmi:id="_QiIrYPX9Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-vup3J3ENL2T5Us9tqCmQzw" href="uma://-vup3J3ENL2T5Us9tqCmQzw#-vup3J3ENL2T5Us9tqCmQzw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pC9gYPX-Ee2sYpjh_H8PKQ" name="guia_de_requisitos_finalizado" guid="_pC9gYPX-Ee2sYpjh_H8PKQ" presentationName="Guia de requisitos finalizado" briefDescription="La guía de requisitos finalizados es un artefacto que recopila y documenta todos los requisitos del sistema de software de manera completa y detallada. ">
+            <methodElementProperty xmi:id="_EOIRMPX_Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-MznEaF2sXXf6ImTTaNdiaw" href="uma://-MznEaF2sXXf6ImTTaNdiaw#-MznEaF2sXXf6ImTTaNdiaw"/>
+            <checklists href="uma://_RdIA4PXlEe2sYpjh_H8PKQ#_hEFPkPZREe2wDqCaHjj1zg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aBVe0PX_Ee2sYpjh_H8PKQ" name="realizar_diagrama_de_flujo_de_proceso_de_login" guid="_aBVe0PX_Ee2sYpjh_H8PKQ" presentationName="Realizar diagrama de flujo de proceso de login" briefDescription="En esta tarea se realizara el diagrama de flujo de proceso de login para saber como se realizara el desarrollo de esta funcionalidad." performedBy="_O5RsoPX8Ee2sYpjh_H8PKQ" mandatoryInput="_89c4QPZTEe2wDqCaHjj1zg" output="_9cw_wPZ6Ee2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_Othy0PYAEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Y--4oc0WORWzXEECK0vIUg" href="uma://-Y--4oc0WORWzXEECK0vIUg#-Y--4oc0WORWzXEECK0vIUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_89c4QPZTEe2wDqCaHjj1zg" name="diagrama_de_flujo" guid="_89c4QPZTEe2wDqCaHjj1zg" presentationName="Diagrama de flujo" briefDescription="Este artefacto es una representación gráfica de los pasos y decisiones que se siguen en un proceso determinado">
+            <methodElementProperty xmi:id="__hY10PZtEe2wDqCaHjj1zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-vASz-otur3964B165IzTpA" href="uma://-vASz-otur3964B165IzTpA#-vASz-otur3964B165IzTpA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9cw_wPZ6Ee2RbJufFOgbsg" name="diagrama_de_flujo_terminado" guid="_9cw_wPZ6Ee2RbJufFOgbsg" presentationName="Diagrama de flujo terminado" briefDescription="Este es un artefacto visual utilizado en proyectos de software para representar de manera gráfica el flujo de control de un proceso o algoritmo">
+            <methodElementProperty xmi:id="_WSUkEPZ7Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-YVPZGXhX8PbXPxfO_0qcSQ" href="uma://-YVPZGXhX8PbXPxfO_0qcSQ#-YVPZGXhX8PbXPxfO_0qcSQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mLHMQPZ8Ee2RbJufFOgbsg" name="diagrama_de_caso_de_uso" guid="_mLHMQPZ8Ee2RbJufFOgbsg" presentationName="Diagrama de caso de uso" briefDescription="Este artefacto es una representación visual de las interacciones entre los actores y el sistema en un proyecto de software">
+            <methodElementProperty xmi:id="_DTG2IPZ9Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-bQaUDM1YfuoKVKjlTdWvcw" href="uma://-bQaUDM1YfuoKVKjlTdWvcw#-bQaUDM1YfuoKVKjlTdWvcw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lmJokPZ9Ee2RbJufFOgbsg" name="diagrama_de_caso_de_uso_finalizado" guid="_lmJokPZ9Ee2RbJufFOgbsg" presentationName="Diagrama de caso de uso finalizado" briefDescription="Este artefacto es una representación visual de las interacciones entre los actores y el sistema en un proyecto de software">
+            <methodElementProperty xmi:id="_mRg5wPZ9Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-vWQzYVs_M6AewDcZqaJVOg" href="uma://-vWQzYVs_M6AewDcZqaJVOg#-vWQzYVs_M6AewDcZqaJVOg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uJVKkPZ9Ee2RbJufFOgbsg" name="planeacion_matriz_de_riesgo" guid="_uJVKkPZ9Ee2RbJufFOgbsg" presentationName="Planeacion matriz de riesgo" briefDescription="La planeación de la matriz de riesgo es un artefacto que identifica y evalúa los riesgos en un proyecto de software.">
+            <methodElementProperty xmi:id="_h3kokPZ-Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Slo_LfzbkcCDM-203AFVJg" href="uma://-Slo_LfzbkcCDM-203AFVJg#-Slo_LfzbkcCDM-203AFVJg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lTEfEPZ-Ee2RbJufFOgbsg" name="matriz_de_riesgo_finalizada" guid="_lTEfEPZ-Ee2RbJufFOgbsg" presentationName="Matriz de riesgo finalizada" briefDescription="La planeación de la matriz de riesgo es un artefacto que identifica y evalúa los riesgos en un proyecto de software.">
+            <methodElementProperty xmi:id="_n_ea8PZ-Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-KBu2g2znKB2lxmY4pFrumw" href="uma://-KBu2g2znKB2lxmY4pFrumw#-KBu2g2znKB2lxmY4pFrumw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-6IY0PZ-Ee2RbJufFOgbsg" name="realizar_casos_de_uso" guid="_-6IY0PZ-Ee2RbJufFOgbsg" presentationName="Realizar casos de uso" briefDescription="Los casos de uso son una representación de las funcionalidades del sistema en un proyecto de software." performedBy="_O5RsoPX8Ee2sYpjh_H8PKQ" mandatoryInput="_mLHMQPZ8Ee2RbJufFOgbsg" output="_lmJokPZ9Ee2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_iiL2YPZ_Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-oWrEVDYvgXRDNnidCZPoVw" href="uma://-oWrEVDYvgXRDNnidCZPoVw#-oWrEVDYvgXRDNnidCZPoVw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lFjLAPZ_Ee2RbJufFOgbsg" name="realizar_matriz_de_riesgo" guid="_lFjLAPZ_Ee2RbJufFOgbsg" presentationName="Realizar matriz de riesgo" briefDescription="La matriz de riesgo es una herramienta utilizada para identificar y evaluar los riesgos en un proyecto de software" performedBy="_O5RsoPX8Ee2sYpjh_H8PKQ" mandatoryInput="_uJVKkPZ9Ee2RbJufFOgbsg" output="_lTEfEPZ-Ee2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_M66WgPaAEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-uqV4pPGoNMJzV0IKdHAKzg" href="uma://-uqV4pPGoNMJzV0IKdHAKzg#-uqV4pPGoNMJzV0IKdHAKzg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oZiSTfXlEe2sYpjh_H8PKQ" name="CapabilityPatterns" guid="_oZiSTfXlEe2sYpjh_H8PKQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oZiSTvXlEe2sYpjh_H8PKQ" name="DeliveryProcesses" guid="_oZiSTvXlEe2sYpjh_H8PKQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oZiST_XlEe2sYpjh_H8PKQ" name="ProcessContributions" guid="_oZiST_XlEe2sYpjh_H8PKQ"/>
+    <bases href="uma://_RdIA4PXlEe2sYpjh_H8PKQ#_RdIA4PXlEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

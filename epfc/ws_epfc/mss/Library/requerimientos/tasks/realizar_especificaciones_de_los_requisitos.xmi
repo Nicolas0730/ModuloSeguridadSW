@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fxabq3n9S2ZA3RifwGmcWA" name=",_N9r5APX6Ee2sYpjh_H8PKQ" guid="-fxabq3n9S2ZA3RifwGmcWA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T16:10:55.601-0500" changeDescription="Se realizaran las especificaciones de los requisitos" version="1.0">
+  <mainDescription>El objetivo principal del Análisis y Diseño de Requisitos y Funcionalidades es establecer una base sólida para el&#xD;
+desarrollo del software, asegurando que se comprendan y documenten correctamente las necesidades y expectativas de los&#xD;
+usuarios. Esto permite a los equipos de desarrollo y a las partes interesadas tener una comprensión clara de lo que se va a&#xD;
+construir, facilitando así la implementación, las pruebas y la entrega exitosa del sistema.</mainDescription>
+  <keyConsiderations>Claridad y comprension de los requisitos, Flexibilidad y adaptabilidad, Consistencia y coherencia Priorizacion y gestion de&#xD;
+riesgos</keyConsiderations>
+  <sections xmi:id="_aBVacPhSEe2AQs_6oxtXKg" name="Identificar los requisitos funcionales" guid="_aBVacPhSEe2AQs_6oxtXKg">
+    <sectionDescription>Analiza detalladamente los requisitos funcionales específicos del módulo de seguridad y login. Estos requisitos pueden&#xD;
+incluir la autenticación de usuarios, gestión de contraseñas, roles de usuario, registro de actividad, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_e1ftAPhSEe2AQs_6oxtXKg" name="Identificar los requisitos no funcionales" guid="_e1ftAPhSEe2AQs_6oxtXKg">
+    <sectionDescription>Además de los requisitos funcionales, identifica los requisitos no funcionales relacionados con la seguridad, como la&#xD;
+confidencialidad de los datos, la integridad de la información, la disponibilidad del sistema, el rendimiento y la&#xD;
+escalabilidad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_jGpZIPhSEe2AQs_6oxtXKg" name="Documentar los requisitos" guid="_jGpZIPhSEe2AQs_6oxtXKg">
+    <sectionDescription>Utiliza una plantilla o formato adecuado para documentar los requisitos de manera clara y estructurada. Incluye la&#xD;
+descripción del requisito, su prioridad, la justificación y cualquier restricción o dependencia relevante.</sectionDescription>
+  </sections>
+  <sections xmi:id="_lYop4PhSEe2AQs_6oxtXKg" name="Especificar los criterios de aceptacion" guid="_lYop4PhSEe2AQs_6oxtXKg">
+    <sectionDescription>Para cada requisito, define los criterios de aceptación que permitirán verificar si se cumple correctamente. Estos&#xD;
+criterios deben ser medibles y cuantificables para facilitar la evaluación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_qdg5APhSEe2AQs_6oxtXKg" name="Validar los requisitos" guid="_qdg5APhSEe2AQs_6oxtXKg">
+    <sectionDescription>Revisa los requisitos con los stakeholders y otros miembros del equipo para garantizar su comprensión y validez. Asegúrate&#xD;
+de que los requisitos sean coherentes, completos y alcanzables.</sectionDescription>
+  </sections>
+  <sections xmi:id="_sqRrgPhSEe2AQs_6oxtXKg" name="Mantener la trazabilidad de los requisitos" guid="_sqRrgPhSEe2AQs_6oxtXKg">
+    <sectionDescription>&lt;p>&#xD;
+    Establece una relación de trazabilidad entre los requisitos y otras artefactos del proyecto, como los casos de uso, los&#xD;
+    casos de prueba y las funcionalidades implementadas. Esto facilitará el seguimiento y la gestión de los requisitos a lo&#xD;
+    largo del ciclo de vida del proyecto.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    El proposito de esta tarea es dar a conocer mas a profundo los requisitos que se tendran en cuenta para el desarrollo&#xD;
+    del proyecto&#xD;
+&lt;/p></purpose>
+  <alternatives>Enfoques aguiles, Prototipado rápido, Modelado&amp;nbsp;visual&amp;nbsp;</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

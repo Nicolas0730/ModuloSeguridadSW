@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WmqCN9Jfyaxp2NiDAvsENg" name="new_role,_COT-IPd2Ee2tX4LLMx9DDg" guid="-WmqCN9Jfyaxp2NiDAvsENg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T20:26:37.718-0500" changeDescription="Se crea el rol diseñador de UI-UX" version="1.0">
+  <mainDescription>El Diseñador de UI/UX es responsable de diseñar la interfaz de usuario de un proyecto de software, tanto en términos de&#xD;
+apariencia visual como de usabilidad. Su objetivo principal es crear una experiencia de usuario óptima, considerando&#xD;
+aspectos como la navegación, la interacción y la estética visual. El Diseñador de UI/UX trabaja en colaboración con el&#xD;
+equipo de desarrollo y los stakeholders para comprender los requisitos y objetivos del proyecto, y luego traducirlos en&#xD;
+diseños visuales atractivos y funcionales. Además, el Diseñador de UI/UX realiza pruebas y recopila feedback de los&#xD;
+usuarios para iterar y mejorar continuamente la interfaz de usuario.</mainDescription>
+  <keyConsiderations>Comprender necesidades, Diseño de interfaces, Estetica y funcionalidad, Restricciones tecnicas, Usabilidad.</keyConsiderations>
+  <skills>Conocimientos solidos sobre diseño de interfaces, Comprension de los terminos basicos de usabilidad, Comunicacion efectiva.</skills>
+  <assignmentApproaches>El Diseñador de UI/UX puede ser asignado en diferentes etapas del proyecto, desde el inicio para definir la arquitectura de&#xD;
+información y los flujos de navegación, hasta la fase de diseño visual y desarrollo de prototipos.</assignmentApproaches>
+  <synonyms>Diseñador de Experiencia de Usuario (UX/UI Designer)</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

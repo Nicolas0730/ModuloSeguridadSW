@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BdqFDu1cLitEjeqRYnY62w" name="new_checklist,_hEFPkPZREe2wDqCaHjj1zg" guid="-BdqFDu1cLitEjeqRYnY62w">
+  <sections xmi:id="_kpzZEPZREe2wDqCaHjj1zg" name="Tienen codigo del requisito" guid="_kpzZEPZREe2wDqCaHjj1zg">
+    <sectionDescription>des</sectionDescription>
+  </sections>
+  <sections xmi:id="_rk_pkPZREe2wDqCaHjj1zg" name="Tipo de requisito (funcional, no funcional, etc)" guid="_rk_pkPZREe2wDqCaHjj1zg">
+    <sectionDescription>des</sectionDescription>
+  </sections>
+  <sections xmi:id="_voD2YPZREe2wDqCaHjj1zg" name="Nombre del requisto" guid="_voD2YPZREe2wDqCaHjj1zg">
+    <sectionDescription>&lt;p>&#xD;
+    des&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_yYBckPZREe2wDqCaHjj1zg" name="especificación del requisito" guid="_yYBckPZREe2wDqCaHjj1zg">
+    <sectionDescription>des</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

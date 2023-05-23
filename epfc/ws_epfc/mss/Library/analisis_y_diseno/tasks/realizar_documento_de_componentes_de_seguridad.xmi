@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ywRAbjnD9c5AvjAUFOFMcg" name=",_cG170PdJEe2RbJufFOgbsg" guid="-ywRAbjnD9c5AvjAUFOFMcg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T15:05:41.789-0500" changeDescription="Se realizara un documento detallando los componentes de seguridad" version="1.0">
+  <mainDescription>El documento de especificaciones de seguridad es un artefacto que contiene las medidas y requisitos de seguridad que deben&#xD;
+implementarse en el sistema de software. Incluye información sobre controles de acceso, autenticación, encriptación,&#xD;
+auditoría, protección de datos y otras medidas relevantes para salvaguardar la integridad, confidencialidad y&#xD;
+disponibilidad del sistema.</mainDescription>
+  <keyConsiderations>Identificar amenazas y riesgos, Definir medidas de seguridad, Estadares y regulaciones, Actualizar.</keyConsiderations>
+  <sections xmi:id="_0vW0sPgwEe27nrnM_TBeKQ" name="Identificar los componentes de seguridad" guid="_0vW0sPgwEe27nrnM_TBeKQ">
+    <sectionDescription>Analiza los requisitos de seguridad del módulo de login y determina los componentes específicos que son necesarios para&#xD;
+garantizar la protección adecuada. Estos componentes pueden incluir la autenticación de usuarios, el control de acceso, la&#xD;
+encriptación de datos, la gestión de sesiones y otras medidas de seguridad relevantes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7UShUPgwEe27nrnM_TBeKQ" name="Describir cada componente de seguridad" guid="_7UShUPgwEe27nrnM_TBeKQ">
+    <sectionDescription>Para cada componente identificado, proporciona una descripción detallada de su función y propósito. Explica cómo se&#xD;
+implementa, qué características o funcionalidades proporciona y cómo se relaciona con otros componentes del sistema.</sectionDescription>
+  </sections>
+  <sections xmi:id="__pm7wPgwEe27nrnM_TBeKQ" name="Especificar las tecnologias y herramientas utilizadas" guid="__pm7wPgwEe27nrnM_TBeKQ">
+    <sectionDescription>Indica las tecnologías y herramientas específicas que se utilizan para implementar cada componente de seguridad. Esto puede&#xD;
+incluir frameworks, bibliotecas, algoritmos criptográficos u otros recursos necesarios para asegurar el módulo de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_G_C4QPgxEe27nrnM_TBeKQ" name="Definir las interacciones y dependencias" guid="_G_C4QPgxEe27nrnM_TBeKQ">
+    <sectionDescription>Describe cómo interactúan los diferentes componentes de seguridad entre sí y cómo dependen unos de otros para garantizar un&#xD;
+entorno seguro. Esto ayudará a comprender cómo se integran y se comunican los componentes para proteger el módulo de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Lglw0PgxEe27nrnM_TBeKQ" name="Mencionar las mejores practicas de seguridad" guid="_Lglw0PgxEe27nrnM_TBeKQ">
+    <sectionDescription>Incluye las mejores prácticas de seguridad relevantes para cada componente. Estas pueden incluir recomendaciones sobre&#xD;
+configuraciones seguras, políticas de contraseñas, auditorías de seguridad y otros aspectos importantes para asegurar el&#xD;
+módulo de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_RNQ_wPgxEe27nrnM_TBeKQ" name="Documentar las decisiones de diseño" guid="_RNQ_wPgxEe27nrnM_TBeKQ">
+    <sectionDescription>Explica las decisiones de diseño tomadas para cada componente de seguridad y cómo se relacionan con los requisitos de&#xD;
+seguridad del proyecto. Esto ayudará a proporcionar una visión clara de las medidas de seguridad implementadas y su&#xD;
+justificación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_XQr6wPgxEe27nrnM_TBeKQ" name="Revisar y validar el documento" guid="_XQr6wPgxEe27nrnM_TBeKQ">
+    <sectionDescription>Comparte el documento con expertos en seguridad y otros miembros del equipo para obtener comentarios y validación.&#xD;
+Asegúrate de que el documento refleje adecuadamente las medidas de seguridad implementadas y cumpla con los estándares y&#xD;
+regulaciones relevantes.</sectionDescription>
+  </sections>
+  <purpose>El propósito del documento de especificaciones de seguridad es establecer directrices claras y definidas sobre cómo&#xD;
+proteger el sistema de software contra posibles amenazas y riesgos.</purpose>
+  <alternatives>Una alternativa al documento de especificaciones de seguridad podría ser la implementación de pruebas de seguridad&#xD;
+automatizadas o análisis estático de código para identificar posibles vulnerabilidades en el sistema.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

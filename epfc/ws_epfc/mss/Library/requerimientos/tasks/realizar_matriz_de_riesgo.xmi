@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uqV4pPGoNMJzV0IKdHAKzg" name=",_lFjLAPZ_Ee2RbJufFOgbsg" guid="-uqV4pPGoNMJzV0IKdHAKzg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T15:01:03.486-0500" changeDescription="Desarrollo de la matriz de riesgo" version="1.0">
+  <mainDescription>La matriz de riesgo es un artefacto utilizado en proyectos de software para identificar, evaluar y gestionar los riesgos&#xD;
+potenciales que podrían afectar el éxito del proyecto. Consiste en listar los riesgos identificados, evaluar su&#xD;
+probabilidad de ocurrencia y el impacto que tendrían en el proyecto, y luego desarrollar estrategias para mitigarlos. La&#xD;
+matriz de riesgo proporciona una visión clara de los riesgos clave y ayuda a priorizar las acciones para gestionarlos de&#xD;
+manera efectiva.</mainDescription>
+  <keyConsiderations>Identificacion de riesgos, Priorizar riesgos, Desarrollo de estrategias&amp;nbsp;</keyConsiderations>
+  <sections xmi:id="_S2ZoUPhTEe2AQs_6oxtXKg" name="Identificar los riesgos potenciales" guid="_S2ZoUPhTEe2AQs_6oxtXKg">
+    <sectionDescription>Realiza un análisis exhaustivo para identificar los posibles riesgos asociados al módulo de seguridad y login. Estos&#xD;
+riesgos pueden incluir vulnerabilidades de seguridad, accesos no autorizados, robo de información confidencial, ataques&#xD;
+cibernéticos, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_V2II0PhTEe2AQs_6oxtXKg" name="Calificar los riesgos" guid="_V2II0PhTEe2AQs_6oxtXKg">
+    <sectionDescription>Categoriza los riesgos identificados según su gravedad y probabilidad de ocurrencia. Utiliza una escala o sistema de&#xD;
+clasificación que se adapte a las necesidades del proyecto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_c8gVoPhTEe2AQs_6oxtXKg" name="Evaluar los impactos " guid="_c8gVoPhTEe2AQs_6oxtXKg">
+    <sectionDescription>Determina el impacto que cada riesgo identificado podría tener en el proyecto y en la seguridad de la empresa. Considera&#xD;
+aspectos como la pérdida de datos, el tiempo de inactividad del sistema, los costos de recuperación y los daños a la&#xD;
+reputación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_fLxpkPhTEe2AQs_6oxtXKg" name="Asignar niveles de prioridad" guid="_fLxpkPhTEe2AQs_6oxtXKg">
+    <sectionDescription>Establece niveles de prioridad para los riesgos, teniendo en cuenta su gravedad y probabilidad de ocurrencia. Esto te&#xD;
+ayudará a enfocar tus esfuerzos en los riesgos más críticos y tomar medidas preventivas adecuadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_iUFeUPhTEe2AQs_6oxtXKg" name="Desarrollar estrategias de mitigacion" guid="_iUFeUPhTEe2AQs_6oxtXKg">
+    <sectionDescription>&lt;p>&#xD;
+    Para cada riesgo identificado, desarrolla estrategias de mitigación específicas. Estas estrategias pueden incluir&#xD;
+    controles de seguridad, mejoras en el diseño del sistema, capacitación del personal, implementación de medidas de&#xD;
+    monitoreo y auditoría, entre otras.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_mAoBgPhTEe2AQs_6oxtXKg" name="Crear la matriz de riesgo" guid="_mAoBgPhTEe2AQs_6oxtXKg">
+    <sectionDescription>Utiliza una plantilla de matriz de riesgos para representar visualmente los riesgos identificados. En la matriz, puedes&#xD;
+colocar los riesgos en el eje vertical y las estrategias de mitigación en el eje horizontal. Asigna una calificación o&#xD;
+nivel de prioridad a cada riesgo y estrategia de mitigación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_rvaJQPhTEe2AQs_6oxtXKg" name="Revisar y actualizar la matriz de riesgo" guid="_rvaJQPhTEe2AQs_6oxtXKg">
+    <sectionDescription>A medida que avanza el proyecto, revisa y actualiza regularmente la matriz de riesgos. Asegúrate de incorporar nuevos&#xD;
+riesgos que puedan surgir, así como evaluar la efectividad de las estrategias de mitigación implementadas.</sectionDescription>
+  </sections>
+  <purpose>El propósito de la matriz de riesgo es anticiparse a los riesgos potenciales y tomar medidas proactivas para minimizar su&#xD;
+impacto en el proyecto de software.</purpose>
+  <alternatives>Una alternativa a la matriz de riesgo como tarea en un proyecto de software puede ser la técnica análisis de &quot;¿Qué pasaría&#xD;
+si?&quot;. En esta técnica, se exploran diferentes escenarios hipotéticos y se analiza cómo afectarían al proyecto.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

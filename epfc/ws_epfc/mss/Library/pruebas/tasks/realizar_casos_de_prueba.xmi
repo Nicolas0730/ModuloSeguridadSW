@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bDZcnr-ND4j7wYt8yWXgqw" name=",_xfcN0PgJEe27nrnM_TBeKQ" guid="-bDZcnr-ND4j7wYt8yWXgqw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-21T14:01:53.463-0500" changeDescription="Se realizaran los casos de prueba al software" version="1.0">
+  <mainDescription>Realizar casos de pruebas como tarea implica la creación de escenarios de prueba detallados y específicos para evaluar el&#xD;
+software en diferentes condiciones y situaciones. Los casos de prueba describen los pasos a seguir, los datos de entrada&#xD;
+necesarios y los resultados esperados, permitiendo a los testers ejecutar pruebas sistemáticas y reproducibles.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Comprender los requisitos, Identificacion de escenarios y condiciones, Definir datos de entrada, Establecer cobertura&#xD;
+    adecuada, Documentacion adecuada.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_ivloMPhLEe2AQs_6oxtXKg" name="Comprender los requisitos" guid="_ivloMPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Familiarízate con los requisitos del módulo de seguridad y el proceso de login. Comprende cómo se espera que funcione el&#xD;
+sistema y cuáles son los aspectos clave que deben ser probados.</sectionDescription>
+  </sections>
+  <sections xmi:id="_l9ThYPhLEe2AQs_6oxtXKg" name="Identificar escenarios de prueba" guid="_l9ThYPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Basándote en los requisitos, identifica los diferentes escenarios que deben ser cubiertos en los casos de prueba. Esto&#xD;
+incluye situaciones como el inicio de sesión exitoso, intentos de inicio de sesión fallidos, manejo de contraseñas,&#xD;
+recuperación de cuenta, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_q35MEPhLEe2AQs_6oxtXKg" name="Definir casos de prueba" guid="_q35MEPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Crea casos de prueba específicos para cada escenario identificado. Especifica los pasos que se deben seguir, los datos de&#xD;
+entrada requeridos y los resultados esperados. Asegúrate de que los casos de prueba cubran todas las funcionalidades y&#xD;
+condiciones relevantes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_xT3J8PhLEe2AQs_6oxtXKg" name="Diseñar datos de prueba" guid="_xT3J8PhLEe2AQs_6oxtXKg">
+    <sectionDescription>&lt;p>&#xD;
+    Identifica y prepara los datos de prueba necesarios para ejecutar los casos de prueba. Esto puede incluir diferentes&#xD;
+    combinaciones de usuarios, contraseñas válidas e inválidas, mensajes de error esperados, entre otros.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_1Efi8PhLEe2AQs_6oxtXKg" name="Ejecutar los casos de prueba" guid="_1Efi8PhLEe2AQs_6oxtXKg">
+    <sectionDescription>Lleva a cabo la ejecución de los casos de prueba siguiendo los pasos y utilizando los datos de prueba definidos. Registra&#xD;
+los resultados obtenidos, incluyendo cualquier defecto o anomalía encontrada durante la prueba.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4wSfQPhLEe2AQs_6oxtXKg" name="Documentar los casos de prueba" guid="_4wSfQPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Mantén una documentación clara y organizada de los casos de prueba, incluyendo su propósito, pasos detallados, datos de&#xD;
+prueba y resultados esperados. Esto facilitará la revisión, reproducción y seguimiento de las pruebas realizadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_80ZN4PhLEe2AQs_6oxtXKg" name="Verificar la cobertura de prueba" guid="_80ZN4PhLEe2AQs_6oxtXKg">
+    <sectionDescription>Asegúrate de que los casos de prueba cubran de manera adecuada todos los aspectos importantes del módulo de seguridad y el&#xD;
+proceso de login. Verifica que se hayan probado diferentes escenarios, condiciones límite y posibles flujos de error.</sectionDescription>
+  </sections>
+  <sections xmi:id="_CiOTYPhMEe2AQs_6oxtXKg" name="Actualizar y mejorar los casos de prueba" guid="_CiOTYPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Después de realizar cambios en el software o añadir nuevas funcionalidades, ejecuta los casos de prueba relevantes para&#xD;
+asegurarte de que las modificaciones no hayan introducido errores en el módulo de seguridad y el login.</sectionDescription>
+  </sections>
+  <purpose>El propósito de realizar casos de pruebas es identificar y detectar posibles errores, defectos o comportamientos&#xD;
+inesperados en el software.</purpose>
+  <alternatives>Una alrtenativa a realizar casos de prueba puede ser adoptar enfoques de pruebas exploratorias, donde los testers tienen&#xD;
+libertad para probar diferentes aspectos del software sin un guion predefinido.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

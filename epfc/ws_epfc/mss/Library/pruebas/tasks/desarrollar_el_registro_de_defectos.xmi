@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ndg_4ZdsvoCyu9rg044arA" name=",_CyXcQPgMEe27nrnM_TBeKQ" guid="-Ndg_4ZdsvoCyu9rg044arA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-21T14:24:12.887-0500" changeDescription="Se desarrollara el registro de defectos" version="1.0">
+  <mainDescription>La tarea de desarrollar el registro de defectos implica diseñar, implementar y mantener un sistema o herramienta que&#xD;
+permita registrar, clasificar y gestionar los defectos encontrados durante las pruebas del software. El registro de&#xD;
+defectos es una parte fundamental del proceso de aseguramiento de la calidad, ya que permite identificar, documentar y&#xD;
+hacer seguimiento de los problemas que afectan la funcionalidad, usabilidad o rendimiento del software.</mainDescription>
+  <keyConsiderations>Definir formato estandar, Establecer un flujo de trabajo, Trazabilidad, Comunicacion efectiva.</keyConsiderations>
+  <sections xmi:id="_9pL9UPhKEe2AQs_6oxtXKg" name="Identificar los defectos" guid="_9pL9UPhKEe2AQs_6oxtXKg">
+    <sectionDescription>Realiza pruebas exhaustivas del módulo de seguridad y el proceso de login para detectar posibles defectos. Pueden ser&#xD;
+errores de funcionalidad, problemas de rendimiento, vulnerabilidades de seguridad u otros fallos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_B1nhgPhLEe2AQs_6oxtXKg" name="Registrar los defectos" guid="_B1nhgPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Documenta cada defecto encontrado de manera detallada en un sistema de seguimiento de incidencias o en una herramienta&#xD;
+específica para el registro de defectos. Incluye información relevante, como una descripción clara del problema, pasos para&#xD;
+reproducirlo, datos de contexto y cualquier evidencia adicional.</sectionDescription>
+  </sections>
+  <sections xmi:id="_E9nNMPhLEe2AQs_6oxtXKg" name="Clasificar los defectos " guid="_E9nNMPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Categoriza los defectos según su gravedad, prioridad y tipo. La gravedad indica el impacto del defecto en el funcionamiento&#xD;
+del módulo de seguridad y el login, mientras que la prioridad indica la urgencia para corregirlo. Los tipos de defectos&#xD;
+pueden incluir errores funcionales, fallos de seguridad, problemas de usabilidad, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_IDqYIPhLEe2AQs_6oxtXKg" name="Seguimiento y resolucion" guid="_IDqYIPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Realiza un seguimiento continuo del estado de los defectos registrados. Verifica si se han corregido y resuelto de manera&#xD;
+satisfactoria. Comunícate con los desarrolladores y realiza pruebas de validación para confirmar que los defectos se han&#xD;
+solucionado correctamente.</sectionDescription>
+  </sections>
+  <sections xmi:id="_MrQ1YPhLEe2AQs_6oxtXKg" name="Documentar las soluciones" guid="_MrQ1YPhLEe2AQs_6oxtXKg">
+    <sectionDescription>Registra las acciones tomadas para corregir los defectos. Documenta los cambios realizados en el código fuente, las&#xD;
+actualizaciones de la configuración, las mejoras en la seguridad u otros aspectos relevantes. Esto permitirá tener un&#xD;
+registro completo de las correcciones aplicadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_QgYs0PhLEe2AQs_6oxtXKg" name="Evaluar el proceso de registro de defectos " guid="_QgYs0PhLEe2AQs_6oxtXKg">
+    <sectionDescription>Una vez finalizado el proyecto, evalúa el proceso de registro de defectos para identificar oportunidades de mejora.&#xD;
+Considera la eficacia del sistema utilizado, la claridad de la documentación y cualquier otro aspecto que pueda optimizarse&#xD;
+en futuros proyectos.</sectionDescription>
+  </sections>
+  <purpose>El propósito del registro de defectos es proporcionar un mecanismo estructurado para identificar, documentar y gestionar&#xD;
+los defectos encontrados durante las pruebas del software.</purpose>
+  <alternatives>Una alternativa a desarrollar el registro de defectos puede ser utilizar herramientas de seguimiento de problemas&#xD;
+existentes, como sistemas de gestión de incidencias o herramientas de seguimiento de proyectos, adaptándolas para registrar&#xD;
+y gestionar los defectos.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

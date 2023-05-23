@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BcKFQx7FU0JyzbLF8F2k4w" name="new_artifact,_D0XZMPa2Ee2RbJufFOgbsg" guid="-BcKFQx7FU0JyzbLF8F2k4w" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T21:35:22.562-0500" changeDescription="Se empezaran a implementar las funcioes en el Software" version="1.0">
+  <mainDescription>Implementar funciones en un proyecto de software se refiere al proceso de desarrollar y agregar nuevas capacidades,&#xD;
+características o mejoras al software existente. Esto implica traducir los requisitos funcionales en código de programación&#xD;
+que cumpla con las especificaciones y necesidades del proyecto. Durante la implementación de funciones, se escriben y se&#xD;
+integran nuevos módulos, se realizan cambios en el código existente y se lleva a cabo la programación de las&#xD;
+funcionalidades requeridas.</mainDescription>
+  <keyConsiderations>Diseño adecuado, Mantenibilidad, Pruebas exhaustivas.</keyConsiderations>
+  <purpose>El propósito de implementar funciones es enriquecer el software existente y proporcionar nuevas capacidades o&#xD;
+características que satisfagan las necesidades del proyecto.</purpose>
+  <briefOutline>La implementación de funciones es el proceso de desarrollar y agregar nuevas capacidades al software existente.</briefOutline>
+  <representation>La representación seleccionada para implementar funciones en un proyecto de software es el código fuente.</representation>
+  <notation>La notación utilizada en la implementación de funciones es la sintaxis del lenguaje de programación seleccionado.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

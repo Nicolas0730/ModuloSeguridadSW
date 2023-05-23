@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jrPD1by36bsMB07Y4PrGVA" name=",_CjvHMPgIEe27nrnM_TBeKQ" guid="-jrPD1by36bsMB07Y4PrGVA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-21T13:57:45.113-0500" changeDescription="Se realizara un plan de pruebas al software" version="1.0">
+  <mainDescription>Realizar el plan de pruebas como tarea implica la elaboración de un documento que describe de manera detallada cómo se&#xD;
+llevarán a cabo las pruebas en el software. Este documento debe incluir información sobre los objetivos de las pruebas, los&#xD;
+criterios de aceptación, las técnicas y herramientas a utilizar, los recursos necesarios y los plazos establecidos. El plan&#xD;
+de pruebas sirve como guía para el equipo de pruebas y otros interesados, asegurando que las pruebas se realicen de manera&#xD;
+efectiva y eficiente.</mainDescription>
+  <keyConsiderations>Comprender requisitos, Seleccion de tecnicas, Asigancion de recursos y plazos, Documentacion apropiada.</keyConsiderations>
+  <sections xmi:id="_IBDeIPhNEe2AQs_6oxtXKg" name="Definir los objetivos de pruebas " guid="_IBDeIPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Establece los objetivos específicos que deseas lograr con las pruebas, como verificar la funcionalidad del módulo de&#xD;
+seguridad, identificar posibles vulnerabilidades o evaluar el rendimiento del sistema durante el proceso de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_LdZCIPhNEe2AQs_6oxtXKg" name="Identificar los requisitos de pruebas" guid="_LdZCIPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Revisa los requisitos funcionales y no funcionales del módulo de seguridad y determina qué aspectos deben ser probados.&#xD;
+Esto puede incluir la autenticación de usuarios, la gestión de contraseñas, la protección contra ataques de fuerza bruta,&#xD;
+entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_OcuhEPhNEe2AQs_6oxtXKg" name="Diseñar casos de prueba" guid="_OcuhEPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Crea una lista de casos de prueba que cubran los diferentes escenarios y funcionalidades del módulo de seguridad. Define&#xD;
+los pasos específicos que se deben seguir, los datos de prueba necesarios y los resultados esperados para cada caso.</sectionDescription>
+  </sections>
+  <sections xmi:id="_RKLl0PhNEe2AQs_6oxtXKg" name="Establecer criterios de aceptacion " guid="_RKLl0PhNEe2AQs_6oxtXKg">
+    <sectionDescription>Define los criterios que se utilizarán para determinar si un caso de prueba se considera exitoso o no. Estos criterios&#xD;
+pueden incluir resultados esperados, tiempos de respuesta aceptables, cumplimiento de estándares de seguridad, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Xq6H4PhNEe2AQs_6oxtXKg" name="Planificar los recursos necesarios" guid="_Xq6H4PhNEe2AQs_6oxtXKg">
+    <sectionDescription>Determina los recursos que se requieren para llevar a cabo las pruebas, como hardware, software, personal, entornos de&#xD;
+prueba y datos de prueba. Asegúrate de que estos recursos estén disponibles y asignados correctamente.</sectionDescription>
+  </sections>
+  <sections xmi:id="_bFMdcPhNEe2AQs_6oxtXKg" name="Establecer el cronograma de pruebas" guid="_bFMdcPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Define el calendario y la secuencia de las actividades de prueba. Especifica cuándo se llevarán a cabo las pruebas, la&#xD;
+duración estimada de cada fase y las dependencias entre diferentes pruebas o entregables.</sectionDescription>
+  </sections>
+  <sections xmi:id="_eVUxcPhNEe2AQs_6oxtXKg" name="Ejecutar las pruebas" guid="_eVUxcPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Lleva a cabo las pruebas de acuerdo con el plan establecido. Sigue los casos de prueba diseñados y registra los resultados&#xD;
+obtenidos, incluyendo cualquier defecto o problema identificado durante las pruebas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_hlm2cPhNEe2AQs_6oxtXKg" name="Analizar los resultados y generar informes" guid="_hlm2cPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Examina los resultados de las pruebas y analiza los hallazgos obtenidos. Identifica los problemas, deficiencias o áreas de&#xD;
+mejora en el módulo de seguridad. Genera informes claros y concisos que resuman los resultados de las pruebas y&#xD;
+proporcionen recomendaciones para abordar los problemas identificados.</sectionDescription>
+  </sections>
+  <sections xmi:id="_mK0uEPhNEe2AQs_6oxtXKg" name="Realizar ajustes y repetir las pruebas " guid="_mK0uEPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Si se identifican problemas o deficiencias durante las pruebas, realiza los ajustes necesarios en el módulo de seguridad y&#xD;
+repite las pruebas para verificar la efectividad de las correcciones implementadas.</sectionDescription>
+  </sections>
+  <purpose>El propósito de realizar el plan de pruebas como tarea es asegurarse de que se realicen pruebas exhaustivas y efectivas en&#xD;
+el software.</purpose>
+  <alternatives>Una alternativa a realizar el plan de pruebas puede ser Utilizar herramientas de gestión de pruebas que permitan la&#xD;
+creación y seguimiento de casos de prueba, así como la generación automática de informes.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

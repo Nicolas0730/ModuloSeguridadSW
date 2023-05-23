@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QW9OTM3lD7SJBGjp4K22NA" name="diagrama_de_arquitectura_terminado,_9Iz8YPdTEe2RbJufFOgbsg" guid="-QW9OTM3lD7SJBGjp4K22NA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T16:16:42.553-0500" changeDescription="Se planeo el diagrama de la arquitectura del proyecto." version="2.0">
+  <mainDescription>Planear diagrama de arquitectura es una tarea en la que se crea un diagrama que describe la estructura, componentes y&#xD;
+relaciones de un sistema de software. Este artefacto proporciona una representación visual de la arquitectura del sistema,&#xD;
+incluyendo los componentes principales, sus interacciones y las interfaces entre ellos. El diagrama de arquitectura ayuda a&#xD;
+los desarrolladores y otros interesados a comprender cómo funciona el sistema y cómo se organizan sus diferentes partes.</mainDescription>
+  <keyConsiderations>Identificar componentes clave, Definir Interfaces, Considerar requisitos, Revisar y validar.</keyConsiderations>
+  <purpose>El propósito del planear diagrama de arquitectura es definir y comunicar la estructura del sistema de software.</purpose>
+  <briefOutline>El planear diagrama de arquitectura es una actividad clave en el proceso de desarrollo de software, ya que proporciona una&#xD;
+representación visual de cómo se organiza el sistema.</briefOutline>
+  <representation>La representación seleccionada para el diagrama de arquitectura puede ser un diagrama de componentes y conectores, un&#xD;
+diagrama de despliegue o un diagrama de paquetes, dependiendo de la naturaleza y complejidad del sistema.</representation>
+  <notation>UML</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

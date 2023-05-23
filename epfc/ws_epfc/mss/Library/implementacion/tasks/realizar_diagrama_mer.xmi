@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VHFUEGgPIid1tie934NnHg" name=",_NZqbEPdcEe2RbJufFOgbsg" guid="-VHFUEGgPIid1tie934NnHg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:19:46.495-0500" changeDescription="Se realizara el diagrama MER" version="1.0">
+  <mainDescription>En un Diagrama de Entidad-Relación, se utilizan símbolos gráficos para representar las entidades, los atributos y las&#xD;
+relaciones. Las entidades son objetos o conceptos del mundo real que se desea representar en la base de datos. Los&#xD;
+atributos son las características o propiedades de las entidades. Las relaciones describen las asociaciones y dependencias&#xD;
+entre las entidades.</mainDescription>
+  <keyConsiderations>Identificar los requisitos, Identificar las entidades, Definir relaciones, Normalizacion y optimizacion.</keyConsiderations>
+  <sections xmi:id="_AmKa4PhCEe27nrnM_TBeKQ" name="Identificar entidades clave" guid="_AmKa4PhCEe27nrnM_TBeKQ">
+    <sectionDescription>Identifica las entidades principales relacionadas con el módulo de seguridad de login, como &quot;Usuario&quot;, &quot;Credenciales&quot;,&#xD;
+&quot;Roles&quot;, &quot;Permisos&quot;, entre otros. Estas entidades representarán los elementos fundamentales del sistema.</sectionDescription>
+  </sections>
+  <sections xmi:id="_EcsAgPhCEe27nrnM_TBeKQ" name="Definir atributos" guid="_EcsAgPhCEe27nrnM_TBeKQ">
+    <sectionDescription>&lt;p>&#xD;
+    Para cada entidad identificada, define los atributos que describen las características o propiedades de cada entidad.&#xD;
+    Por ejemplo, para la entidad &quot;Usuario&quot;, los atributos podrían ser &quot;nombre&quot;, &quot;apellido&quot;, &quot;correo electrónico&quot; y&#xD;
+    &quot;contraseña&quot;.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Jb0M8PhCEe27nrnM_TBeKQ" name="Establecer relaciones" guid="_Jb0M8PhCEe27nrnM_TBeKQ">
+    <sectionDescription>Determina las relaciones entre las entidades. Por ejemplo, la entidad &quot;Usuario&quot; podría tener una relación &quot;tiene&quot; con la&#xD;
+entidad &quot;Credenciales&quot;, y una relación &quot;pertenece a&quot; con la entidad &quot;Roles&quot;. Estas relaciones representan cómo se&#xD;
+relacionan las entidades entre sí.</sectionDescription>
+  </sections>
+  <sections xmi:id="_NorO8PhCEe27nrnM_TBeKQ" name="Especificar cardinalidades" guid="_NorO8PhCEe27nrnM_TBeKQ">
+    <sectionDescription>Especifica las cardinalidades de las relaciones para indicar cuántos elementos de una entidad pueden estar relacionados con&#xD;
+los elementos de otra entidad. Por ejemplo, una cardinalidad de &quot;uno a uno&quot; o &quot;uno a muchos&quot;.</sectionDescription>
+  </sections>
+  <sections xmi:id="_RGpxsPhCEe27nrnM_TBeKQ" name="Agregar restricciones y reglas de negocio" guid="_RGpxsPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Identifica y agrega restricciones y reglas de negocio relevantes para el módulo de seguridad de login. Por ejemplo, reglas&#xD;
+de validación de datos, restricciones de integridad referencial y reglas de acceso.</sectionDescription>
+  </sections>
+  <sections xmi:id="_U7_rkPhCEe27nrnM_TBeKQ" name="Refinar el diagrama" guid="_U7_rkPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Revisa y ajusta el diagrama MER para asegurarte de que refleje con precisión la estructura y las relaciones de datos del&#xD;
+módulo de seguridad de login. Asegúrate de que sea claro y comprensible para los demás miembros del equipo.</sectionDescription>
+  </sections>
+  <purpose>El propósito de realizar un Diagrama de Entidad-Relación (MER) en un proyecto de software es diseñar y representar la&#xD;
+estructura lógica de una base de datos.</purpose>
+  <alternatives>Una alternativa a realizar un Diagrama de Entidad-Relación es utilizar herramientas de modelado de bases de datos que&#xD;
+proporcionen una interfaz gráfica intuitiva para diseñar y generar automáticamente el diagrama.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

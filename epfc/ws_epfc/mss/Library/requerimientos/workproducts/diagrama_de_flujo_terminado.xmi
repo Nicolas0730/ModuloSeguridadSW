@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YVPZGXhX8PbXPxfO_0qcSQ" name="new_artifact,_9cw_wPZ6Ee2RbJufFOgbsg" guid="-YVPZGXhX8PbXPxfO_0qcSQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T14:28:33.912-0500" changeDescription="Presentacion final de los procesos a realizar" version="1.0">
+  <mainDescription>El propósito principal de un diagrama de flujo es brindar una representación visual clara y comprensible del proceso o&#xD;
+algoritmo, lo que facilita la comprensión por parte de los miembros del equipo de desarrollo y otras partes interesadas.&#xD;
+Permite identificar de manera fácil y rápida la secuencia de pasos, las decisiones tomadas y el flujo general del proceso.</mainDescription>
+  <keyConsiderations>Claridad&amp;nbsp;y simplicidad, Consistencia y convenciones, Documentacion adecuada, Validacion y verificacion, Mantenimiento&#xD;
+y acualizacion</keyConsiderations>
+  <purpose>El proposito de este artefacto es darnos una version final de los pasos</purpose>
+  <briefOutline>Diagrama de flujo que representa el proceso de inicio de sesión en un sistema de software. Muestra las etapas y decisiones&#xD;
+clave para autenticar y autorizar a los usuarios</briefOutline>
+  <representation>Diagrama de flujo en formato de imagen (PNG, JPEG)</representation>
+  <notation>Notación de diagrama de flujo estándar, utilizando símbolos y convenciones aceptadas ampliamente, como los símbolos de&#xD;
+inicio, acción/proceso, decisión y conexión con flechas.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

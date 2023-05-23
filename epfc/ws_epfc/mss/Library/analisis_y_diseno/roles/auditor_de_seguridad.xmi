@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2TWho48zHTIRv27MEMa0EA" name="new_role,_YF9q0PgOEe27nrnM_TBeKQ" guid="-2TWho48zHTIRv27MEMa0EA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-21T14:37:50.931-0500" changeDescription="Se crea el rol de auditor de seguridad" version="1.0">
+  <mainDescription>El Auditor de Seguridad es responsable de identificar y evaluar las vulnerabilidades y riesgos de seguridad en un proyecto&#xD;
+de software, así como de verificar que se cumplan los estándares y políticas de seguridad establecidos. Este rol se encarga&#xD;
+de realizar auditorías de seguridad, analizar los controles de seguridad implementados, proponer mejoras y asegurar que se&#xD;
+sigan las mejores prácticas de seguridad.</mainDescription>
+  <keyConsiderations>Conocimiento profundo en practicas de seguridad, Capacidad para evaluar y analizar riesgos, Habilidad para realizar&#xD;
+auditorias de seguridad, Comunicacion efectiva.</keyConsiderations>
+  <skills>Conocimiento en ciberseguridad, Experiencia en evaluar riesgos, Conocimientos tecnico en sistemas y redes, Analisis y&#xD;
+resolucion de problemas.</skills>
+  <assignmentApproaches>Puede tener dos tipos de asignacion, puede ser interna como parte del equipo de desarrollo del proyecto, o puede ser&#xD;
+interna como una contratacion aparte para que lleve acabo las evaluaciones y auditorias necesarias.</assignmentApproaches>
+  <synonyms>Analista de Seguridad, Especialista en Auditoría de Seguridad, Experto en Seguridad de la Información, Auditor de Sistemas</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

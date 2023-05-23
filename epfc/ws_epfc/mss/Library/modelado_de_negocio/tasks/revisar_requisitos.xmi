@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0iQpIy3Eg_0UL15Nq5TtgA" name=",_5fMYYPX1Ee2sYpjh_H8PKQ" guid="-0iQpIy3Eg_0UL15Nq5TtgA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T22:36:13.726-0500">
+  <mainDescription>La revisión de requisitos en un proyecto de software es un proceso crucial que tiene como objetivo evaluar y analizar&#xD;
+detalladamente los requisitos establecidos para el sistema a desarrollar. Consiste en examinar y validar los requisitos&#xD;
+para asegurar su calidad, precisión y adecuación antes de proceder con el diseño y la implementación del software.&lt;br />&#xD;
+Durante la revisión de requisitos, se lleva a cabo un análisis exhaustivo de cada requisito para identificar posibles&#xD;
+errores, inconsistencias, ambigüedades o falta de claridad. Se verifican aspectos como la coherencia entre los requisitos,&#xD;
+la alineación con los objetivos del proyecto y las necesidades del negocio, y la factibilidad técnica.</mainDescription>
+  <keyConsiderations>Claridad y comprension, Consistencia y coherencia, Alineacion con las necesidades del negocio, Factibilidad tecnica,&#xD;
+Verificabilidad</keyConsiderations>
+  <sections xmi:id="_APTV4PhJEe2AQs_6oxtXKg" name="Obtener los requisitos" guid="_APTV4PhJEe2AQs_6oxtXKg">
+    <sectionDescription>Solicita y recopila todos los documentos y especificaciones que contengan los requisitos del proyecto. Estos pueden incluir&#xD;
+documentos de alcance, casos de uso, historias de usuario, diagramas de flujo, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_DIaRAPhJEe2AQs_6oxtXKg" name="Analizar los requisitos" guid="_DIaRAPhJEe2AQs_6oxtXKg">
+    <sectionDescription>Examina detenidamente cada requisito para comprender su naturaleza, su importancia y su relación con el módulo de seguridad&#xD;
+y el login. Identifica los requisitos funcionales (qué debe hacer el sistema) y los requisitos no funcionales (atributos de&#xD;
+calidad, restricciones técnicas, etc.).</sectionDescription>
+  </sections>
+  <sections xmi:id="_LKxvgPhKEe2AQs_6oxtXKg" name="Validar los requisitos" guid="_LKxvgPhKEe2AQs_6oxtXKg">
+    <sectionDescription>Verifica la coherencia, completitud y consistencia de los requisitos. Asegúrate de que sean comprensibles y medibles,&#xD;
+evitando ambigüedades o contradicciones. Si es necesario, realiza consultas con los stakeholders para aclarar cualquier&#xD;
+duda.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Q8czMPhKEe2AQs_6oxtXKg" name="Priorizar los requisitos" guid="_Q8czMPhKEe2AQs_6oxtXKg">
+    <sectionDescription>Clasifica los requisitos según su importancia y urgencia. Determina cuáles son los más críticos para el módulo de seguridad&#xD;
+y el login, y cuáles pueden abordarse en etapas posteriores.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UvJBsPhKEe2AQs_6oxtXKg" name="Identificar riesgos y desafios" guid="_UvJBsPhKEe2AQs_6oxtXKg">
+    <sectionDescription>Evalúa los posibles riesgos y desafíos asociados con los requisitos de seguridad y login. Identifica las áreas que podrían&#xD;
+presentar dificultades o implicar un mayor esfuerzo en términos de implementación, rendimiento o seguridad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Y5AaEPhKEe2AQs_6oxtXKg" name="Realizar recomendaciones" guid="_Y5AaEPhKEe2AQs_6oxtXKg">
+    <sectionDescription>Basándote en tu análisis, realiza recomendaciones para mejorar los requisitos en relación con la seguridad y el login.&#xD;
+Puedes sugerir cambios, adiciones o aclaraciones que fortalezcan la robustez y la eficacia del módulo de seguridad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_b8bu0PhKEe2AQs_6oxtXKg" name="Seguimiento y revision" guid="_b8bu0PhKEe2AQs_6oxtXKg">
+    <sectionDescription>Asegúrate de que se realicen los cambios y mejoras acordados en los requisitos de seguridad y login. Mantén un seguimiento&#xD;
+continuo para verificar que los requisitos se implementen adecuadamente y se cumplan los objetivos de seguridad&#xD;
+establecidos.</sectionDescription>
+  </sections>
+  <purpose>El propósito de revisar los requisitos en un proyecto de software es asegurar su calidad, precisión y adecuación antes de&#xD;
+avanzar en el desarrollo del software</purpose>
+  <alternatives>Listas de verificacion, Prototipado rápido, Revision automatizada</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

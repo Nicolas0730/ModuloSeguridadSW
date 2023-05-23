@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_H6hM0fXmEe2sYpjh_H8PKQ" guid="_H6hM0fXmEe2sYpjh_H8PKQ">
+    <resourceDescriptors xmi:id="_8eRWYPaqEe2RbJufFOgbsg" id="-ULOnnKi4GtML1VRicFrhAw" uri="tasks/desarrollar_codigo.xmi"/>
+    <resourceDescriptors xmi:id="_b9CN4PasEe2RbJufFOgbsg" id="-qpXpqWMekHjtfyX4767Stg" uri="tasks/realizar_funciones.xmi"/>
+    <resourceDescriptors xmi:id="_NbUbcvatEe2RbJufFOgbsg" id="-_8PRO85DvQ_jHc36SFhQdw" uri="tasks/realizar_metodos.xmi"/>
+    <resourceDescriptors xmi:id="_Q7-CQfauEe2RbJufFOgbsg" id="-z5gQf7dJ-H_aMn9EKXWgCA" uri="tasks/realizar_informe_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_nBnDsvauEe2RbJufFOgbsg" id="-c8tlyt2scgXRpMUnuDP-_A" uri="roles/desarrollador_lider.xmi"/>
+    <resourceDescriptors xmi:id="_0Ta7MPayEe2RbJufFOgbsg" id="-v0Eo2vOeHxWaWhZLQemUIQ" uri="workproducts/desarrollo_en_el_lenguaje_establecido_java.xmi"/>
+    <resourceDescriptors xmi:id="_eAzbcva3Ee2RbJufFOgbsg" id="-BcKFQx7FU0JyzbLF8F2k4w" uri="workproducts/implementar_funciones.xmi"/>
+    <resourceDescriptors xmi:id="_iK3oIPa3Ee2RbJufFOgbsg" id="-J3NKNuZd3q0R1s_f0sTfGw" uri="workproducts/funciones_implementadas.xmi"/>
+    <resourceDescriptors xmi:id="_F0OSgfdCEe2RbJufFOgbsg" id="-yefAjAhArVwF-z2mx_FaXg" uri="workproducts/implementar_metodos.xmi"/>
+    <resourceDescriptors xmi:id="_NjTeEPdCEe2RbJufFOgbsg" id="-IFccbbwJbpgTTqOwz5sIiA" uri="workproducts/metodos_implementados.xmi"/>
+    <resourceDescriptors xmi:id="_bL2akPdGEe2RbJufFOgbsg" id="-zTAX3ogy3bFf6ctgOmuDyw" uri="workproducts/realizar_informe_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_eBw3wPdGEe2RbJufFOgbsg" id="-dm5XPh5Gh2y3S9W-PekBPQ" uri="workproducts/informe_de_pruebas_realizado.xmi"/>
+    <resourceDescriptors xmi:id="_ayFQ4fdgEe2RbJufFOgbsg" id="-MDqcDlMrAl0A8QqSjI8z3w" uri="workproducts/modelado_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_jgvDEvdgEe2RbJufFOgbsg" id="-25N1jw7pMnBatTe3hTFWUA" uri="workproducts/modelado_de_datos_finalizado.xmi"/>
+    <resourceDescriptors xmi:id="_bwjWMPdeEe2RbJufFOgbsg" id="-tND6d3MeKRrNcnH01iRBEA" uri="tasks/realizar_procedimiento_de_respaldo_y_recuperacion.xmi"/>
+    <resourceDescriptors xmi:id="_7KK54PddEe2RbJufFOgbsg" id="-8V2hF_BCCZSHvzVhYl30sA" uri="tasks/describir_las_politicas_de_seguridad_de_base_de_datos.xmi"/>
+    <resourceDescriptors xmi:id="_ZFYl4PddEe2RbJufFOgbsg" id="-dwbJZcxUNObPIbXdKOY-pw" uri="tasks/realizar_modelado_de_datos_fisicos.xmi"/>
+    <resourceDescriptors xmi:id="_dfTPoPdhEe2RbJufFOgbsg" id="-JNqECs7dKIt8MvuszocCBQ" uri="workproducts/documento.xmi"/>
+    <resourceDescriptors xmi:id="_7YZ4QPdfEe2RbJufFOgbsg" id="-qFsJQOWSvuNg0Yqo0_30kg" uri="workproducts/diagrama_mer_finalizado.xmi"/>
+    <resourceDescriptors xmi:id="_ceQ7UfdfEe2RbJufFOgbsg" id="-Smyv9kT1504skj4kVPEmlQ" uri="workproducts/diagrama.xmi"/>
+    <resourceDescriptors xmi:id="_x3IdsfdcEe2RbJufFOgbsg" id="-VHFUEGgPIid1tie934NnHg" uri="tasks/realizar_diagrama_mer.xmi"/>
+    <resourceDescriptors xmi:id="_Mw1ggvdcEe2RbJufFOgbsg" id="-1Qh9TVnd-BlpvrRk3_kZQA" uri="roles/administrador_bd.xmi"/>
+    <resourceDescriptors xmi:id="_gXjPIPdhEe2RbJufFOgbsg" id="-pYOw7tTBIU4Cr_zOSSDCLg" uri="workproducts/documento_finalizado.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_H6hMwPXmEe2sYpjh_H8PKQ" name="implementacion" guid="_H6hMwPXmEe2sYpjh_H8PKQ" presentationName="implementacion" briefDescription="Este metodo se centra en convertir el diseño y los requisitos del software en código ejecutable. Y realizar las tareas necesarias para que el software funcione correctamente." authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T20:33:37.141-0500" version="1.0">
+    <methodElementProperty xmi:id="_eGVusPXmEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMwfXmEe2sYpjh_H8PKQ" name="Content" guid="_H6hMwfXmEe2sYpjh_H8PKQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMwvXmEe2sYpjh_H8PKQ" name="Categories" guid="_H6hMwvXmEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMw_XmEe2sYpjh_H8PKQ" name="Domains" guid="_H6hMw_XmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMxPXmEe2sYpjh_H8PKQ" name="Disciplines" guid="_H6hMxPXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMxfXmEe2sYpjh_H8PKQ" name="RoleSets" guid="_H6hMxfXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMxvXmEe2sYpjh_H8PKQ" name="WP Types" guid="_H6hMxvXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMx_XmEe2sYpjh_H8PKQ" name="Tools" guid="_H6hMx_XmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMyPXmEe2sYpjh_H8PKQ" name="StandardCategories" guid="_H6hMyPXmEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMyfXmEe2sYpjh_H8PKQ" name="CustomCategories" guid="_H6hMyfXmEe2sYpjh_H8PKQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMyvXmEe2sYpjh_H8PKQ" name="Hidden" guid="_H6hMyvXmEe2sYpjh_H8PKQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_H6hMy_XmEe2sYpjh_H8PKQ" name="Custom Categories" guid="_H6hMy_XmEe2sYpjh_H8PKQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H6hMzPXmEe2sYpjh_H8PKQ" name="CoreContent" guid="_H6hMzPXmEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SfJ60PaDEe2RbJufFOgbsg" name="desarrollo_del_proyecto" guid="_SfJ60PaDEe2RbJufFOgbsg" presentationName="Desarrollo del proyecto" briefDescription="En este metodo se centra en el desarrollo del codigo, funciones y metodos necesarios para el proyecto">
+          <methodElementProperty xmi:id="_SfJ60faDEe2RbJufFOgbsg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_rf93oPapEe2RbJufFOgbsg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_geKhoPaqEe2RbJufFOgbsg" name="desarrollar_codigo" guid="_geKhoPaqEe2RbJufFOgbsg" presentationName="Desarrollar codigo" briefDescription="El desarrollo del código implica la implementación de las funcionalidades del software mediante la escritura de código de programación." performedBy="_cu4PoPauEe2RbJufFOgbsg" output="_RAENMPawEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_8eQIQPaqEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ULOnnKi4GtML1VRicFrhAw" href="uma://-ULOnnKi4GtML1VRicFrhAw#-ULOnnKi4GtML1VRicFrhAw"/>
+            <mandatoryInput href="uma://_oZiSQPXlEe2sYpjh_H8PKQ#_lmJokPZ9Ee2RbJufFOgbsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_t3NJ4ParEe2RbJufFOgbsg" name="realizar_funciones" guid="_t3NJ4ParEe2RbJufFOgbsg" presentationName="Realizar funciones" briefDescription="Las funciones en un proyecto de software son bloques de código reutilizables que realizan tareas específicas." performedBy="_cu4PoPauEe2RbJufFOgbsg" mandatoryInput="_D0XZMPa2Ee2RbJufFOgbsg" output="_fXGgAPa3Ee2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_b9A_wPasEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-qpXpqWMekHjtfyX4767Stg" href="uma://-qpXpqWMekHjtfyX4767Stg#-qpXpqWMekHjtfyX4767Stg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cdf2oPasEe2RbJufFOgbsg" name="realizar_metodos" guid="_cdf2oPasEe2RbJufFOgbsg" presentationName="Realizar metodos" briefDescription="Los métodos en un proyecto de software son funciones asociadas a objetos que realizan operaciones específicas." performedBy="_cu4PoPauEe2RbJufFOgbsg" mandatoryInput="_dIgsEPa4Ee2RbJufFOgbsg" output="_MErj8PdCEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_NbUbcPatEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-_8PRO85DvQ_jHc36SFhQdw" href="uma://-_8PRO85DvQ_jHc36SFhQdw#-_8PRO85DvQ_jHc36SFhQdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N4Ny0PatEe2RbJufFOgbsg" name="realizar_informe_de_pruebas" guid="_N4Ny0PatEe2RbJufFOgbsg" presentationName="Realizar informe de pruebas" briefDescription="El informe de pruebas en un proyecto de software documenta los resultados y hallazgos de las pruebas realizadas." performedBy="_cu4PoPauEe2RbJufFOgbsg" mandatoryInput="_pXjBEPdCEe2RbJufFOgbsg" output="_cgCmUPdGEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_Q77mAPauEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-z5gQf7dJ-H_aMn9EKXWgCA" href="uma://-z5gQf7dJ-H_aMn9EKXWgCA#-z5gQf7dJ-H_aMn9EKXWgCA"/>
+            <additionallyPerformedBy href="uma://_S2CfIPXmEe2sYpjh_H8PKQ#_AeobMPawEe2RbJufFOgbsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_cu4PoPauEe2RbJufFOgbsg" name="desarrollador_lider" guid="_cu4PoPauEe2RbJufFOgbsg" presentationName="Desarrollador lider" briefDescription="El desarrollador líder es el encargado de guiar y coordinar el desarrollo del software en un proyecto." responsibleFor="_fXGgAPa3Ee2RbJufFOgbsg _RAENMPawEe2RbJufFOgbsg _MErj8PdCEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_nBnDsPauEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-c8tlyt2scgXRpMUnuDP-_A" href="uma://-c8tlyt2scgXRpMUnuDP-_A#-c8tlyt2scgXRpMUnuDP-_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RAENMPawEe2RbJufFOgbsg" name="desarrollo_en_el_lenguaje_establecido_java" guid="_RAENMPawEe2RbJufFOgbsg" presentationName="Desarrollo en el lenguaje establecido (JAVA)" briefDescription="El desarrollo del proyecto en Java implica la creación y programación de software utilizando el lenguaje de programación Java.">
+            <methodElementProperty xmi:id="_Vji_cPawEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-v0Eo2vOeHxWaWhZLQemUIQ" href="uma://-v0Eo2vOeHxWaWhZLQemUIQ#-v0Eo2vOeHxWaWhZLQemUIQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_D0XZMPa2Ee2RbJufFOgbsg" name="implementar_funciones" guid="_D0XZMPa2Ee2RbJufFOgbsg" presentationName="Implementar funciones" briefDescription="Implementar funciones implica desarrollar y agregar nuevas capacidades o características al software existente.">
+            <methodElementProperty xmi:id="_eAzbcPa3Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-BcKFQx7FU0JyzbLF8F2k4w" href="uma://-BcKFQx7FU0JyzbLF8F2k4w#-BcKFQx7FU0JyzbLF8F2k4w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fXGgAPa3Ee2RbJufFOgbsg" name="funciones_implementadas" guid="_fXGgAPa3Ee2RbJufFOgbsg" presentationName="Funciones implementadas" briefDescription="Implementar funciones implica desarrollar y agregar nuevas capacidades o características al software existente.">
+            <methodElementProperty xmi:id="_iK0k0Pa3Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-J3NKNuZd3q0R1s_f0sTfGw" href="uma://-J3NKNuZd3q0R1s_f0sTfGw#-J3NKNuZd3q0R1s_f0sTfGw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dIgsEPa4Ee2RbJufFOgbsg" name="implementar_metodos" guid="_dIgsEPa4Ee2RbJufFOgbsg" presentationName="Implementar metodos" briefDescription="Implementar métodos implica escribir y añadir funciones específicas en el código de un proyecto de software.">
+            <methodElementProperty xmi:id="_geVYYPa4Ee2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-yefAjAhArVwF-z2mx_FaXg" href="uma://-yefAjAhArVwF-z2mx_FaXg#-yefAjAhArVwF-z2mx_FaXg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MErj8PdCEe2RbJufFOgbsg" name="metodos_implementados" guid="_MErj8PdCEe2RbJufFOgbsg" presentationName="Metodos implementados" briefDescription="Implementar métodos implica escribir y añadir funciones específicas en el código de un proyecto de software.">
+            <methodElementProperty xmi:id="_NjMwYPdCEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-IFccbbwJbpgTTqOwz5sIiA" href="uma://-IFccbbwJbpgTTqOwz5sIiA#-IFccbbwJbpgTTqOwz5sIiA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pXjBEPdCEe2RbJufFOgbsg" name="realizar_informe_de_pruebas" guid="_pXjBEPdCEe2RbJufFOgbsg" presentationName="Realizar informe de pruebas" briefDescription="Realizar un informe de pruebas implica documentar los resultados, hallazgos y conclusiones de las pruebas realizadas en un proyecto de software.">
+            <methodElementProperty xmi:id="_bLt3sPdGEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-zTAX3ogy3bFf6ctgOmuDyw" href="uma://-zTAX3ogy3bFf6ctgOmuDyw#-zTAX3ogy3bFf6ctgOmuDyw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_cgCmUPdGEe2RbJufFOgbsg" name="informe_de_pruebas_realizado" guid="_cgCmUPdGEe2RbJufFOgbsg" presentationName="Informe de pruebas realizado" briefDescription="Realizar un informe de pruebas implica documentar los resultados, hallazgos y conclusiones de las pruebas realizadas en un proyecto de software.">
+            <methodElementProperty xmi:id="_eBnGwPdGEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-dm5XPh5Gh2y3S9W-PekBPQ" href="uma://-dm5XPh5Gh2y3S9W-PekBPQ#-dm5XPh5Gh2y3S9W-PekBPQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PFDbUPdbEe2RbJufFOgbsg" name="gestion_de_base_de_datos" guid="_PFDbUPdbEe2RbJufFOgbsg" presentationName="Gestion de base de datos" briefDescription=" El método de Gestión de Base de Datos se encarga de realizar todas las tareas relacionadas con el diseño, implementación y administración de la base de datos de un proyecto de software.">
+          <methodElementProperty xmi:id="_PFDbUfdbEe2RbJufFOgbsg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_VRE4sPdbEe2RbJufFOgbsg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_WqCPsPdbEe2RbJufFOgbsg" name="administrador_bd" guid="_WqCPsPdbEe2RbJufFOgbsg" presentationName="Administrador BD" briefDescription="El Administrador de Base de Datos es un rol clave en proyectos de software que se enfoca en la gestión y administración de las bases de datos utilizadas por una aplicación o sistema." responsibleFor="_ec1g0PdfEe2RbJufFOgbsg _fvJLUPdhEe2RbJufFOgbsg _h5jC0PdgEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_Mw1ggPdcEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-1Qh9TVnd-BlpvrRk3_kZQA" href="uma://-1Qh9TVnd-BlpvrRk3_kZQA#-1Qh9TVnd-BlpvrRk3_kZQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NZqbEPdcEe2RbJufFOgbsg" name="realizar_diagrama_mer" guid="_NZqbEPdcEe2RbJufFOgbsg" presentationName="Realizar diagrama MER" briefDescription="Realizar un Diagrama de Entidad-Relación (MER) es una tarea común en proyectos de software que involucran bases de datos. El propósito de esta tarea es diseñar y representar la estructura lógica de una base de datos mediante la identificación de las entidades, sus atributos y las relaciones entre ellas." performedBy="_WqCPsPdbEe2RbJufFOgbsg" mandatoryInput="_lABWcPdeEe2RbJufFOgbsg" output="_ec1g0PdfEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_x3EzUPdcEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-VHFUEGgPIid1tie934NnHg" href="uma://-VHFUEGgPIid1tie934NnHg#-VHFUEGgPIid1tie934NnHg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_320vQPdcEe2RbJufFOgbsg" name="realizar_modelado_de_datos_fisicos" guid="_320vQPdcEe2RbJufFOgbsg" presentationName="Realizar modelado de datos fisicos" briefDescription="La tarea de realizar el modelo de datos físicos implica definir la estructura física de una base de datos." performedBy="_WqCPsPdbEe2RbJufFOgbsg" mandatoryInput="_70YCkPdfEe2RbJufFOgbsg" output="_h5jC0PdgEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_ZFXXwPddEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-dwbJZcxUNObPIbXdKOY-pw" href="uma://-dwbJZcxUNObPIbXdKOY-pw#-dwbJZcxUNObPIbXdKOY-pw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZkRhUPddEe2RbJufFOgbsg" name="describir_las_politicas_de_seguridad_de_base_de_datos" guid="_ZkRhUPddEe2RbJufFOgbsg" presentationName="Describir las politicas de seguridad de base de datos" briefDescription="La tarea de describir las políticas de seguridad de base de datos implica definir y documentar las reglas y medidas de seguridad que se aplicarán a los datos almacenados en una base de datos." performedBy="_WqCPsPdbEe2RbJufFOgbsg" mandatoryInput="_ua98APdgEe2RbJufFOgbsg" output="_fvJLUPdhEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_7KJrwPddEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-8V2hF_BCCZSHvzVhYl30sA" href="uma://-8V2hF_BCCZSHvzVhYl30sA#-8V2hF_BCCZSHvzVhYl30sA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7kW7gPddEe2RbJufFOgbsg" name="realizar_procedimiento_de_respaldo_y_recuperacion" guid="_7kW7gPddEe2RbJufFOgbsg" presentationName="Realizar procedimiento de respaldo y recuperación" briefDescription="Realizar el procedimiento de respaldo y recuperación implica establecer un plan y protocolo para respaldar y recuperar los datos de un sistema de base de datos en caso de fallos o pérdidas de información." performedBy="_WqCPsPdbEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_bwhhAPdeEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-tND6d3MeKRrNcnH01iRBEA" href="uma://-tND6d3MeKRrNcnH01iRBEA#-tND6d3MeKRrNcnH01iRBEA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lABWcPdeEe2RbJufFOgbsg" name="diagrama" guid="_lABWcPdeEe2RbJufFOgbsg" presentationName="Diagrama" briefDescription="Un diagrama en un proyecto de software es una representación visual que muestra la estructura, la lógica o el flujo de información de un sistema o componente de software.">
+            <methodElementProperty xmi:id="_p9QsgPdeEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Smyv9kT1504skj4kVPEmlQ" href="uma://-Smyv9kT1504skj4kVPEmlQ#-Smyv9kT1504skj4kVPEmlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ec1g0PdfEe2RbJufFOgbsg" name="diagrama_mer_finalizado" guid="_ec1g0PdfEe2RbJufFOgbsg" presentationName="Diagrama mer finalizado" briefDescription="Un diagrama MER en un proyecto de software es una representación visual que muestra las entidades, las relaciones y los atributos de una base de datos.">
+            <methodElementProperty xmi:id="_7YSjgPdfEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-qFsJQOWSvuNg0Yqo0_30kg" href="uma://-qFsJQOWSvuNg0Yqo0_30kg#-qFsJQOWSvuNg0Yqo0_30kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_70YCkPdfEe2RbJufFOgbsg" name="modelado_de_datos" guid="_70YCkPdfEe2RbJufFOgbsg" presentationName="Modelado de datos" briefDescription="El modelado de datos es un artefacto que representa la estructura y las relaciones de los datos utilizados por el sistema.">
+            <methodElementProperty xmi:id="_ayCNkPdgEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-MDqcDlMrAl0A8QqSjI8z3w" href="uma://-MDqcDlMrAl0A8QqSjI8z3w#-MDqcDlMrAl0A8QqSjI8z3w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_h5jC0PdgEe2RbJufFOgbsg" name="modelado_de_datos_finalizado" guid="_h5jC0PdgEe2RbJufFOgbsg" presentationName="Modelado de datos finalizado" briefDescription="El modelado de datos es un artefacto que representa la estructura y las relaciones de los datos utilizados por el sistema.">
+            <methodElementProperty xmi:id="_jgvDEPdgEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-25N1jw7pMnBatTe3hTFWUA" href="uma://-25N1jw7pMnBatTe3hTFWUA#-25N1jw7pMnBatTe3hTFWUA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ua98APdgEe2RbJufFOgbsg" name="documento" guid="_ua98APdgEe2RbJufFOgbsg" presentationName="Documento" briefDescription="El documento es un artefacto contiene información detallada y documentación relevante sobre el sistema.">
+            <methodElementProperty xmi:id="_dfNJAPdhEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-JNqECs7dKIt8MvuszocCBQ" href="uma://-JNqECs7dKIt8MvuszocCBQ#-JNqECs7dKIt8MvuszocCBQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fvJLUPdhEe2RbJufFOgbsg" name="documento_finalizado" guid="_fvJLUPdhEe2RbJufFOgbsg" presentationName="Documento finalizado" briefDescription="El documento es un artefacto contiene información detallada y documentación relevante sobre el sistema.">
+            <methodElementProperty xmi:id="_gXeWoPdhEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-pYOw7tTBIU4Cr_zOSSDCLg" href="uma://-pYOw7tTBIU4Cr_zOSSDCLg#-pYOw7tTBIU4Cr_zOSSDCLg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_H6hMzfXmEe2sYpjh_H8PKQ" name="CapabilityPatterns" guid="_H6hMzfXmEe2sYpjh_H8PKQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_H6hMzvXmEe2sYpjh_H8PKQ" name="DeliveryProcesses" guid="_H6hMzvXmEe2sYpjh_H8PKQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_H6hMz_XmEe2sYpjh_H8PKQ" name="ProcessContributions" guid="_H6hMz_XmEe2sYpjh_H8PKQ"/>
+    <bases href="uma://_S2CfIPXmEe2sYpjh_H8PKQ#_S2CfIPXmEe2sYpjh_H8PKQ"/>
+    <bases href="uma://_RdIA4PXlEe2sYpjh_H8PKQ#_RdIA4PXlEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

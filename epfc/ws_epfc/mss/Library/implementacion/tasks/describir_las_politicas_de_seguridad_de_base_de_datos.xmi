@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8V2hF_BCCZSHvzVhYl30sA" name=",_ZkRhUPddEe2RbJufFOgbsg" guid="-8V2hF_BCCZSHvzVhYl30sA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:28:40.785-0500" changeDescription="Se describiran las politicas para la seguridad de la base de datos" version="1.0">
+  <mainDescription>Describir las políticas de seguridad de base de datos es una tarea que consiste en establecer y documentar las reglas,&#xD;
+procedimientos y medidas de seguridad que se aplicarán a los datos almacenados en una base de datos. Esto incluye definir&#xD;
+los niveles de acceso, los privilegios de los usuarios, las políticas de contraseñas, las restricciones de acceso y otras&#xD;
+medidas de seguridad que garantizarán la confidencialidad, integridad y disponibilidad de los datos.</mainDescription>
+  <keyConsiderations>Identificacion de riesgos, Definicion de roles y beneficios, Autenticacion y autorizacion, Monitoreo y auditoria</keyConsiderations>
+  <sections xmi:id="_TQiooPg9Ee27nrnM_TBeKQ" name="Comprender requisitos de seguridad" guid="_TQiooPg9Ee27nrnM_TBeKQ">
+    <sectionDescription>Analiza los requisitos específicos de seguridad relacionados con la base de datos en el contexto del módulo de seguridad de&#xD;
+login. Esto puede incluir la confidencialidad de los datos, la integridad de la información, la disponibilidad del sistema&#xD;
+y el cumplimiento de las regulaciones de seguridad pertinentes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_WqQWcPg9Ee27nrnM_TBeKQ" name="Identificar areas criticas" guid="_WqQWcPg9Ee27nrnM_TBeKQ">
+    <sectionDescription>Identifica las áreas críticas de seguridad de la base de datos que necesitan ser protegidas. Estas áreas pueden incluir las&#xD;
+credenciales de inicio de sesión, los datos de los usuarios, los registros de actividad y cualquier otra información&#xD;
+sensible relacionada con el módulo de seguridad de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_aMJI0Pg9Ee27nrnM_TBeKQ" name="Definir las politicas de seguridad" guid="_aMJI0Pg9Ee27nrnM_TBeKQ">
+    <sectionDescription>Establece las políticas de seguridad de la base de datos que deben implementarse para proteger las áreas críticas&#xD;
+identificadas. Esto puede incluir políticas de autenticación y autorización, políticas de encriptación de datos, políticas&#xD;
+de auditoría y registro de eventos, y políticas de gestión de contraseñas, entre otras.</sectionDescription>
+  </sections>
+  <sections xmi:id="_kcO4kPg9Ee27nrnM_TBeKQ" name="Documentar las politicas de seguridad" guid="_kcO4kPg9Ee27nrnM_TBeKQ">
+    <sectionDescription>Prepara una documentación detallada que describa en qué consisten las políticas de seguridad de la base de datos, cómo se&#xD;
+deben implementar y cómo se deben configurar los controles de seguridad correspondientes. Incluye ejemplos y pautas claras&#xD;
+para garantizar su comprensión y aplicación adecuada.</sectionDescription>
+  </sections>
+  <sections xmi:id="_pb0YAPg9Ee27nrnM_TBeKQ" name="Establecer medidas de cumplimiento" guid="_pb0YAPg9Ee27nrnM_TBeKQ">
+    <sectionDescription>Define las medidas de cumplimiento y monitoreo para asegurarte de que las políticas de seguridad de la base de datos se&#xD;
+implementen y cumplan de manera efectiva. Esto puede incluir la realización de auditorías periódicas, la revisión de&#xD;
+registros de seguridad, la detección de intrusiones y la implementación de controles de acceso adecuados.</sectionDescription>
+  </sections>
+  <sections xmi:id="_tZnqUPg9Ee27nrnM_TBeKQ" name="Capacitar al personal" guid="_tZnqUPg9Ee27nrnM_TBeKQ">
+    <sectionDescription>Proporciona capacitación y concienciación sobre las políticas de seguridad de la base de datos a todo el personal&#xD;
+involucrado en el proyecto de software. Asegúrate de que comprendan la importancia de seguir las políticas de seguridad y&#xD;
+de que estén familiarizados con los procedimientos y mejores prácticas para garantizar un entorno seguro.</sectionDescription>
+  </sections>
+  <sections xmi:id="_w3YxsPg9Ee27nrnM_TBeKQ" name="Mantener y actualizar las politicas de seguridad" guid="_w3YxsPg9Ee27nrnM_TBeKQ">
+    <sectionDescription>A medida que evolucione el proyecto y surjan nuevas amenazas o requisitos de seguridad, revisa y actualiza regularmente las&#xD;
+políticas de seguridad de la base de datos. Mantente al tanto de las mejores prácticas y los estándares de seguridad de la&#xD;
+industria para garantizar que las políticas sigan siendo efectivas y relevantes.</sectionDescription>
+  </sections>
+  <purpose>El propósito de describir las políticas de seguridad de base de datos es establecer un marco de seguridad que proteja los&#xD;
+datos contra accesos no autorizados, modificaciones no autorizadas y pérdida de información.</purpose>
+  <alternatives>Una alternativa a la tarea de describir las políticas de seguridad de base de datos es utilizar marcos o estándares de&#xD;
+seguridad reconocidos.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

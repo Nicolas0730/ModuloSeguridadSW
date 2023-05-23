@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-98b5P2gRy4cqeQnpRRk1CQ" name="especificaciones_tecnicas_terminadas,_RlyE8PdWEe2RbJufFOgbsg" guid="-98b5P2gRy4cqeQnpRRk1CQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T16:32:54.837-0500" changeDescription="Se han consideran las especificaciones tenicas del proyecto y se han adjuntado a un documento." version="2.0">
+  <mainDescription>Las especificaciones técnicas son un artefacto en el cual se documentan de manera detallada los requisitos técnicos y&#xD;
+funcionales del sistema de software. Estas especificaciones describen cómo debe ser diseñado, implementado y funcionar el&#xD;
+sistema, incluyendo aspectos como la arquitectura, las interfaces, los componentes, las funcionalidades y los requisitos de&#xD;
+rendimiento y seguridad.</mainDescription>
+  <keyConsiderations>Detalle Exhaustivo, Consistencia y claridad, Alineacion con los requisitos, Validacion y revision.</keyConsiderations>
+  <purpose>El propósito de las especificaciones técnicas es proporcionar una guía detallada para el desarrollo del sistema de&#xD;
+software.</purpose>
+  <briefOutline>Las especificaciones técnicas son documentos detallados que describen los requisitos técnicos y funcionales de un sistema&#xD;
+de software.</briefOutline>
+  <representation>Las especificaciones técnicas pueden presentarse en forma de documentos escritos, como manuales técnicos, especificaciones&#xD;
+formales o documentos de diseño detallado.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

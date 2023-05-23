@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vASz-otur3964B165IzTpA" name="new_artifact,_89c4QPZTEe2wDqCaHjj1zg" guid="-vASz-otur3964B165IzTpA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T09:49:33.681-0500" changeDescription="Planteamiento de procesos" version="1.0">
+  <mainDescription>Un diagrama de flujo es un artefacto utilizado en proyectos de software para representar visualmente la secuencia de pasos&#xD;
+y decisiones en un proceso específico. Este artefacto utiliza símbolos gráficos y flechas para mostrar el flujo de&#xD;
+información y las diferentes ramificaciones del proceso.&lt;br />&#xD;
+El diagrama de flujo ayuda a comunicar de manera clara y concisa cómo se lleva a cabo un proceso, desde el inicio hasta la&#xD;
+finalización. Proporciona una representación visual que facilita la comprensión y el análisis de los pasos involucrados,&#xD;
+permitiendo identificar posibles mejoras, errores o áreas de optimización.</mainDescription>
+  <keyConsiderations>Claridad y legibilidad, Simplicidad, Consistencia, Captura de decisiones, Verificacion y validacion, Actualizacion.</keyConsiderations>
+  <purpose>El proposito de este artefacto es representarnos graficamente los pasos y las decisiones que se deben tomar para el&#xD;
+correcto desarrollo de este software</purpose>
+  <briefOutline>Facilita la interpretacion de los pasos y decisiones que se llevaran a cabo en el proyecto</briefOutline>
+  <representation>Diagrama</representation>
+  <notation>Diagrama de flujo</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

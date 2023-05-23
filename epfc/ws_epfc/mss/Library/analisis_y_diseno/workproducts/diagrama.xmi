@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-730c1yyYCleNzbcIhZyNuA" name="new_artifact,_lABWcPdeEe2RbJufFOgbsg" guid="-730c1yyYCleNzbcIhZyNuA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:37:24.165-0500" changeDescription="Se realiza el diagrama " version="1.0">
+  <mainDescription>Un diagrama en un proyecto de software es un artefacto que utiliza elementos gráficos y símbolos para representar la&#xD;
+estructura, el diseño, la interacción o el flujo de información de un sistema o componente de software. Los diagramas son&#xD;
+herramientas visuales que permiten a los desarrolladores, analistas y demás miembros del equipo comprender y comunicar de&#xD;
+manera más clara y concisa la arquitectura, el funcionamiento y las relaciones entre los distintos elementos del sistema.</mainDescription>
+  <keyConsiderations>Seleccion Diagrama, Claridad y legibilidad, Mantenimiento y actualizacion</keyConsiderations>
+  <purpose>El propósito de utilizar diagramas en un proyecto de software es facilitar la comprensión, la comunicación y la&#xD;
+documentación de conceptos complejos y abstractos relacionados con el software.</purpose>
+  <briefOutline>Los diagramas son una forma visual de representar información y conceptos en un proyecto de software.</briefOutline>
+  <representation>La representación más común para los diagramas en proyectos de software es la utilización de cajas o rectángulos para&#xD;
+representar componentes o entidades, flechas o líneas para indicar relaciones o flujos de información, y símbolos&#xD;
+específicos según el tipo de diagrama utilizado.</representation>
+  <notation>La notación utilizada en los diagramas puede variar según el tipo de diagrama y la metodología o estándar utilizado.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

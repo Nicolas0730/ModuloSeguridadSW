@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-c8tlyt2scgXRpMUnuDP-_A" name="new_role,_cu4PoPauEe2RbJufFOgbsg" guid="-c8tlyt2scgXRpMUnuDP-_A" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T20:34:54.681-0500" changeDescription="Se presenta el rol de desarrollador lider, asignadole sus tares y responsabilidades" version="1.0">
+  <mainDescription>El desarrollador líder en un proyecto de software es un rol clave que se encarga de liderar y coordinar el equipo de&#xD;
+desarrollo en la implementación de las funcionalidades del software. Este rol implica tener un amplio conocimiento técnico,&#xD;
+experiencia en desarrollo de software y habilidades de liderazgo. El desarrollador líder trabaja en estrecha colaboración&#xD;
+con otros miembros del equipo, como los desarrolladores, los analistas y los diseñadores, para asegurar la calidad, el&#xD;
+cumplimiento de los requisitos y el cumplimiento de los plazos establecidos.</mainDescription>
+  <keyConsiderations>Conocimiento tecnico, Capacidad de liderazgo, Comunicacion efectiva,</keyConsiderations>
+  <skills>Fuertes habilidades tecnicas, Experiencia en desarrollo, Liderazgo, Comunicacion, Resolucion de problemas</skills>
+  <assignmentApproaches>Habilidades y experiencia, Liderazgo&amp;nbsp;y comunicacion</assignmentApproaches>
+  <synonyms>Un sinónimo común para el rol de desarrollador líder en un proyecto de software es &quot;arquitecto de software&quot; o &quot;líder&#xD;
+técnico&quot;.</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

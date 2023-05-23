@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sY5P4weWglPH62_p7If3NQ" name=",_uurY0Pd5Ee2tX4LLMx9DDg" guid="-sY5P4weWglPH62_p7If3NQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T20:51:43.252-0500" changeDescription="Se realizan las directrices de los patrones de diseño utilizados en el proyecto" version="1.0">
+  <mainDescription>Realizar las directrices de patrones de diseño es una tarea en la que se identifican, documentan y comunican las pautas y&#xD;
+mejores prácticas para el uso de patrones de diseño en un proyecto de software. Los patrones de diseño son soluciones&#xD;
+probadas y reutilizables para problemas comunes en el diseño de software. Estas directrices ayudan a los desarrolladores a&#xD;
+aplicar los patrones de diseño de manera efectiva y consistente en el proyecto.</mainDescription>
+  <keyConsiderations>Conocimiento de patrones de diseño, Contexto del proyecto, Comunicación clara, Actualización y evolución.</keyConsiderations>
+  <sections xmi:id="_FxwMcPg2Ee27nrnM_TBeKQ" name="Investigar los patrones de diseño" guid="_FxwMcPg2Ee27nrnM_TBeKQ">
+    <sectionDescription>Familiarízate con los diferentes patrones de diseño que son relevantes para el desarrollo de software seguro y la&#xD;
+implementación de módulos de seguridad. Algunos ejemplos de patrones comunes incluyen el patrón Singleton, el patrón&#xD;
+Observer y el patrón Strategy.</sectionDescription>
+  </sections>
+  <sections xmi:id="_KJV3wPg2Ee27nrnM_TBeKQ" name="Analizar los requisitos de seguridad" guid="_KJV3wPg2Ee27nrnM_TBeKQ">
+    <sectionDescription>Comprende los requisitos específicos de seguridad del módulo de login de la empresa. Identifica los posibles riesgos y&#xD;
+vulnerabilidades que deben abordarse, como el robo de credenciales, la inyección de código malicioso o el acceso no&#xD;
+autorizado.</sectionDescription>
+  </sections>
+  <sections xmi:id="_OD_vcPg2Ee27nrnM_TBeKQ" name="Seleccionar los patrones adecuados" guid="_OD_vcPg2Ee27nrnM_TBeKQ">
+    <sectionDescription>Basándote en los requisitos de seguridad y las buenas prácticas de diseño, selecciona los patrones de diseño más adecuados&#xD;
+para abordar los desafíos específicos del módulo de seguridad de login. Considera factores como la gestión de sesiones, la&#xD;
+autenticación segura, la protección de datos confidenciales y la prevención de ataques.</sectionDescription>
+  </sections>
+  <sections xmi:id="_TUpJsPg2Ee27nrnM_TBeKQ" name="Definir las directrices de implementacion" guid="_TUpJsPg2Ee27nrnM_TBeKQ">
+    <sectionDescription>Para cada patrón de diseño seleccionado, establece directrices claras y concisas sobre cómo aplicarlos en el contexto del&#xD;
+módulo de seguridad de login. Describe cómo se deben utilizar los patrones, qué clases o componentes se verán afectados y&#xD;
+qué beneficios se esperan.</sectionDescription>
+  </sections>
+  <sections xmi:id="_XjtyMPg2Ee27nrnM_TBeKQ" name="Documentar las directrices" guid="_XjtyMPg2Ee27nrnM_TBeKQ">
+    <sectionDescription>Prepara una documentación detallada que incluya las directrices de implementación de cada patrón de diseño. Explica los&#xD;
+conceptos clave, proporciona ejemplos de código y ofrece recomendaciones sobre cuándo y cómo aplicar cada patrón. Asegúrate&#xD;
+de que la documentación sea clara y accesible para los desarrolladores que trabajarán en el proyecto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_a8pc4Pg2Ee27nrnM_TBeKQ" name="Revisar y validar las directrices" guid="_a8pc4Pg2Ee27nrnM_TBeKQ">
+    <sectionDescription>Realiza una revisión exhaustiva de las directrices de patrones de diseño para asegurarte de que sean coherentes, relevantes&#xD;
+y aplicables al contexto del módulo de seguridad de login. Valida las directrices mediante pruebas y revisión de expertos&#xD;
+en seguridad o desarrollo de software.</sectionDescription>
+  </sections>
+  <sections xmi:id="_enungPg2Ee27nrnM_TBeKQ" name="Mantener actualizadas las directrices" guid="_enungPg2Ee27nrnM_TBeKQ">
+    <sectionDescription>A medida que el proyecto avanza y surgen nuevas tecnologías o desafíos de seguridad, actualiza y mejora las directrices de&#xD;
+patrones de diseño. Mantente al tanto de las últimas tendencias y mejores prácticas en seguridad de software y asegúrate de&#xD;
+que las directrices estén alineadas con ellas.</sectionDescription>
+  </sections>
+  <purpose>El propósito de realizar las directrices de patrones de diseño es promover la consistencia y la calidad del diseño en el&#xD;
+proyecto de software.</purpose>
+  <alternatives>Una alternativa a realizar las directrices de patrones de diseño como tarea puede ser la creación de una biblioteca o&#xD;
+catálogo de patrones de diseño.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

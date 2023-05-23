@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3kvCGL4_OLIO2nOfXm1BVA" name=",_jN9TAPdKEe2RbJufFOgbsg" guid="-3kvCGL4_OLIO2nOfXm1BVA" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T15:52:17.884-0500" changeDescription="Se realizara un plana de mitigacion de riesgos que ponga en peligro el proyecto" version="1.0">
+  <mainDescription>Un plan de mitigación de riesgos es un documento que identifica los posibles riesgos que podrían afectar el éxito del&#xD;
+proyecto y propone medidas para reducir su impacto o probabilidad de ocurrencia. Incluye una evaluación de riesgos,&#xD;
+estrategias de mitigación, asignación de responsabilidades y un cronograma para implementar las acciones necesarias.</mainDescription>
+  <keyConsiderations>Identifiacion y evaluacion de riesgos, Priorizacion y enfoque, Estrategias de mitagacion, Monitoreo y actualizacion.</keyConsiderations>
+  <sections xmi:id="_qq_scPgzEe27nrnM_TBeKQ" name="Identificar los riesgos" guid="_qq_scPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Realiza una evaluación exhaustiva de los posibles riesgos asociados al módulo de seguridad de login. Esto puede incluir&#xD;
+riesgos de seguridad, como ataques de fuerza bruta, robo de credenciales, vulnerabilidades en el código, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_tqp7gPgzEe27nrnM_TBeKQ" name="Priorizar los riesgos" guid="_tqp7gPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Clasifica los riesgos identificados según su impacto potencial y su probabilidad de ocurrencia. Esto te permitirá enfocarte&#xD;
+en aquellos riesgos más críticos que requieren una atención inmediata.</sectionDescription>
+  </sections>
+  <sections xmi:id="_wnPBYPgzEe27nrnM_TBeKQ" name="Analizar las causas y consecuencias de los riesgos" guid="_wnPBYPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Comprende las causas subyacentes de cada riesgo y las posibles consecuencias negativas para el proyecto y la empresa. Esto&#xD;
+te ayudará a diseñar estrategias efectivas de mitigación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zlYNgPgzEe27nrnM_TBeKQ" name="Definir estrategias de mitigacion" guid="_zlYNgPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Desarrolla estrategias específicas para mitigar cada riesgo identificado. Estas estrategias pueden incluir medidas&#xD;
+preventivas, como la implementación de controles de seguridad adicionales, el fortalecimiento de las políticas de&#xD;
+contraseñas, la implementación de autenticación de dos factores, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_3TmLsPgzEe27nrnM_TBeKQ" name="Establecer acciones y responsabilidades" guid="_3TmLsPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Define las acciones concretas que se deben tomar para implementar las estrategias de mitigación de riesgos. Asigna&#xD;
+responsabilidades claras a los miembros del equipo encargados de llevar a cabo estas acciones.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7c5jYPgzEe27nrnM_TBeKQ" name="Estimar los recursos necesarios" guid="_7c5jYPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Determina los recursos necesarios para implementar las estrategias de mitigación de riesgos. Esto puede incluir recursos&#xD;
+financieros, recursos humanos y cualquier otra necesidad específica.</sectionDescription>
+  </sections>
+  <sections xmi:id="_-pZ7oPgzEe27nrnM_TBeKQ" name="Monitorear y revisar" guid="_-pZ7oPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Establece un proceso de monitoreo continuo para evaluar la efectividad de las estrategias de mitigación implementadas.&#xD;
+Realiza revisiones periódicas para identificar nuevos riesgos y ajustar las medidas de mitigación según sea necesario.</sectionDescription>
+  </sections>
+  <purpose>&amp;nbsp;El propósito del plan de mitigación de riesgos es anticiparse y abordar los posibles riesgos que podrían surgir&#xD;
+durante el desarrollo y operación del software.</purpose>
+  <alternatives>Una alternativa al plan de mitigación de riesgos podría ser la implementación de un plan de contingencia.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

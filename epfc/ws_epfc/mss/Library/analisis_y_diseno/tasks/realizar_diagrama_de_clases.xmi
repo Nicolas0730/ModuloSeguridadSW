@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BujdtMIwyOyznfGSMDOkew" name=",_8y1XcPd2Ee2tX4LLMx9DDg" guid="-BujdtMIwyOyznfGSMDOkew" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T20:32:49.791-0500" changeDescription="Se va a realizar el diagrama de clases." version="1.0">
+  <mainDescription>El diagrama de clases es una herramienta de modelado utilizada en la ingeniería de software para representar las clases,&#xD;
+sus atributos, métodos y las relaciones entre ellas en un sistema. Proporciona una vista estructural del software y ayuda a&#xD;
+los desarrolladores a comprender la organización y la interacción entre las diferentes clases.</mainDescription>
+  <keyConsiderations>Identificar clases relevantes, Definir relaciones, Mantener coherencia, Diseñar modularidad.&amp;nbsp;</keyConsiderations>
+  <sections xmi:id="_wyyUoPg0Ee27nrnM_TBeKQ" name="Identificar clases principales" guid="_wyyUoPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Analiza los requisitos del módulo de seguridad de login y determina las clases clave que serán necesarias. Esto puede&#xD;
+incluir clases como Usuario, Autenticación, Sesión, Permisos, entre otras.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1hk_APg0Ee27nrnM_TBeKQ" name="Establecer las relaciones entre las clases" guid="_1hk_APg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Define las relaciones entre las clases identificadas. Esto puede incluir relaciones de herencia (clases base y clases&#xD;
+derivadas), asociaciones (relaciones entre objetos), agregación o composición (relaciones de todo-parte) y cualquier otra&#xD;
+relación relevante.</sectionDescription>
+  </sections>
+  <sections xmi:id="_67RnkPg0Ee27nrnM_TBeKQ" name="Agregar atributos y metodos " guid="_67RnkPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Para cada clase, identifica los atributos (propiedades) y métodos (comportamientos) que sean necesarios para cumplir con&#xD;
+los requisitos del módulo de seguridad de login. Estos atributos y métodos deben ser apropiados y coherentes con la&#xD;
+funcionalidad que se espera de cada clase.</sectionDescription>
+  </sections>
+  <sections xmi:id="__BGNcPg0Ee27nrnM_TBeKQ" name="Refinar el diagrama de clases" guid="__BGNcPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Revisa y mejora el diagrama de clases, asegurándote de que sea claro, conciso y bien organizado. Utiliza una notación&#xD;
+adecuada, como la notación UML, para representar las clases, relaciones, atributos y métodos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_DtY9cPg1Ee27nrnM_TBeKQ" name="Validar el diseño del diagrama de clases" guid="_DtY9cPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Asegúrate de que el diseño del diagrama de clases cumpla con los principios de diseño orientado a objetos, como la&#xD;
+cohesión, el bajo acoplamiento y la reutilización. También verifica que el diagrama de clases refleje de manera precisa los&#xD;
+requisitos y la funcionalidad del módulo de seguridad de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_I7RXkPg1Ee27nrnM_TBeKQ" name="Documentar el diagrama de clases " guid="_I7RXkPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Prepara una documentación clara y completa del diagrama de clases, explicando cada clase, relación, atributo y método. Esta&#xD;
+documentación debe ser lo suficientemente detallada como para que otros desarrolladores puedan comprender e implementar el&#xD;
+diseño propuesto.</sectionDescription>
+  </sections>
+  <purpose>El propósito del diagrama de clases es visualizar y comunicar la estructura estática de un sistema de software.</purpose>
+  <alternatives>Una alternativa al diagrama de clases como tarea puede ser la creación de diagramas de entidad-relación (ER), que se&#xD;
+centran en modelar la estructura de la base de datos de un sistema.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

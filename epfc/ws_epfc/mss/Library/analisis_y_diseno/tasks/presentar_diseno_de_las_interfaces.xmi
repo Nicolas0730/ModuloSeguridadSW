@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--zDes-GVVNeSlrflSkXtMg" name="presentar_diseno_de_las_interfaces,_efVR0Pd4Ee2tX4LLMx9DDg" guid="--zDes-GVVNeSlrflSkXtMg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T20:42:17.741-0500" changeDescription="Se presenta el diseño de las interfaces de usuario." version="1.0">
+  <mainDescription>Presentar el diseño de las interfaces es una actividad en la que se crea una representación visual y funcional de la&#xD;
+interfaz de usuario de un sistema de software. Esto implica definir el diseño visual, la disposición de los elementos, la&#xD;
+navegación y la interacción del usuario. El objetivo es comunicar cómo se verá y funcionará la interfaz a los diferentes&#xD;
+interesados, como clientes, usuarios finales y desarrolladores.</mainDescription>
+  <keyConsiderations>Diseño visual atractivo, Funcionalidad intuitiva, Cumplimiento de requisitos, Adaptabilidad a diferentes dispositivos</keyConsiderations>
+  <sections xmi:id="_N8bZwPg0Ee27nrnM_TBeKQ" name="Analizar requisitos de interfaces" guid="_N8bZwPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Comprende en detalle los requisitos funcionales y no funcionales del módulo de seguridad de login. Esto incluye la&#xD;
+identificación de las funcionalidades clave, los flujos de interacción, las necesidades de seguridad y cualquier otra&#xD;
+consideración relevante.</sectionDescription>
+  </sections>
+  <sections xmi:id="_SEEkkPg0Ee27nrnM_TBeKQ" name="Diseñar la estructura de las interfaces" guid="_SEEkkPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Define la estructura general de las interfaces, incluyendo los diferentes componentes, elementos de navegación y la&#xD;
+disposición visual. Asegúrate de tener en cuenta los principios de usabilidad y accesibilidad, así como las mejores&#xD;
+prácticas de diseño de interfaces.</sectionDescription>
+  </sections>
+  <sections xmi:id="_W565MPg0Ee27nrnM_TBeKQ" name="Crear bocetos" guid="_W565MPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Realiza bocetos de las interfaces para visualizar y comunicar la disposición de los elementos en pantalla. Estos bocetos&#xD;
+pueden ser realizados a mano o utilizando herramientas de diseño gráfico.</sectionDescription>
+  </sections>
+  <sections xmi:id="_a7WHQPg0Ee27nrnM_TBeKQ" name="Definir la interaccion" guid="_a7WHQPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Especifica cómo interactúan los usuarios con las interfaces, incluyendo acciones, transiciones, validaciones y mensajes de&#xD;
+retroalimentación. Esto ayudará a garantizar una experiencia de usuario fluida y segura.</sectionDescription>
+  </sections>
+  <sections xmi:id="_fF9GgPg0Ee27nrnM_TBeKQ" name="Diseñar los elementos visuales" guid="_fF9GgPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Define el estilo visual de las interfaces, incluyendo la paleta de colores, tipografía, iconografía y cualquier otro&#xD;
+elemento gráfico. Asegúrate de seguir la identidad visual de la empresa y mantener la coherencia en todo el diseño.</sectionDescription>
+  </sections>
+  <sections xmi:id="_jHykQPg0Ee27nrnM_TBeKQ" name="Crear prototipos interactivos" guid="_jHykQPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Utiliza herramientas de diseño o prototipado para crear prototipos interactivos de las interfaces. Esto permitirá simular&#xD;
+la experiencia real de uso y realizar pruebas de usabilidad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_nIlgMPg0Ee27nrnM_TBeKQ" name="Documentar el diseño" guid="_nIlgMPg0Ee27nrnM_TBeKQ">
+    <sectionDescription>Prepara un documento o presentación que documente y explique el diseño de las interfaces. Incluye descripciones, capturas&#xD;
+de pantalla, diagramas y cualquier otra información relevante para comunicar de manera efectiva el diseño a los&#xD;
+interesados.</sectionDescription>
+  </sections>
+  <purpose>El propósito de presentar el diseño de las interfaces es obtener retroalimentación, validar el diseño propuesto y&#xD;
+asegurarse de que cumple con los requisitos y expectativas de los usuarios.</purpose>
+  <alternatives>Una alternativa a la presentación del diseño de las interfaces puede ser la creación de prototipos interactivos. Los&#xD;
+prototipos permiten simular y probar la funcionalidad y la interacción de la interfaz de usuario de manera más realista.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

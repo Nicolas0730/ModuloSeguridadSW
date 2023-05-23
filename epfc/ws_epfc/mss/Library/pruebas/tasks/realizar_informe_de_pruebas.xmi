@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O29KHq8LI0TMVerP5VGHGQ" name=",_eb85UPgKEe27nrnM_TBeKQ" guid="-O29KHq8LI0TMVerP5VGHGQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-21T14:14:15.588-0500" changeDescription="Se realizara un informe de pruebas del software" version="1.0">
+  <mainDescription>Realizar el informe de pruebas implica recopilar, analizar y documentar los resultados obtenidos durante el proceso de&#xD;
+pruebas del software. El informe de pruebas proporciona una visión general de las pruebas realizadas, los resultados&#xD;
+obtenidos, los problemas encontrados y las recomendaciones para su corrección.</mainDescription>
+  <keyConsiderations>Incluir una descripcion, Registrar detalladamente los datos, Incluir graficos o tablas, Recomendaciones, Garantizar&#xD;
+objetividad e imparciabilidad.</keyConsiderations>
+  <sections xmi:id="_ZyCB4PhMEe2AQs_6oxtXKg" name="Introduccion" guid="_ZyCB4PhMEe2AQs_6oxtXKg">
+    <sectionDescription>Inicia el informe con una breve introducción que describa el propósito del informe, el alcance de las pruebas realizadas y&#xD;
+los objetivos específicos de la evaluación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cY_dEPhMEe2AQs_6oxtXKg" name="Descripcion del contexto" guid="_cY_dEPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Proporciona información sobre el proyecto de software, el módulo de seguridad y el proceso de login en el que se centraron&#xD;
+las pruebas. Explica la importancia de este módulo en el contexto de la seguridad de la empresa.</sectionDescription>
+  </sections>
+  <sections xmi:id="_g9C3EPhMEe2AQs_6oxtXKg" name="Metodologia de pruebas" guid="_g9C3EPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Describe la metodología utilizada para llevar a cabo las pruebas. Esto puede incluir el enfoque de pruebas (por ejemplo,&#xD;
+pruebas funcionales, pruebas de seguridad, pruebas de rendimiento), el alcance de las pruebas y los criterios de aceptación&#xD;
+utilizados.</sectionDescription>
+  </sections>
+  <sections xmi:id="_kHn8sPhMEe2AQs_6oxtXKg" name="Casos de prueba" guid="_kHn8sPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Presenta una descripción de los casos de prueba que se ejecutaron, incluyendo su propósito, los pasos seguidos, los datos&#xD;
+de entrada utilizados y los resultados esperados. También puedes incluir capturas de pantalla o registros relevantes para&#xD;
+respaldar los resultados de las pruebas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_lVI4sPhMEe2AQs_6oxtXKg" name="Resultados de las pruebas" guid="_lVI4sPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Resume los resultados obtenidos durante las pruebas. Indica los casos de prueba exitosos, los casos de prueba que fallaron&#xD;
+y cualquier problema o defecto identificado durante las pruebas. Proporciona detalles adicionales sobre los defectos, como&#xD;
+su gravedad, impacto y pasos para reproducirlos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_rHuiYPhMEe2AQs_6oxtXKg" name="Conclusiones y recomendaciones" guid="_rHuiYPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Resalta las principales conclusiones derivadas de las pruebas realizadas. Evalúa el estado general del módulo de seguridad&#xD;
+y el proceso de login en función de los resultados de las pruebas. Proporciona recomendaciones para mejorar o corregir&#xD;
+cualquier problema identificado, y sugiere acciones específicas para fortalecer la seguridad del sistema.</sectionDescription>
+  </sections>
+  <sections xmi:id="_v2ySgPhMEe2AQs_6oxtXKg" name="Documentacion adicional" guid="_v2ySgPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Si es relevante, incluye información adicional como capturas de pantalla, registros de auditoría o detalles sobre las&#xD;
+configuraciones de seguridad implementadas en el proyecto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zfLVgPhMEe2AQs_6oxtXKg" name="Resumen ejecutivo" guid="_zfLVgPhMEe2AQs_6oxtXKg">
+    <sectionDescription>Proporciona un resumen breve y conciso de los aspectos más importantes del informe, destacando los hallazgos clave, las&#xD;
+conclusiones y las recomendaciones. Este resumen ejecutivo es útil para las partes interesadas que deseen obtener una&#xD;
+visión general rápida del estado de la seguridad del sistema.</sectionDescription>
+  </sections>
+  <purpose>El propósito del informe de pruebas es brindar una visión clara y detallada del estado del software en términos de calidad&#xD;
+y rendimiento.</purpose>
+  <alternatives>Una alternativa a realizar el informe de pruebas puede ser adoptar un enfoque ágil para la generación del informe, donde se&#xD;
+realicen actualizaciones frecuentes y se comparta información sobre los resultados de las pruebas de forma iterativa.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

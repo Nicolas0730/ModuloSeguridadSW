@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9zhCyQaGIqCFoPH097vygQ" name=",_xRV0wPd3Ee2tX4LLMx9DDg" guid="-9zhCyQaGIqCFoPH097vygQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T20:36:32.937-0500" changeDescription="Se realiza el diagrama de interaccion necesario para el proyecto" version="1.0">
+  <mainDescription>El diagrama de interacción es una representación visual que muestra las interacciones y comunicaciones entre los diferentes&#xD;
+elementos de un sistema, como objetos, componentes o clases. Este diagrama se utiliza en el desarrollo de software para&#xD;
+comprender y modelar el comportamiento dinámico de un sistema, especialmente en escenarios de interacción complejos.</mainDescription>
+  <keyConsiderations>Identificar participantes, Representar mensajes, Modelar flujo de control, Capturar cambios de estado.</keyConsiderations>
+  <sections xmi:id="_aBdccPg1Ee27nrnM_TBeKQ" name="Identificar las clases involucradas" guid="_aBdccPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Analiza los componentes y clases relevantes del módulo de seguridad de login y determina cuáles participan en la&#xD;
+interacción que deseas representar en el diagrama. Esto puede incluir clases como Usuario, Autenticación, Interfaz de&#xD;
+Usuario, Gestor de Sesiones, entre otras.</sectionDescription>
+  </sections>
+  <sections xmi:id="_d_1WgPg1Ee27nrnM_TBeKQ" name="Definir los mensajes" guid="_d_1WgPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Identifica los mensajes o interacciones que ocurren entre las clases seleccionadas. Estos mensajes representan las llamadas&#xD;
+de métodos, eventos o comunicaciones entre las clases durante el proceso de autenticación y gestión de sesiones de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_jxE8YPg1Ee27nrnM_TBeKQ" name="Establecer el orden de los mensajes" guid="_jxE8YPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Determina el orden en el que se producen los mensajes entre las clases. Esto te ayudará a visualizar la secuencia de&#xD;
+interacciones y el flujo de control en el módulo de seguridad de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_o0WB8Pg1Ee27nrnM_TBeKQ" name="Representar los mensajes del diagrama" guid="_o0WB8Pg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Utiliza una notación adecuada, como la notación UML, para representar los mensajes entre las clases. Puedes utilizar&#xD;
+flechas para indicar la dirección de los mensajes y etiquetas para especificar los métodos o eventos asociados a cada&#xD;
+mensaje.</sectionDescription>
+  </sections>
+  <sections xmi:id="_uXBnYPg1Ee27nrnM_TBeKQ" name="Agregar condiciones y decisiones " guid="_uXBnYPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Si existen condiciones o decisiones en el flujo de interacción, asegúrate de representarlas en el diagrama. Puedes utilizar&#xD;
+fragmentos condicionales, como los fragmentos de ramificación y bucle en UML, para mostrar las diferentes rutas que se&#xD;
+pueden seguir.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zW8eAPg1Ee27nrnM_TBeKQ" name="Refinar y validar el diagrama " guid="_zW8eAPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Revisa y mejora el diagrama de interacción, asegurándote de que sea claro, fácil de entender y coherente con los requisitos&#xD;
+del módulo de seguridad de login. Verifica que el diagrama refleje adecuadamente las interacciones entre las clases y que&#xD;
+el flujo de control sea correcto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_3jJ_wPg1Ee27nrnM_TBeKQ" name="Documentar el diagrama" guid="_3jJ_wPg1Ee27nrnM_TBeKQ">
+    <sectionDescription>Prepara una documentación clara y completa del diagrama de interacción, explicando cada clase, mensaje y flujo de control.&#xD;
+Esta documentación debe ser lo suficientemente detallada como para que otros desarrolladores puedan comprender e&#xD;
+implementar la interacción propuesta.</sectionDescription>
+  </sections>
+  <purpose>El propósito del diagrama de interacción es mostrar cómo los diferentes elementos de un sistema se comunican y cooperan&#xD;
+entre sí para llevar a cabo una funcionalidad específica.</purpose>
+  <alternatives>&lt;p>&#xD;
+    Una alternativa al diagrama de interaccion puede ser el diagrama de flujo ya que se utiliza para representar el flujo&#xD;
+&lt;/p></alternatives>
+</org.eclipse.epf.uma:TaskDescription>

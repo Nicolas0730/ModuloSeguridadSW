@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y-l3XW0scxzJMptHdhvl3g" name=",_j_w1UPdIEe2RbJufFOgbsg" guid="-Y-l3XW0scxzJMptHdhvl3g" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T14:59:25.531-0500" changeDescription="Se realizaran las especificaciones tecnicas del proyecto" version="1.0">
+  <mainDescription>Las especificaciones técnicas son un documento que describe en profundidad los aspectos técnicos del proyecto de software.&#xD;
+Incluye información sobre la arquitectura, el diseño, los estándares de codificación, las tecnologías utilizadas, las&#xD;
+interfaces, los algoritmos y otros aspectos relevantes.</mainDescription>
+  <keyConsiderations>Detallar requisitos tecnicos, Definir la arquitectura, Definir funcionalidades, Restricciones y limitaciones.</keyConsiderations>
+  <sections xmi:id="_7pMk4PgxEe27nrnM_TBeKQ" name="Analizar los requisitos del proyecto" guid="_7pMk4PgxEe27nrnM_TBeKQ">
+    <sectionDescription>Comprende a fondo los requisitos funcionales y no funcionales del módulo de seguridad de login. Esto incluye la&#xD;
+identificación de los diferentes casos de uso, las necesidades de autenticación, autorización y protección de datos, entre&#xD;
+otros aspectos relevantes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_GKojUPgyEe27nrnM_TBeKQ" name="Identificar los componentes " guid="_GKojUPgyEe27nrnM_TBeKQ">
+    <sectionDescription>Determina los componentes y funcionalidades específicos que formarán parte del módulo de seguridad de login. Estos pueden&#xD;
+incluir la gestión de usuarios, el almacenamiento seguro de contraseñas, la autenticación de dos factores, la gestión de&#xD;
+sesiones, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_H92X8PgzEe27nrnM_TBeKQ" name="Definir la arquitectura y diseño del sistema" guid="_H92X8PgzEe27nrnM_TBeKQ">
+    <sectionDescription>Establece la arquitectura y el diseño general del sistema para el módulo de seguridad de login. Esto incluye la estructura&#xD;
+de componentes, las interfaces, los flujos de información y los patrones de diseño de seguridad que se utilizarán.</sectionDescription>
+  </sections>
+  <sections xmi:id="_NwOmQPgzEe27nrnM_TBeKQ" name="Especificar los requisitos de seguridad" guid="_NwOmQPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Documenta los requisitos de seguridad específicos para el módulo de login, como la encriptación de datos, la protección&#xD;
+contra ataques de fuerza bruta, la prevención de la suplantación de identidad, entre otros. Estos requisitos deben estar&#xD;
+alineados con los estándares y regulaciones de seguridad relevantes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_SYLo0PgzEe27nrnM_TBeKQ" name="Detallar las interfaces y protocolos de comunicación" guid="_SYLo0PgzEe27nrnM_TBeKQ">
+    <sectionDescription>Especifica las interfaces y los protocolos de comunicación que se utilizarán para interactuar con el módulo de seguridad de&#xD;
+login. Esto puede incluir APIs, estándares de autenticación como OAuth o OpenID Connect, y otros mecanismos de comunicación&#xD;
+segura.</sectionDescription>
+  </sections>
+  <sections xmi:id="_WRdngPgzEe27nrnM_TBeKQ" name="Definir las pruebas de seguridad" guid="_WRdngPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Describe los casos de prueba y escenarios de prueba específicos para evaluar la seguridad del módulo de login. Esto puede&#xD;
+incluir pruebas de penetración, pruebas de vulnerabilidad y pruebas de rendimiento para garantizar que el sistema cumpla&#xD;
+con los estándares de seguridad establecidos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_axzmMPgzEe27nrnM_TBeKQ" name="Documentar consideraciones de despliegue y configuración" guid="_axzmMPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Especifica las consideraciones relevantes para el despliegue y la configuración del módulo de seguridad de login. Esto&#xD;
+puede incluir recomendaciones para la configuración segura de servidores, certificados SSL/TLS, políticas de contraseñas,&#xD;
+entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_eBOIgPgzEe27nrnM_TBeKQ" name="Revisar y validar las especificaciones técnicas" guid="_eBOIgPgzEe27nrnM_TBeKQ">
+    <sectionDescription>Comparte las especificaciones técnicas con el equipo de desarrollo, expertos en seguridad y otros interesados relevantes&#xD;
+para obtener comentarios y validar su precisión y coherencia.</sectionDescription>
+  </sections>
+  <purpose>El propósito de las especificaciones técnicas es brindar una guía detallada a los desarrolladores y al equipo técnico sobre&#xD;
+cómo implementar el sistema de software.</purpose>
+  <alternatives>Una alternativa a las especificaciones técnicas podría ser la creación de prototipos o maquetas del sistema, donde se&#xD;
+desarrollen versiones parciales o simplificadas de las funcionalidades.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

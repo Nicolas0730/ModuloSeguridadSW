@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yefAjAhArVwF-z2mx_FaXg" name="new_artifact,_dIgsEPa4Ee2RbJufFOgbsg" guid="-yefAjAhArVwF-z2mx_FaXg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T13:53:46.389-0500" changeDescription="Se buscara implementar los metodos especificados" version="1.0">
+  <mainDescription>Implementar métodos en un proyecto de software se refiere al proceso de escribir y añadir funciones específicas en el&#xD;
+código del programa. Un método es una secuencia de instrucciones que realiza una tarea particular y puede ser invocado en&#xD;
+diferentes partes del software para ejecutar dicha tarea. Durante la implementación de métodos, se definen los parámetros&#xD;
+de entrada, el comportamiento y la lógica necesaria para que el método realice su función específica.</mainDescription>
+  <keyConsiderations>Diseño y estructura, Reutilizacion, Eficiencia y rendimiento.</keyConsiderations>
+  <purpose>El propósito de implementar métodos es modularizar el código y dividirlo en partes más pequeñas y manejables.</purpose>
+  <briefOutline>La implementación de métodos consiste en escribir y añadir funciones específicas en el código de un proyecto de software.</briefOutline>
+  <representation>La representación seleccionada para implementar métodos en un proyecto de software es el código fuente.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p_LS4J2bR4_mfsReijP59g" name="new_artifact,_RpFBgPi_Ee2xg-5AK3cZcQ" guid="-p_LS4J2bR4_mfsReijP59g" changeDate="2023-05-22T11:44:49.036-0500">
+  <mainDescription>&lt;p>&#xD;
+    En esta sección, te brindaremos una descripción general de cómo hemos abordado el desarrollo de este importante&#xD;
+    componente de seguridad.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nuestro objetivo principal es garantizar la protección y confidencialidad de los datos de nuestros usuarios al momento&#xD;
+    de iniciar sesión en nuestros sistemas. A través de este módulo de seguridad, hemos implementado una serie de medidas y&#xD;
+    prácticas para fortalecer la autenticación y garantizar un acceso seguro a nuestras plataformas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Durante este proceso, hemos llevado a cabo un análisis exhaustivo de los requisitos de seguridad, la identificación de&#xD;
+    posibles riesgos y la implementación de medidas de mitigación adecuadas. Nuestro enfoque se centra en brindar una&#xD;
+    experiencia de inicio de sesión confiable y protegida, tanto para nuestros usuarios como para la empresa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A continuacion, encontrarás información detallada sobre el proceso de desarrollo, incluyendo diagramas,&#xD;
+    especificaciones técnicas y pasos clave que hemos seguido para garantizar la seguridad del login. Además, también te&#xD;
+    proporcionaremos recomendaciones de buenas prácticas y directrices de seguridad que puedes implementar en tus propios&#xD;
+    proyectos.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

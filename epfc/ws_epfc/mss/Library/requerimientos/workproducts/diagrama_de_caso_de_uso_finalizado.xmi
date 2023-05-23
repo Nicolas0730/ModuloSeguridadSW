@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vWQzYVs_M6AewDcZqaJVOg" name="diagrama_de_caso_de_uso_finalizado,_lmJokPZ9Ee2RbJufFOgbsg" guid="-vWQzYVs_M6AewDcZqaJVOg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T14:38:27.411-0500" changeDescription="Presentacion de interacciones entre actores y el sistema" version="1.0">
+  <mainDescription>Un diagrama de casos de uso es un artefacto utilizado en proyectos de software para visualizar y describir las&#xD;
+interacciones entre los actores y el sistema en desarrollo. Proporciona una representación gráfica de los diferentes casos&#xD;
+de uso, que son las funcionalidades o acciones que el sistema ofrece a los actores</mainDescription>
+  <keyConsiderations>Claridad&amp;nbsp;y simplicidad, Consistencia y convenciones, Documentacion adecuada, Validacion y verificacion, Mantenimiento&#xD;
+y acualizacion</keyConsiderations>
+  <purpose>El propósito del diagrama de casos de uso es capturar los requisitos funcionales del sistema desde la perspectiva del&#xD;
+usuario</purpose>
+  <briefOutline>Un diagrama de casos de uso es una representación visual que muestra cómo los actores interactúan con un sistema en un&#xD;
+proyecto de software</briefOutline>
+  <representation>Diagrama de&amp;nbsp;caso de uso&amp;nbsp;en formato de imagen (PNG, JPEG)</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

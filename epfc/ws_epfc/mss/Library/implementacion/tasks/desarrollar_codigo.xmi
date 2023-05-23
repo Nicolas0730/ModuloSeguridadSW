@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ULOnnKi4GtML1VRicFrhAw" name=",_geKhoPaqEe2RbJufFOgbsg" guid="-ULOnnKi4GtML1VRicFrhAw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T20:08:02.109-0500" changeDescription="Desarrollo del codigo" version="1.0">
+  <mainDescription>El desarrollo del código es una tarea fundamental en un proyecto de software en la que los desarrolladores escriben el&#xD;
+código necesario para implementar las funcionalidades y requisitos definidos en el diseño del sistema. Implica traducir los&#xD;
+requisitos y el diseño en instrucciones comprensibles para la computadora, utilizando lenguajes de programación y&#xD;
+herramientas de desarrollo adecuadas. El desarrollo del código incluye la creación de funciones, métodos y algoritmos, así&#xD;
+como la implementación de la lógica del software.&lt;br /></mainDescription>
+  <keyConsiderations>Buenas practicas de programacion, Documentacion adecuada, Comprension de los requisitos</keyConsiderations>
+  <sections xmi:id="_lpSxUPgsEe27nrnM_TBeKQ" name="Analisis de requisitos" guid="_lpSxUPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Comprender y analizar en detalle los requisitos funcionales y no funcionales del módulo de login. Esto implica identificar&#xD;
+las funcionalidades necesarias, los casos de uso, las restricciones de seguridad y cualquier otra especificación relevante.</sectionDescription>
+  </sections>
+  <sections xmi:id="_obbhwPgsEe27nrnM_TBeKQ" name="Diseño del sistema" guid="_obbhwPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Diseñar la arquitectura y la estructura del sistema de software, teniendo en cuenta los principios de seguridad. Definir&#xD;
+los componentes, módulos y sus interacciones, así como las interfaces necesarias para el módulo de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_s7qLsPgsEe27nrnM_TBeKQ" name="Diseño de la interfaz de usuario" guid="_s7qLsPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Crear el diseño de la interfaz de usuario para el módulo de login, considerando los aspectos de usabilidad y seguridad.&#xD;
+Asegurarse de que los elementos de la interfaz sean intuitivos, accesibles y cumplan con las mejores prácticas de diseño de&#xD;
+interfaces seguras.</sectionDescription>
+  </sections>
+  <sections xmi:id="_wIXYQPgsEe27nrnM_TBeKQ" name="Implementacion del codigo" guid="_wIXYQPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Escribir el código del módulo de login siguiendo las buenas prácticas de desarrollo de software. Utilizar los lenguajes de&#xD;
+programación y las tecnologías adecuadas para implementar las funcionalidades requeridas, como la validación de&#xD;
+credenciales, la autenticación segura y la gestión de sesiones.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zGR64PgsEe27nrnM_TBeKQ" name="Pruebas unitarias" guid="_zGR64PgsEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar pruebas unitarias exhaustivas para cada componente y función del módulo de login. Verificar que el código&#xD;
+implementado funcione correctamente, cumpla con los requisitos y mantenga la integridad y seguridad de los datos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_19Yq4PgsEe27nrnM_TBeKQ" name="Pruebas de integracion" guid="_19Yq4PgsEe27nrnM_TBeKQ">
+    <sectionDescription>Integrar el módulo de login con el resto del sistema y realizar pruebas de integración para asegurar su correcto&#xD;
+funcionamiento en conjunto con otras partes del software.</sectionDescription>
+  </sections>
+  <sections xmi:id="_5SK1YPgsEe27nrnM_TBeKQ" name="Pruebas de seguridad" guid="_5SK1YPgsEe27nrnM_TBeKQ">
+    <sectionDescription>&lt;p>&#xD;
+    Realizar pruebas de seguridad específicas para el módulo de login, como pruebas de penetración, pruebas de validación&#xD;
+    de entrada y pruebas de autenticación. Identificar posibles vulnerabilidades y corregirlas antes de la implementación&#xD;
+    final.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_--amgPgsEe27nrnM_TBeKQ" name="Revision y refactorizacion del codigo" guid="_--amgPgsEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar revisiones del código para garantizar su calidad, legibilidad y mantenibilidad. Refactorizar el código si es&#xD;
+necesario para mejorar su estructura, rendimiento y seguridad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_DxmBoPgtEe27nrnM_TBeKQ" name="Documentacion" guid="_DxmBoPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Documentar el código implementado, incluyendo comentarios claros y concisos, así como cualquier información relevante sobre&#xD;
+la lógica y funcionamiento del módulo de login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_GSreUPgtEe27nrnM_TBeKQ" name="Despliegue " guid="_GSreUPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Preparar el módulo de login para su despliegue en el entorno de producción. Realizar pruebas finales y asegurarse de que&#xD;
+todas las configuraciones sean correctas antes de ponerlo en funcionamiento.</sectionDescription>
+  </sections>
+  <purpose>El propósito del desarrollo del código es transformar los requisitos y el diseño del software en una solución funcional y&#xD;
+ejecutable.</purpose>
+  <alternatives>Una alternativa puede ser utilizar herramientas de desarrollo de bajo código o no código. Estas herramientas permiten crear&#xD;
+aplicaciones mediante interfaces visuales y configuraciones en lugar de escribir código manualmente.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

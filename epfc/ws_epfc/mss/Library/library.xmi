@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_fCccgfXkEe2sYpjh_H8PKQ" guid="_fCccgfXkEe2sYpjh_H8PKQ">
+    <subManagers xmi:id="_RdLEMfXlEe2sYpjh_H8PKQ" href="uma://_RdIA4PXlEe2sYpjh_H8PKQ#_RdLEMfXlEe2sYpjh_H8PKQ"/>
+    <subManagers xmi:id="_oZiSUfXlEe2sYpjh_H8PKQ" href="uma://_oZiSQPXlEe2sYpjh_H8PKQ#_oZiSUfXlEe2sYpjh_H8PKQ"/>
+    <subManagers xmi:id="_y1y1wfXlEe2sYpjh_H8PKQ" href="uma://_y1xnoPXlEe2sYpjh_H8PKQ#_y1y1wfXlEe2sYpjh_H8PKQ"/>
+    <subManagers xmi:id="_H6hM0fXmEe2sYpjh_H8PKQ" href="uma://_H6hMwPXmEe2sYpjh_H8PKQ#_H6hM0fXmEe2sYpjh_H8PKQ"/>
+    <subManagers xmi:id="_S2CfMfXmEe2sYpjh_H8PKQ" href="uma://_S2CfIPXmEe2sYpjh_H8PKQ#_S2CfMfXmEe2sYpjh_H8PKQ"/>
+    <subManagers xmi:id="_nwNzEfXmEe2sYpjh_H8PKQ" href="uma://_nwNzAPXmEe2sYpjh_H8PKQ#_nwNzEfXmEe2sYpjh_H8PKQ"/>
+    <subManagers xmi:id="_-m6eAfXmEe2sYpjh_H8PKQ" href="uma://_-m6d8PXmEe2sYpjh_H8PKQ#_-m6eAfXmEe2sYpjh_H8PKQ"/>
+    <resourceDescriptors xmi:id="_fCccgvXkEe2sYpjh_H8PKQ" id="_fCccgPXkEe2sYpjh_H8PKQ" uri=""/>
+    <resourceDescriptors xmi:id="_RdLEMvXlEe2sYpjh_H8PKQ" id="_RdIA4PXlEe2sYpjh_H8PKQ" uri="modelado_de_negocio/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_oZiSUvXlEe2sYpjh_H8PKQ" id="_oZiSQPXlEe2sYpjh_H8PKQ" uri="requerimientos/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_y1y1wvXlEe2sYpjh_H8PKQ" id="_y1xnoPXlEe2sYpjh_H8PKQ" uri="analisis_y_diseno/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_H6hM0vXmEe2sYpjh_H8PKQ" id="_H6hMwPXmEe2sYpjh_H8PKQ" uri="implementacion/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_S2CfMvXmEe2sYpjh_H8PKQ" id="_S2CfIPXmEe2sYpjh_H8PKQ" uri="pruebas/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_nwNzEvXmEe2sYpjh_H8PKQ" id="_nwNzAPXmEe2sYpjh_H8PKQ" uri="entrega/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_-m6eAvXmEe2sYpjh_H8PKQ" id="_-m6d8PXmEe2sYpjh_H8PKQ" uri="mss/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_fCccgPXkEe2sYpjh_H8PKQ" name="Library" guid="_fCccgPXkEe2sYpjh_H8PKQ">
+    <methodPlugins xmi:id="_RdIA4PXlEe2sYpjh_H8PKQ" href="uma://_RdIA4PXlEe2sYpjh_H8PKQ#_RdIA4PXlEe2sYpjh_H8PKQ"/>
+    <methodPlugins xmi:id="_oZiSQPXlEe2sYpjh_H8PKQ" href="uma://_oZiSQPXlEe2sYpjh_H8PKQ#_oZiSQPXlEe2sYpjh_H8PKQ"/>
+    <methodPlugins xmi:id="_y1xnoPXlEe2sYpjh_H8PKQ" href="uma://_y1xnoPXlEe2sYpjh_H8PKQ#_y1xnoPXlEe2sYpjh_H8PKQ"/>
+    <methodPlugins xmi:id="_H6hMwPXmEe2sYpjh_H8PKQ" href="uma://_H6hMwPXmEe2sYpjh_H8PKQ#_H6hMwPXmEe2sYpjh_H8PKQ"/>
+    <methodPlugins xmi:id="_S2CfIPXmEe2sYpjh_H8PKQ" href="uma://_S2CfIPXmEe2sYpjh_H8PKQ#_S2CfIPXmEe2sYpjh_H8PKQ"/>
+    <methodPlugins xmi:id="_nwNzAPXmEe2sYpjh_H8PKQ" href="uma://_nwNzAPXmEe2sYpjh_H8PKQ#_nwNzAPXmEe2sYpjh_H8PKQ"/>
+    <methodPlugins xmi:id="_-m6d8PXmEe2sYpjh_H8PKQ" href="uma://_-m6d8PXmEe2sYpjh_H8PKQ#_-m6d8PXmEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

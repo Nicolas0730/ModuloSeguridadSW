@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tjIFqHVxVHiPAinJRevMkw" name=",_lFjLAPZ_Ee2RbJufFOgbsg" guid="-tjIFqHVxVHiPAinJRevMkw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T15:01:03.486-0500" changeDescription="Desarrollo de la matriz de riesgo" version="1.0">
+  <mainDescription>La matriz de riesgo es un artefacto utilizado en proyectos de software para identificar, evaluar y gestionar los riesgos&#xD;
+potenciales que podrían afectar el éxito del proyecto. Consiste en listar los riesgos identificados, evaluar su&#xD;
+probabilidad de ocurrencia y el impacto que tendrían en el proyecto, y luego desarrollar estrategias para mitigarlos. La&#xD;
+matriz de riesgo proporciona una visión clara de los riesgos clave y ayuda a priorizar las acciones para gestionarlos de&#xD;
+manera efectiva.</mainDescription>
+  <keyConsiderations>Identificacion de riesgos, Priorizar riesgos, Desarrollo de estrategias&amp;nbsp;</keyConsiderations>
+  <sections xmi:id="_rYuEMPgqEe27nrnM_TBeKQ" name="Identificar riesgos potenciales" guid="_rYuEMPgqEe27nrnM_TBeKQ">
+    <sectionDescription>Identificar los posibles riesgos que podrían afectar la seguridad del módulo de login. Estos riesgos pueden incluir&#xD;
+amenazas como acceso no autorizado, robo de contraseñas, vulnerabilidades de software, entre otros.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vZE7QPgqEe27nrnM_TBeKQ" name="Evaluar el impacto potencial" guid="_vZE7QPgqEe27nrnM_TBeKQ">
+    <sectionDescription>Evaluar el impacto que tendrían los riesgos materializados en términos de daños a la empresa, pérdida de datos,&#xD;
+interrupción de servicios, entre otros aspectos relevantes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_z8GagPgqEe27nrnM_TBeKQ" name="Asignar niveles de riesgo" guid="_z8GagPgqEe27nrnM_TBeKQ">
+    <sectionDescription>Asignar niveles de riesgo a cada riesgo identificado en función de su probabilidad y su impacto potencial. Esto puede&#xD;
+hacerse utilizando una escala numérica o una clasificación como alta, media y baja.</sectionDescription>
+  </sections>
+  <sections xmi:id="_5_IT8PgqEe27nrnM_TBeKQ" name="Priorizar los riesgos" guid="_5_IT8PgqEe27nrnM_TBeKQ">
+    <sectionDescription>Priorizar los riesgos según su nivel de riesgo y su importancia para el proyecto. Esto ayudará a enfocar los esfuerzos de&#xD;
+mitigación en los riesgos más críticos y urgentes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Fx0e4PgrEe27nrnM_TBeKQ" name="Crear la matriz de riesgo" guid="_Fx0e4PgrEe27nrnM_TBeKQ">
+    <sectionDescription>Representar los riesgos identificados y sus niveles de riesgo en una matriz. La matriz puede tener una estructura de filas&#xD;
+y columnas, donde las filas representan los riesgos y las columnas representan los niveles de riesgo. Esto permitirá&#xD;
+visualizar de manera clara y concisa los riesgos y su importancia relativa.</sectionDescription>
+  </sections>
+  <sections xmi:id="_KtThcPgrEe27nrnM_TBeKQ" name="Revisar y actualizar la matriz" guid="_KtThcPgrEe27nrnM_TBeKQ">
+    <sectionDescription>La matriz de riesgos debe ser revisada y actualizada periódicamente a medida que se identifiquen nuevos riesgos, se&#xD;
+implementen medidas de mitigación o cambien las circunstancias del proyecto.</sectionDescription>
+  </sections>
+  <purpose>El propósito de la matriz de riesgo es anticiparse a los riesgos potenciales y tomar medidas proactivas para minimizar su&#xD;
+impacto en el proyecto de software.</purpose>
+  <alternatives>Una alternativa a la matriz de riesgo como tarea en un proyecto de software puede ser la técnica análisis de &quot;¿Qué pasaría&#xD;
+si?&quot;. En esta técnica, se exploran diferentes escenarios hipotéticos y se analiza cómo afectarían al proyecto.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dwbJZcxUNObPIbXdKOY-pw" name=",_320vQPdcEe2RbJufFOgbsg" guid="-dwbJZcxUNObPIbXdKOY-pw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:25:01.724-0500" changeDescription="Se realizara el modelado de datos fisicos." version="1.0">
+  <mainDescription>Realizar el modelo de datos físicos es una tarea que consiste en definir la estructura física de una base de datos,&#xD;
+considerando aspectos como los tipos de datos, las restricciones de integridad y las configuraciones de almacenamiento.&#xD;
+Esta tarea se realiza después de haber diseñado el modelo de datos lógicos y tiene como objetivo traducir dicho modelo en&#xD;
+un esquema físico que pueda ser implementado en un sistema de gestión de bases de datos.</mainDescription>
+  <keyConsiderations>Seleccion de datos, Restricciones e integridad, Configuracion de almacenamiento, Optimizacion de rendimiento,</keyConsiderations>
+  <sections xmi:id="_kUI6QPhCEe27nrnM_TBeKQ" name="Diseñar diagrama de entidad-relacion" guid="_kUI6QPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Utiliza un diagrama ER para representar las entidades, atributos y relaciones relacionadas con el módulo de seguridad de&#xD;
+login. Este diagrama servirá como punto de partida para el modelado de datos físicos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_naSy4PhCEe27nrnM_TBeKQ" name="Normalizar las tablas" guid="_naSy4PhCEe27nrnM_TBeKQ">
+    <sectionDescription>Aplica las reglas de normalización para asegurar que las tablas estén estructuradas de manera eficiente y sin redundancias.&#xD;
+Esto implica dividir las entidades en tablas separadas y establecer las claves primarias y las relaciones adecuadas entre&#xD;
+ellas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ptougPhCEe27nrnM_TBeKQ" name="Definir los tipos de datos y restricciones" guid="_ptougPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Para cada atributo en las tablas, define los tipos de datos apropiados que se utilizarán para almacenar los valores.&#xD;
+Además, agrega restricciones de integridad para garantizar la validez y coherencia de los datos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_u7pEcPhCEe27nrnM_TBeKQ" name="Establecer relaciones y restricciones de clave externa" guid="_u7pEcPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Identifica las relaciones entre las tablas y establece las claves externas para mantener la integridad referencial. Esto&#xD;
+asegurará que las relaciones entre las entidades se mantengan correctamente.</sectionDescription>
+  </sections>
+  <sections xmi:id="_yWezoPhCEe27nrnM_TBeKQ" name="Optimizar el rendimiento" guid="_yWezoPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Analiza las consultas y operaciones más comunes en el módulo de seguridad de login y realiza ajustes en el modelo de datos&#xD;
+para optimizar el rendimiento. Esto puede incluir la creación de índices, la denormalización selectiva o la partición de&#xD;
+datos, según sea necesario.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1XoQcPhCEe27nrnM_TBeKQ" name="Generar el script de creación de la base de datos" guid="_1XoQcPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Una vez que hayas completado el diseño del modelo de datos físicos, genera un script SQL que contenga todas las&#xD;
+instrucciones necesarias para crear las tablas, definir las relaciones y aplicar las restricciones en la base de datos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4LsTgPhCEe27nrnM_TBeKQ" name="Validar el modelado de datos fisicos" guid="_4LsTgPhCEe27nrnM_TBeKQ">
+    <sectionDescription>Realiza pruebas y validaciones en el modelo de datos físicos para asegurarte de que cumpla con los requisitos del módulo de&#xD;
+seguridad de login. Esto puede incluir la verificación de las relaciones, la consistencia de los tipos de datos y las&#xD;
+restricciones.</sectionDescription>
+  </sections>
+  <purpose>El propósito de realizar el modelo de datos físicos es convertir el diseño lógico de la base de datos en una representación&#xD;
+concreta que pueda ser implementada en el sistema de gestión de bases de datos.</purpose>
+  <alternatives>Una alternativa a realizar el modelo de datos físicos es utilizar herramientas de modelado de bases de datos que permitan&#xD;
+generar automáticamente el esquema físico a partir del modelo lógico.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

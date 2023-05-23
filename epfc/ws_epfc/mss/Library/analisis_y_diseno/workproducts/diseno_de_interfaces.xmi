@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zern5M0Xi2Lju_0aafPJgg" name="new_artifact,_1EKewPd6Ee2tX4LLMx9DDg" guid="-zern5M0Xi2Lju_0aafPJgg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T21:01:29.482-0500" changeDescription="Se diseñaran las interfaces de usuario." version="1.0">
+  <mainDescription>El diseño de interfaces es un proceso en el que se crea la apariencia visual y la funcionalidad de las interfaces de&#xD;
+usuario de un proyecto de software. Esto implica definir la disposición de los elementos de la interfaz, los colores, los&#xD;
+estilos, los iconos y otros componentes visuales, así como la interacción y la experiencia del usuario. El diseño de&#xD;
+interfaces busca crear interfaces intuitivas, atractivas y eficientes que permitan a los usuarios interactuar de manera&#xD;
+efectiva con el software.</mainDescription>
+  <keyConsiderations>Conocimiento del publico objetivo, Diseño centrado en el usuario, Consistencia, Iteracion y pruebas.</keyConsiderations>
+  <purpose>El propósito del diseño de interfaces es mejorar la usabilidad y la experiencia del usuario en el software.</purpose>
+  <briefOutline>El diseño de interfaces es una parte esencial del desarrollo de software, ya que influye en la forma en que los usuarios&#xD;
+interactúan y perciben el sistema</briefOutline>
+  <representation>La representación seleccionada para el diseño de interfaces puede ser a través de prototipos interactivos, maquetas o&#xD;
+wireframes.</representation>
+  <notation>La notación utilizada en el diseño de interfaces puede variar dependiendo de las herramientas y los estándares utilizados.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

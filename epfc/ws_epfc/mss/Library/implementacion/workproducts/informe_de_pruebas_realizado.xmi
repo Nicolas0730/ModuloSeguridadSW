@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dm5XPh5Gh2y3S9W-PekBPQ" name="informe_de_pruebas_realizado,_cgCmUPdGEe2RbJufFOgbsg" guid="-dm5XPh5Gh2y3S9W-PekBPQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T14:40:06.667-0500" changeDescription="Se han echo todas las pruebas y se han documentado." version="2.0">
+  <mainDescription>Realizar un informe de pruebas implica documentar de manera sistemática y detallada los resultados, hallazgos y&#xD;
+conclusiones obtenidos durante el proceso de pruebas. El informe de pruebas sirve como un registro formal de las pruebas&#xD;
+realizadas, las incidencias identificadas y las medidas tomadas para abordarlas. Incluye información relevante como los&#xD;
+escenarios de prueba, los resultados obtenidos, los errores encontrados, la cobertura de pruebas y cualquier otra&#xD;
+información significativa para evaluar la calidad y el estado del software.</mainDescription>
+  <keyConsiderations>Organizacion y estructura, Claridad, Enfoque de resultados.</keyConsiderations>
+  <purpose>El propósito del informe de pruebas es proporcionar una visión clara y objetiva del estado del software en términos de su&#xD;
+calidad y capacidad para cumplir con los requisitos establecidos.</purpose>
+  <briefOutline>El informe de pruebas es un artefacto que documenta de manera sistemática y detallada los resultados, hallazgos y&#xD;
+conclusiones de las pruebas realizadas en un proyecto de software.</briefOutline>
+  <representation>La representación seleccionada para el informe de pruebas en un proyecto de software puede ser un documento en formato&#xD;
+electrónico, como un archivo PDF o un documento de procesamiento de texto.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

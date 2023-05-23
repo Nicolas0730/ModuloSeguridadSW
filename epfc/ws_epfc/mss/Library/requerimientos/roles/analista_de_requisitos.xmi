@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vup3J3ENL2T5Us9tqCmQzw" name="analista_de_requisitos,_O5RsoPX8Ee2sYpjh_H8PKQ" guid="-vup3J3ENL2T5Us9tqCmQzw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T23:19:06.764-0500">
+  <mainDescription>El analista de requisitos es un rol clave en un proyecto de software. Su responsabilidad principal es identificar, analizar&#xD;
+y documentar los requisitos del sistema, asegurándose de comprender las necesidades de los usuarios y las partes&#xD;
+interesadas, y de traducirlas en especificaciones claras y concisas. El analista de requisitos trabaja en estrecha&#xD;
+colaboración con los diferentes actores involucrados, como usuarios finales, propietarios del negocio, desarrolladores y&#xD;
+diseñadores, para asegurar que los requisitos sean completos, consistentes, verificables y rastreables.</mainDescription>
+  <keyConsiderations>Comprension del dominio del negocio, Habilidades de comunicacion, Capacidad de analisis y resolucion de problemas,&#xD;
+Flexibilidad y adaptabilidad</keyConsiderations>
+  <skills>Habilidades de comunicacion, Habilidades analiticas, Capacidad de escucha activa, Pensamiento critico, Conocimiento&#xD;
+tecnico, Pensamiento sistemico</skills>
+  <synonyms>Especificador de requisitos</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

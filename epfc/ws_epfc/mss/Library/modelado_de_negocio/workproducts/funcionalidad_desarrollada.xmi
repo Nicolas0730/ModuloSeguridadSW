@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9myuXNoj11RZVbA-UUe8jA" name="new_artifact,_f0g4APX3Ee2sYpjh_H8PKQ" guid="-9myuXNoj11RZVbA-UUe8jA" changeDate="2023-05-18T22:48:19.709-0500">
+  <mainDescription>&lt;p>&#xD;
+    Desarrollar las funcionalidades en un proyecto de software implica crear y construir las distintas características y&#xD;
+    capacidades del sistema que se desea desarrollar. Es el proceso de convertir los requisitos y especificaciones del&#xD;
+    software en código ejecutable y funcional.Durante el desarrollo de las funcionalidades, los desarrolladores escriben el&#xD;
+    código necesario para implementar las acciones, comportamientos y lógica definidos en los requisitos. Esto implica&#xD;
+    utilizar lenguajes de programación, frameworks y herramientas adecuadas para la tarea.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Cumplimiento de requisitos, Diseño modular y escalable, Usabilidad y experiencia de usuario, Rendimiento y eficiencia</keyConsiderations>
+  <purpose>El propósito de desarrollar las funcionalidades en un proyecto de software es crear el software que cumpla con los&#xD;
+requisitos establecidos y proporcione las funcionalidades y características deseadas.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

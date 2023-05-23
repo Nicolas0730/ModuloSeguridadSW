@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RdLEMfXlEe2sYpjh_H8PKQ" guid="_RdLEMfXlEe2sYpjh_H8PKQ">
+    <resourceDescriptors xmi:id="_YV7AgfXsEe2sYpjh_H8PKQ" id="-AydXU79-pYEFnkK7doJA7A" uri="tasks/hablar_con_los_encargados_de_cada_area.xmi"/>
+    <resourceDescriptors xmi:id="_cLQL8fXvEe2sYpjh_H8PKQ" id="-Mp8Nx7vSF_ERCMSPLVxNVQ" uri="roles/gerente_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_pkVToPX0Ee2sYpjh_H8PKQ" id="-MNLdpa3Ag6LS9ySNXO1vDA" uri="workproducts/requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_dFBy8fX3Ee2sYpjh_H8PKQ" id="-0iQpIy3Eg_0UL15Nq5TtgA" uri="tasks/revisar_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_-k378PX5Ee2sYpjh_H8PKQ" id="-9myuXNoj11RZVbA-UUe8jA" uri="workproducts/funcionalidad_desarrollada.xmi"/>
+    <resourceDescriptors xmi:id="_vV5IUvZREe2wDqCaHjj1zg" id="-BdqFDu1cLitEjeqRYnY62w" uri="guidances/checklists/checklist_para_requisitos.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_RdIA4PXlEe2sYpjh_H8PKQ" name="modelado_de_negocio" guid="_RdIA4PXlEe2sYpjh_H8PKQ" presentationName="modelado de negocio" briefDescription="Este método contiene el modelado de negocio enfocado en el módulo de seguridad de la constructora CAMU." authors="Diego Alexander Zuñiga Mosquera &#xD;&#xA;Nicolas Jaramillo Arcos &#xD;&#xA;Sebastian Sabogal Gonzalez" changeDate="2023-05-18T20:34:27.910-0500">
+    <methodElementProperty xmi:id="_S181APXlEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdIA4fXlEe2sYpjh_H8PKQ" name="Content" guid="_RdIA4fXlEe2sYpjh_H8PKQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdIA4vXlEe2sYpjh_H8PKQ" name="Categories" guid="_RdIA4vXlEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdIA4_XlEe2sYpjh_H8PKQ" name="Domains" guid="_RdIA4_XlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdIA5PXlEe2sYpjh_H8PKQ" name="Disciplines" guid="_RdIA5PXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdIPXlEe2sYpjh_H8PKQ" name="RoleSets" guid="_RdKdIPXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdIfXlEe2sYpjh_H8PKQ" name="WP Types" guid="_RdKdIfXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdIvXlEe2sYpjh_H8PKQ" name="Tools" guid="_RdKdIvXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdI_XlEe2sYpjh_H8PKQ" name="StandardCategories" guid="_RdKdI_XlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdJPXlEe2sYpjh_H8PKQ" name="CustomCategories" guid="_RdKdJPXlEe2sYpjh_H8PKQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdJfXlEe2sYpjh_H8PKQ" name="Hidden" guid="_RdKdJfXlEe2sYpjh_H8PKQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_RdKdJvXlEe2sYpjh_H8PKQ" name="Custom Categories" guid="_RdKdJvXlEe2sYpjh_H8PKQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RdKdJ_XlEe2sYpjh_H8PKQ" name="CoreContent" guid="_RdKdJ_XlEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_B2iUQPXqEe2sYpjh_H8PKQ" name="planeacion_del_proyecto" guid="_B2iUQPXqEe2sYpjh_H8PKQ" presentationName="Planeacion del proyecto" briefDescription="En esta tarea el gerente del proyecto se encargara de hablar con cada uno de los encargados de cada area para planear el desarrollo del proyecto">
+          <methodElementProperty xmi:id="_B2iUQfXqEe2sYpjh_H8PKQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_cLNIoPXvEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ToghEPXqEe2sYpjh_H8PKQ" name="hablar_con_los_encargados_de_cada_area" guid="_ToghEPXqEe2sYpjh_H8PKQ" presentationName="Hablar con los encargados de cada area" briefDescription="En esta tarea el gerente del proyecto se reune con los encargados de cada area para planificar el desarrollo del proyecto" performedBy="_moNaYPXsEe2sYpjh_H8PKQ" output="_-62-kPXvEe2sYpjh_H8PKQ">
+            <methodElementProperty xmi:id="_YV5yYPXsEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AydXU79-pYEFnkK7doJA7A" href="uma://-AydXU79-pYEFnkK7doJA7A#-AydXU79-pYEFnkK7doJA7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_moNaYPXsEe2sYpjh_H8PKQ" name="gerente_del_proyecto" guid="_moNaYPXsEe2sYpjh_H8PKQ" presentationName="Gerente del proyecto" briefDescription="El gerente de proyecto es responsable de garantizar que el proyecto se ejecute de manera eficiente, dentro de los plazos establecidos y con los resultados esperados, al tiempo que gestiona los recursos y las expectativas de las partes interesadas" responsibleFor="_-62-kPXvEe2sYpjh_H8PKQ">
+            <methodElementProperty xmi:id="_cLqboPXvEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Mp8Nx7vSF_ERCMSPLVxNVQ" href="uma://-Mp8Nx7vSF_ERCMSPLVxNVQ#-Mp8Nx7vSF_ERCMSPLVxNVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_-62-kPXvEe2sYpjh_H8PKQ" name="requisitos" guid="_-62-kPXvEe2sYpjh_H8PKQ" presentationName="Requisitos" briefDescription="Este artefacto tendra los requisitos necesarios para el desarrollo del proyecto" shapeicon="workproducts/resources/Captura+de+pantalla+2023-03-25+203537.png">
+            <methodElementProperty xmi:id="_pkLioPX0Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-MNLdpa3Ag6LS9ySNXO1vDA" href="uma://-MNLdpa3Ag6LS9ySNXO1vDA#-MNLdpa3Ag6LS9ySNXO1vDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5fMYYPX1Ee2sYpjh_H8PKQ" name="revisar_requisitos" guid="_5fMYYPX1Ee2sYpjh_H8PKQ" presentationName="Revisar requisitos" briefDescription="En esta tarea se revisaran los requisitos antes presentados" performedBy="_moNaYPXsEe2sYpjh_H8PKQ" mandatoryInput="_-62-kPXvEe2sYpjh_H8PKQ" output="_f0g4APX3Ee2sYpjh_H8PKQ">
+            <methodElementProperty xmi:id="_dFBL4PX3Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-0iQpIy3Eg_0UL15Nq5TtgA" href="uma://-0iQpIy3Eg_0UL15Nq5TtgA#-0iQpIy3Eg_0UL15Nq5TtgA"/>
+            <optionalInput href="uma://_oZiSQPXlEe2sYpjh_H8PKQ#_pC9gYPX-Ee2sYpjh_H8PKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_f0g4APX3Ee2sYpjh_H8PKQ" name="funcionalidad_desarrollada" guid="_f0g4APX3Ee2sYpjh_H8PKQ" presentationName="Funcionalidad desarrollada" briefDescription="En este artefacto ya las funcionalidades establecidas en los requisitos han sido desarrolladas.">
+            <methodElementProperty xmi:id="_6QSr4PX6Ee2sYpjh_H8PKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-9myuXNoj11RZVbA-UUe8jA" href="uma://-9myuXNoj11RZVbA-UUe8jA#-9myuXNoj11RZVbA-UUe8jA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_hEFPkPZREe2wDqCaHjj1zg" name="checklist_para_requisitos" guid="_hEFPkPZREe2wDqCaHjj1zg" presentationName="Checklist para requisitos">
+            <methodElementProperty xmi:id="_vV5IUPZREe2wDqCaHjj1zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-BdqFDu1cLitEjeqRYnY62w" href="uma://-BdqFDu1cLitEjeqRYnY62w#-BdqFDu1cLitEjeqRYnY62w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RdKdKPXlEe2sYpjh_H8PKQ" name="CapabilityPatterns" guid="_RdKdKPXlEe2sYpjh_H8PKQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RdKdKfXlEe2sYpjh_H8PKQ" name="DeliveryProcesses" guid="_RdKdKfXlEe2sYpjh_H8PKQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RdKdKvXlEe2sYpjh_H8PKQ" name="ProcessContributions" guid="_RdKdKvXlEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oWrEVDYvgXRDNnidCZPoVw" name=",_-6IY0PZ-Ee2RbJufFOgbsg" guid="-oWrEVDYvgXRDNnidCZPoVw" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T14:56:38.852-0500" changeDescription="Desarrollo de los diagramas de caso de uso" version="1.0">
+  <mainDescription>Los casos de uso son una técnica utilizada en proyectos de software para describir las interacciones entre los usuarios y&#xD;
+el sistema. Consisten en escenarios o situaciones en las cuales los usuarios interactúan con el sistema para lograr un&#xD;
+objetivo específico. Los casos de uso describen las acciones que realiza el usuario, las respuestas del sistema y las&#xD;
+condiciones en las cuales ocurren estas interacciones.</mainDescription>
+  <keyConsiderations>Identifiacion de los actores, Documentacion adecuada, Validacion y verificacion</keyConsiderations>
+  <sections xmi:id="_wsdg0PhNEe2AQs_6oxtXKg" name="Identificar los actores involucrados " guid="_wsdg0PhNEe2AQs_6oxtXKg">
+    <sectionDescription>Determina los diferentes roles o usuarios que interactuarán con el sistema de login, como administradores, empleados o&#xD;
+clientes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ziUToPhNEe2AQs_6oxtXKg" name="Definir los objetivos del sistema " guid="_ziUToPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Establece los objetivos principales del sistema de login, como autenticar a los usuarios, proteger la información&#xD;
+confidencial y garantizar la privacidad de los datos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7x8AcPhNEe2AQs_6oxtXKg" name="Identificar los casos de uso principales" guid="_7x8AcPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Identifica los diferentes escenarios de interacción entre los actores y el sistema de login. Por ejemplo, casos de uso como&#xD;
+&quot;Iniciar sesión&quot;, &quot;Recuperar contraseña&quot; o &quot;Registrar nuevo usuario&quot;.</sectionDescription>
+  </sections>
+  <sections xmi:id="_-lVVIPhNEe2AQs_6oxtXKg" name="Describir cada caso de uso" guid="_-lVVIPhNEe2AQs_6oxtXKg">
+    <sectionDescription>Para cada caso de uso identificado, describe en detalle los pasos que el actor y el sistema de login deben seguir. Incluye&#xD;
+la información necesaria para completar cada acción, como campos de entrada, mensajes de confirmación y posibles errores o&#xD;
+excepciones.</sectionDescription>
+  </sections>
+  <sections xmi:id="_CBw_wPhOEe2AQs_6oxtXKg" name="Definir relaciones entre los casos de uso" guid="_CBw_wPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Determina las dependencias o relaciones entre los casos de uso. Por ejemplo, un caso de uso &quot;Recuperar contraseña&quot; puede&#xD;
+depender del caso de uso &quot;Iniciar sesión&quot;.</sectionDescription>
+  </sections>
+  <sections xmi:id="_FABgoPhOEe2AQs_6oxtXKg" name="Validar y refinar los casos de uso" guid="_FABgoPhOEe2AQs_6oxtXKg">
+    <sectionDescription>Revisa y valida los casos de uso con los stakeholders o personas involucradas en el proyecto. Realiza ajustes o mejoras&#xD;
+según sea necesario para asegurar que los casos de uso sean claros, completos y coherentes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_IO-v8PhOEe2AQs_6oxtXKg" name="Documentar los casos de uso" guid="_IO-v8PhOEe2AQs_6oxtXKg">
+    <sectionDescription>Registra los casos de uso en un documento o herramienta adecuada, como diagramas de casos de uso, descripciones detalladas&#xD;
+o modelos de texto estructurado.</sectionDescription>
+  </sections>
+  <purpose>El propósito de los casos de uso es capturar los requisitos funcionales del sistema desde la perspectiva del usuario.</purpose>
+  <alternatives>Una alternativa a la tarea de realizar casos de uso en un proyecto de software puede ser la creación de historias de&#xD;
+usuario.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--dD19GoK2XQoEYaNplLhHg" name="new_artifact,_fs6-wPdWEe2RbJufFOgbsg" guid="--dD19GoK2XQoEYaNplLhHg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T16:38:54.318-0500" changeDescription="Se consideraran los componentes de seguridad necesarios en el proyecto&#x9;&#x9;" version="1.0">
+  <mainDescription>Los componentes de seguridad son artefactos en un proyecto de software que se refieren a las diferentes medidas y&#xD;
+funcionalidades implementadas para garantizar la seguridad del sistema. Estos componentes pueden incluir elementos como el&#xD;
+control de acceso, la autenticación, el cifrado de datos, la auditoría y el monitoreo de eventos, entre otros. Su objetivo&#xD;
+es proteger la información confidencial y prevenir posibles amenazas y ataques cibernéticos.</mainDescription>
+  <keyConsiderations>Evaluacion de riesgos, Cumplimiento normativa, Actualizacion y mantenimiento, Integracion con la arquitectura.</keyConsiderations>
+  <purpose>El propósito de los componentes de seguridad es asegurar que el sistema de software sea resistente a vulnerabilidades y&#xD;
+riesgos de seguridad.</purpose>
+  <briefOutline>Los componentes de seguridad son elementos clave en un proyecto de software que se implementan para proteger la información&#xD;
+y prevenir riesgos de seguridad.</briefOutline>
+  <representation>Los componentes de seguridad pueden representarse mediante diagramas de arquitectura o de componentes, donde se identifican&#xD;
+y describen los diferentes elementos de seguridad y su relación con otros componentes del sistema.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

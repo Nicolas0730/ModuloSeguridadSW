@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dW3nBrpr1b1CTxM7x4TPYg" name="tester,_AeobMPawEe2RbJufFOgbsg" guid="-dW3nBrpr1b1CTxM7x4TPYg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T22:28:53.594-0500" changeDescription="Se crea el rol de tester" version="1.0">
+  <mainDescription>El tester, también conocido como analista de pruebas o ingeniero de pruebas, es un rol clave en el desarrollo de software.&#xD;
+Su principal responsabilidad es diseñar, ejecutar y analizar pruebas para garantizar la calidad y funcionalidad del&#xD;
+software. El tester se enfoca en identificar defectos, verificar el cumplimiento de los requisitos y evaluar la usabilidad&#xD;
+y rendimiento del sistema. Además, colabora estrechamente con el equipo de desarrollo para entender los requisitos y las&#xD;
+especificaciones del software.</mainDescription>
+  <keyConsiderations>Conocimiento tecnico de prueba, Habilidades de analisis, Resolucion de problemas, Capacidad para diseñar, Capacidad&#xD;
+comunicacion.</keyConsiderations>
+  <skills>Conocimiento de metodologias de pruebas,&amp;nbsp;Comprension de los requisitos, Habilidades de scriptin, &amp;nbsp;</skills>
+  <assignmentApproaches>El tester puede ser asignado a proyectos de software desde el inicio, participando en la definición de requisitos y el&#xD;
+diseño del sistema, o puede ser involucrado en etapas posteriores del desarrollo para realizar pruebas de funcionalidad,&#xD;
+rendimiento y seguridad.</assignmentApproaches>
+  <synonyms>Ingeniero de pruebas, Control de calidad, Aseguramiento de la calidad, Validador, Validador de software.</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

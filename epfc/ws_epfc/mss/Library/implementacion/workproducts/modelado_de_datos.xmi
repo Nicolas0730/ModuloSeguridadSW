@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MDqcDlMrAl0A8QqSjI8z3w" name="new_artifact,_70YCkPdfEe2RbJufFOgbsg" guid="-MDqcDlMrAl0A8QqSjI8z3w" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:46:23.826-0500" changeDescription="Se busca realizar el modelado de los datos" version="1.0">
+  <mainDescription>El modelado de datos en un proyecto de software es el proceso de definir y representar la estructura de los datos&#xD;
+utilizados por el sistema. Consiste en identificar las entidades relevantes, definir sus atributos y establecer las&#xD;
+relaciones entre ellas. El modelado de datos ayuda a los diseñadores y desarrolladores a comprender y organizar la&#xD;
+información que el sistema manejará, asegurando que los datos estén correctamente estructurados y sean coherentes.</mainDescription>
+  <keyConsiderations>Identificacion de entidades y atributos, Normalizacion y consistencia, Relaciones claras y correctas.</keyConsiderations>
+  <purpose>El propósito del modelado de datos es capturar y representar la estructura y las relaciones de los datos en un sistema de&#xD;
+software.</purpose>
+  <briefOutline>El modelado de datos es una etapa esencial en el diseño de un sistema de software. Permite representar de manera&#xD;
+estructurada y comprensible la información que el sistema manejará, facilitando la posterior implementación y uso de la&#xD;
+base de datos.</briefOutline>
+  <representation>La representación más común para el modelado de datos es utilizar diagramas de entidad-relación (ER). En estos diagramas,&#xD;
+las entidades se representan como rectángulos, los atributos como óvalos o elipses, y las relaciones como líneas que&#xD;
+conectan las entidades.</representation>
+  <notation>En la notación de los diagramas de entidad-relación, se utilizan símbolos específicos para representar las entidades, los&#xD;
+atributos y las relaciones.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

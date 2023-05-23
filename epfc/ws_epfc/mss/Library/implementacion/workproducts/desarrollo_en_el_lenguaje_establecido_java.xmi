@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-v0Eo2vOeHxWaWhZLQemUIQ" name="new_artifact,_RAENMPawEe2RbJufFOgbsg" guid="-v0Eo2vOeHxWaWhZLQemUIQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T21:02:41.270-0500" changeDescription="Se realiza la codificacion adecuada de los requisitos y metodos presentados " version="1.0">
+  <mainDescription>El desarrollo del proyecto en Java se refiere al proceso de creación, implementación y programación de software utilizando&#xD;
+el lenguaje de programación Java. Este proceso involucra diversas etapas, como el análisis de requisitos, el diseño de la&#xD;
+arquitectura, la implementación de las funcionalidades, las pruebas y la entrega del software final. El lenguaje Java es&#xD;
+ampliamente utilizado en el desarrollo de aplicaciones empresariales, aplicaciones web, aplicaciones móviles y otros&#xD;
+sistemas de software.</mainDescription>
+  <keyConsiderations>Conocimiento del lenguaje, Diseño de arquitectura adecuado, Buenas practicas en el desarrollo, Documentacion adecuada,&#xD;
+Mantenibilidad y actualizacion</keyConsiderations>
+  <purpose>El propósito del desarrollo del proyecto en Java es construir software funcional y robusto utilizando las capacidades y&#xD;
+características del lenguaje Java.</purpose>
+  <briefOutline>El desarrollo del proyecto en Java implica la implementación de software utilizando el lenguaje Java.</briefOutline>
+  <representation>La representación seleccionada para el desarrollo del proyecto en Java es el código fuente escrito en el lenguaje Java.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

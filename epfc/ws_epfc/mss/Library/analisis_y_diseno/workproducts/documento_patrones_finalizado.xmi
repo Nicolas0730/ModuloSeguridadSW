@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BBgSXoadMWXEDWotrTqxNQ" name="documento_patrones_finalizado,_d8lTo_eEEe2tX4LLMx9DDg" guid="-BBgSXoadMWXEDWotrTqxNQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:52:02.905-0500" changeDescription="Se realizo un documento de patrones para la tarea" version="2.0">
+  <mainDescription>El documento es un componente esencial en un proyecto de software que tiene como objetivo capturar y comunicar información&#xD;
+detallada sobre el sistema. Puede tomar diferentes formas, como especificaciones técnicas, manuales de usuario, informes de&#xD;
+diseño, planes de proyecto, entre otros. El documento proporciona una fuente de referencia y guía para los miembros del&#xD;
+equipo, stakeholders y usuarios finales.</mainDescription>
+  <keyConsiderations>Claridad y coherencia, Actualizacion y mantenimiento, Organizacion y estructura</keyConsiderations>
+  <purpose>El propósito del documento en un proyecto de software es documentar y comunicar información relevante sobre el sistemae</purpose>
+  <briefOutline>El documento es un componente fundamental en un proyecto de software, ya que registra y comunica la información clave&#xD;
+relacionada con el sistema.</briefOutline>
+  <representation>La representación del documento puede variar según la naturaleza del proyecto y las preferencias del equipo.</representation>
+  <notation>La notación utilizada en el documento dependerá del formato seleccionado. Puede incluir el uso de títulos y subtítulos para&#xD;
+organizar el contenido, viñetas o numeración para listas y secciones, y estilos de fuente y formato para resaltar la&#xD;
+información importante.</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_y1y1wfXlEe2sYpjh_H8PKQ" guid="_y1y1wfXlEe2sYpjh_H8PKQ">
+    <resourceDescriptors xmi:id="_GYLscPdIEe2RbJufFOgbsg" id="-JQxw10s3dWVZY93AjvIcIg" uri="tasks/realizar_diagrama_de_arquitectura.xmi"/>
+    <resourceDescriptors xmi:id="_QcX4wvdJEe2RbJufFOgbsg" id="-Y-l3XW0scxzJMptHdhvl3g" uri="tasks/realizar_especificaciones_tecnicas.xmi"/>
+    <resourceDescriptors xmi:id="_-j4-0vdJEe2RbJufFOgbsg" id="-ywRAbjnD9c5AvjAUFOFMcg" uri="tasks/realizar_documento_de_componentes_de_seguridad.xmi"/>
+    <resourceDescriptors xmi:id="_dQUoMfdQEe2RbJufFOgbsg" id="-3kvCGL4_OLIO2nOfXm1BVA" uri="tasks/realizar_plan_de_mitigacion_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_hNFGwfdSEe2RbJufFOgbsg" id="-WxNU2SD1w08v8sp5npoLkw" uri="roles/arquitecto_de_software.xmi"/>
+    <resourceDescriptors xmi:id="_46JjkvdTEe2RbJufFOgbsg" id="-xwQLLCBqEp3w-KRchXuExQ" uri="workproducts/planear_diagrama_de_arquitectura.xmi"/>
+    <resourceDescriptors xmi:id="_7c7pYfdTEe2RbJufFOgbsg" id="-NG1jIE2Cgtaf9y39053qLQ" uri="workproducts/informe_de_pruebas_realizado.xmi"/>
+    <resourceDescriptors xmi:id="_-0D9QfdTEe2RbJufFOgbsg" id="-QW9OTM3lD7SJBGjp4K22NA" uri="workproducts/diagrama_de_arquitectura_terminado.xmi"/>
+    <resourceDescriptors xmi:id="__6OpMPdVEe2RbJufFOgbsg" id="-UM2msp882hF8ERlGW7bfBg" uri="workproducts/especificaciones_tecnicas.xmi"/>
+    <resourceDescriptors xmi:id="_Sj1BkfdWEe2RbJufFOgbsg" id="-98b5P2gRy4cqeQnpRRk1CQ" uri="workproducts/especificaciones_tecnicas_terminadas.xmi"/>
+    <resourceDescriptors xmi:id="_BFyn8PdXEe2RbJufFOgbsg" id="--dD19GoK2XQoEYaNplLhHg" uri="workproducts/componentes_de_seguridad_.xmi"/>
+    <resourceDescriptors xmi:id="_C03Y4PdXEe2RbJufFOgbsg" id="-_RBMUi9bZz-H6QYhzs9W9A" uri="workproducts/documento_terminado.xmi"/>
+    <resourceDescriptors xmi:id="_wBvboPdXEe2RbJufFOgbsg" id="-BSTTl4z2xK64rfdjGG-voQ" uri="workproducts/plan_de_mitigacion_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_7lImUPdXEe2RbJufFOgbsg" id="-ffTaE4Hd1V9nU588mjXiPA" uri="workproducts/plan_de_mitigacion_de_riesgos_terminado.xmi"/>
+    <resourceDescriptors xmi:id="_5oRf8fd2Ee2tX4LLMx9DDg" id="-WmqCN9Jfyaxp2NiDAvsENg" uri="roles/disenador_de_ui-ux.xmi"/>
+    <resourceDescriptors xmi:id="_wXQLEPd3Ee2tX4LLMx9DDg" id="-BujdtMIwyOyznfGSMDOkew" uri="tasks/realizar_diagrama_de_clases.xmi"/>
+    <resourceDescriptors xmi:id="_BbCcMPd4Ee2tX4LLMx9DDg" id="-9zhCyQaGIqCFoPH097vygQ" uri="tasks/realizar_diagrama_de_interaccion.xmi"/>
+    <resourceDescriptors xmi:id="_rl64IPd5Ee2tX4LLMx9DDg" id="--zDes-GVVNeSlrflSkXtMg" uri="tasks/presentar_diseno_de_las_interfaces.xmi"/>
+    <resourceDescriptors xmi:id="_t3cZYvd6Ee2tX4LLMx9DDg" id="-sY5P4weWglPH62_p7If3NQ" uri="tasks/realizar_las_directrices_de_patrones_de_disenos.xmi"/>
+    <resourceDescriptors xmi:id="_3WOLgPd7Ee2tX4LLMx9DDg" id="-zern5M0Xi2Lju_0aafPJgg" uri="workproducts/diseno_de_interfaces.xmi"/>
+    <resourceDescriptors xmi:id="_Vwc_sPeEEe2tX4LLMx9DDg" id="-mCUkBHjVG7gV7FhHItikRw" uri="workproducts/diseno_de_interfaces_realizado.xmi"/>
+    <resourceDescriptors xmi:id="_d9ujJfeEEe2tX4LLMx9DDg" id="-730c1yyYCleNzbcIhZyNuA" uri="workproducts/diagrama.xmi"/>
+    <resourceDescriptors xmi:id="_d90pwPeEEe2tX4LLMx9DDg" id="-R9u9T5-TNMAbqI3-OrI5QA" uri="workproducts/diagrama_finalizado.xmi"/>
+    <resourceDescriptors xmi:id="_d90pwfeEEe2tX4LLMx9DDg" id="-j5UNTZveVlDv0DaZp-tozQ" uri="workproducts/documento_patrones.xmi"/>
+    <resourceDescriptors xmi:id="_d96wYPeEEe2tX4LLMx9DDg" id="-BBgSXoadMWXEDWotrTqxNQ" uri="workproducts/documento_patrones_finalizado.xmi"/>
+    <resourceDescriptors xmi:id="_ablB4PgPEe27nrnM_TBeKQ" id="-2TWho48zHTIRv27MEMa0EA" uri="roles/auditor_de_seguridad.xmi"/>
+    <resourceDescriptors xmi:id="_ttlhQPgTEe27nrnM_TBeKQ" id="-C8PivIefyunVAxRJfgzGBQ" uri="tasks/realizar_informe_de_evaluacion_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_FyfcAPglEe27nrnM_TBeKQ" id="-tjIFqHVxVHiPAinJRevMkw" uri="tasks/realizar_matriz_de_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_Kd7QYPglEe27nrnM_TBeKQ" id="-sfV6ZaicEFPqagQb3eAJ2Q" uri="workproducts/matriz_de_riesgo_finalizada.xmi"/>
+    <resourceDescriptors xmi:id="_Kd-TsPglEe27nrnM_TBeKQ" id="-DRxTHugchAQHnnWpDev3Fg" uri="workproducts/planeacion_matriz_de_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_en2zEPglEe27nrnM_TBeKQ" id="-n7n3J0ci3XABrLGIBnNzLA" uri="tasks/realizar_plan_de_mitigacion_de_riesgos%202.xmi"/>
+    <resourceDescriptors xmi:id="_gKVSc_glEe27nrnM_TBeKQ" id="-pWTO_Wqwdnij2HCXRIJ20A" uri="workproducts/plan_de_mitigacion_de_riesgos%202.xmi"/>
+    <resourceDescriptors xmi:id="_gKecYPglEe27nrnM_TBeKQ" id="-b1QEniOpPGCHtN_Z_U60YQ" uri="workproducts/plan_de_mitigacion_de_riesgos_terminado%202.xmi"/>
+    <resourceDescriptors xmi:id="_tS_8YvgmEe27nrnM_TBeKQ" id="-e5G9xFNo1yJnlW26knLlcw" uri="tasks/realizar_las_recomendaciones_de_seguridad.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_y1xnoPXlEe2sYpjh_H8PKQ" name="analisis_y_diseno" guid="_y1xnoPXlEe2sYpjh_H8PKQ" presentationName="analisis y diseno" briefDescription="Este metodo implica comprender los requisitos del sistema y crear una solución estructurada y eficiente." authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T20:38:10.693-0500">
+    <methodElementProperty xmi:id="_0CerUPXlEe2sYpjh_H8PKQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnofXlEe2sYpjh_H8PKQ" name="Content" guid="_y1xnofXlEe2sYpjh_H8PKQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnovXlEe2sYpjh_H8PKQ" name="Categories" guid="_y1xnovXlEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xno_XlEe2sYpjh_H8PKQ" name="Domains" guid="_y1xno_XlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnpPXlEe2sYpjh_H8PKQ" name="Disciplines" guid="_y1xnpPXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnpfXlEe2sYpjh_H8PKQ" name="RoleSets" guid="_y1xnpfXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnpvXlEe2sYpjh_H8PKQ" name="WP Types" guid="_y1xnpvXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnp_XlEe2sYpjh_H8PKQ" name="Tools" guid="_y1xnp_XlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnqPXlEe2sYpjh_H8PKQ" name="StandardCategories" guid="_y1xnqPXlEe2sYpjh_H8PKQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnqfXlEe2sYpjh_H8PKQ" name="CustomCategories" guid="_y1xnqfXlEe2sYpjh_H8PKQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnqvXlEe2sYpjh_H8PKQ" name="Hidden" guid="_y1xnqvXlEe2sYpjh_H8PKQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_y1xnq_XlEe2sYpjh_H8PKQ" name="Custom Categories" guid="_y1xnq_XlEe2sYpjh_H8PKQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y1xnrPXlEe2sYpjh_H8PKQ" name="CoreContent" guid="_y1xnrPXlEe2sYpjh_H8PKQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lRxsQPdHEe2RbJufFOgbsg" name="diseno_de_arquitectura_y_seguridad" guid="_lRxsQPdHEe2RbJufFOgbsg" presentationName="Diseno de Arquitectura y Seguridad" briefDescription="El método consiste en realizar el diseño de la arquitectura del proyecto, especificar las características técnicas, documentar los componentes de seguridad y elaborar un plan de mitigación de riesgos.">
+          <methodElementProperty xmi:id="_lRxsQfdHEe2RbJufFOgbsg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_nEOhUPdHEe2RbJufFOgbsg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8xMkEPdHEe2RbJufFOgbsg" name="realizar_diagrama_de_arquitectura" guid="_8xMkEPdHEe2RbJufFOgbsg" presentationName="Realizar diagrama de arquitectura" briefDescription="Realizar un diagrama de arquitectura implica representar gráficamente la estructura y las interacciones de los componentes principales de un proyecto." performedBy="_ezww4PdQEe2RbJufFOgbsg" mandatoryInput="_pdkWQPdSEe2RbJufFOgbsg" output="_9Iz8YPdTEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_GYB7cPdIEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-JQxw10s3dWVZY93AjvIcIg" href="uma://-JQxw10s3dWVZY93AjvIcIg#-JQxw10s3dWVZY93AjvIcIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_j_w1UPdIEe2RbJufFOgbsg" name="realizar_especificaciones_tecnicas" guid="_j_w1UPdIEe2RbJufFOgbsg" presentationName="Realizar especificaciones tecnicas" briefDescription="Esta tarea implica documentar de manera detallada los requisitos técnicos, funcionalidades, características y restricciones del sistema a desarrollar." performedBy="_ezww4PdQEe2RbJufFOgbsg" mandatoryInput="_5_VqAPdTEe2RbJufFOgbsg" output="_RlyE8PdWEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_QcX4wPdJEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Y-l3XW0scxzJMptHdhvl3g" href="uma://-Y-l3XW0scxzJMptHdhvl3g#-Y-l3XW0scxzJMptHdhvl3g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cG170PdJEe2RbJufFOgbsg" name="realizar_documento_de_componentes_de_seguridad" guid="_cG170PdJEe2RbJufFOgbsg" presentationName="Realizar documento de componentes de seguridad" briefDescription="Realizar un documento de especificaciones de seguridad como tarea en un proyecto de software implica identificar y documentar los requisitos y medidas de seguridad necesarios para proteger el sistema de software contra amenazas y riesgos" performedBy="_ezww4PdQEe2RbJufFOgbsg" mandatoryInput="_fs6-wPdWEe2RbJufFOgbsg" output="_BzQK4PdXEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_-j4-0PdJEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ywRAbjnD9c5AvjAUFOFMcg" href="uma://-ywRAbjnD9c5AvjAUFOFMcg#-ywRAbjnD9c5AvjAUFOFMcg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jN9TAPdKEe2RbJufFOgbsg" name="realizar_plan_de_mitigacion_de_riesgos" guid="_jN9TAPdKEe2RbJufFOgbsg" presentationName="Realizar plan de mitigacion de riesgos" briefDescription="Realizar un plan de mitigación de riesgos como tarea en un proyecto de software implica identificar y abordar los riesgos potenciales asociados con el desarrollo, implementación y operación del software." performedBy="_ezww4PdQEe2RbJufFOgbsg" mandatoryInput="_XTs0kPdXEe2RbJufFOgbsg" output="_6sXLQPdXEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_le1JcPdKEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-3kvCGL4_OLIO2nOfXm1BVA" href="uma://-3kvCGL4_OLIO2nOfXm1BVA#-3kvCGL4_OLIO2nOfXm1BVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ezww4PdQEe2RbJufFOgbsg" name="arquitecto_de_software" guid="_ezww4PdQEe2RbJufFOgbsg" presentationName="Arquitecto de software" briefDescription="El arquitecto de software es responsable de diseñar y estructurar la arquitectura de un proyecto de software para garantizar su funcionalidad, rendimiento y escalabilidad." responsibleFor="_9Iz8YPdTEe2RbJufFOgbsg _BzQK4PdXEe2RbJufFOgbsg _RlyE8PdWEe2RbJufFOgbsg _6sXLQPdXEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_hM9K8PdSEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-WxNU2SD1w08v8sp5npoLkw" href="uma://-WxNU2SD1w08v8sp5npoLkw#-WxNU2SD1w08v8sp5npoLkw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pdkWQPdSEe2RbJufFOgbsg" name="planear_diagrama_de_arquitectura" guid="_pdkWQPdSEe2RbJufFOgbsg" presentationName="Planear diagrama de arquitectura" briefDescription="Este artefacto representa la estructura y organización del sistema de software.">
+            <methodElementProperty xmi:id="_46JjkPdTEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-xwQLLCBqEp3w-KRchXuExQ" href="uma://-xwQLLCBqEp3w-KRchXuExQ#-xwQLLCBqEp3w-KRchXuExQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5_VqAPdTEe2RbJufFOgbsg" name="especificaciones_tecnicas" guid="_5_VqAPdTEe2RbJufFOgbsg" presentationName="Especificaciones tecnicas" briefDescription=" Las especificaciones técnicas son documentos que detallan los aspectos técnicos y funcionales del sistema de software.">
+            <methodElementProperty xmi:id="__6MM8PdVEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-UM2msp882hF8ERlGW7bfBg" href="uma://-UM2msp882hF8ERlGW7bfBg#-UM2msp882hF8ERlGW7bfBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9Iz8YPdTEe2RbJufFOgbsg" name="diagrama_de_arquitectura_terminado" guid="_9Iz8YPdTEe2RbJufFOgbsg" presentationName="Diagrama de arquitectura terminado" briefDescription="Este artefacto representa la estructura y organización del sistema de software.">
+            <methodElementProperty xmi:id="_-z6MQPdTEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-QW9OTM3lD7SJBGjp4K22NA" href="uma://-QW9OTM3lD7SJBGjp4K22NA#-QW9OTM3lD7SJBGjp4K22NA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RlyE8PdWEe2RbJufFOgbsg" name="especificaciones_tecnicas_terminadas" guid="_RlyE8PdWEe2RbJufFOgbsg" presentationName="Especificaciones tecnicas terminadas" briefDescription=" Las especificaciones técnicas son documentos que detallan los aspectos técnicos y funcionales del sistema de software.">
+            <methodElementProperty xmi:id="_SjxXMPdWEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-98b5P2gRy4cqeQnpRRk1CQ" href="uma://-98b5P2gRy4cqeQnpRRk1CQ#-98b5P2gRy4cqeQnpRRk1CQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fs6-wPdWEe2RbJufFOgbsg" name="componentes_de_seguridad_" guid="_fs6-wPdWEe2RbJufFOgbsg" presentationName="Componentes de seguridad " briefDescription="Los componentes de seguridad son elementos que se agregan al sistema de software para garantizar la protección y confidencialidad de la información.">
+            <methodElementProperty xmi:id="_BFwLsPdXEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="--dD19GoK2XQoEYaNplLhHg" href="uma://--dD19GoK2XQoEYaNplLhHg#--dD19GoK2XQoEYaNplLhHg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BzQK4PdXEe2RbJufFOgbsg" name="documento_terminado" guid="_BzQK4PdXEe2RbJufFOgbsg" presentationName="Documento terminado" briefDescription="Documento con todos los componentes de seguridad integrados.">
+            <methodElementProperty xmi:id="_C0xSQPdXEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-_RBMUi9bZz-H6QYhzs9W9A" href="uma://-_RBMUi9bZz-H6QYhzs9W9A#-_RBMUi9bZz-H6QYhzs9W9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XTs0kPdXEe2RbJufFOgbsg" name="plan_de_mitigacion_de_riesgos" guid="_XTs0kPdXEe2RbJufFOgbsg" presentationName="Plan de mitigacion de riesgos" briefDescription="Un plan de mitigación de riesgos es un documento que identifica, evalúa y establece acciones para reducir los riesgos asociados a un proyecto de software.">
+            <methodElementProperty xmi:id="_kS-ucPdXEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-BSTTl4z2xK64rfdjGG-voQ" href="uma://-BSTTl4z2xK64rfdjGG-voQ#-BSTTl4z2xK64rfdjGG-voQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6sXLQPdXEe2RbJufFOgbsg" name="plan_de_mitigacion_de_riesgos_terminado" guid="_6sXLQPdXEe2RbJufFOgbsg" presentationName="Plan de mitigacion de riesgos terminado" briefDescription="Un plan de mitigación de riesgos es un documento que identifica, evalúa y establece acciones para reducir los riesgos asociados a un proyecto de software.">
+            <methodElementProperty xmi:id="_7lEU4PdXEe2RbJufFOgbsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ffTaE4Hd1V9nU588mjXiPA" href="uma://-ffTaE4Hd1V9nU588mjXiPA#-ffTaE4Hd1V9nU588mjXiPA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5ZR3IPd1Ee2tX4LLMx9DDg" name="diseno_de_la_arquitectura_del_software" guid="_5ZR3IPd1Ee2tX4LLMx9DDg" presentationName="Diseno de la arquitectura del software" briefDescription="El proceso de &quot;Diseño de la Arquitectura del Sistema&quot; implica la creación de diagramas de clases, diagramas de interacción, diseño de interfaces y definición de directrices de patrones de diseño.">
+          <methodElementProperty xmi:id="_5ZSeMPd1Ee2tX4LLMx9DDg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_BczosPd2Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_COT-IPd2Ee2tX4LLMx9DDg" name="disenador_de_ui-ux" guid="_COT-IPd2Ee2tX4LLMx9DDg" presentationName="Disenador de UI-UX" briefDescription="El Diseñador de UI/UX se encarga de crear la interfaz de usuario de un proyecto de software, asegurando una experiencia de usuario intuitiva y atractiva.">
+            <methodElementProperty xmi:id="_5oN1kPd2Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-WmqCN9Jfyaxp2NiDAvsENg" href="uma://-WmqCN9Jfyaxp2NiDAvsENg#-WmqCN9Jfyaxp2NiDAvsENg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8y1XcPd2Ee2tX4LLMx9DDg" name="realizar_diagrama_de_clases" guid="_8y1XcPd2Ee2tX4LLMx9DDg" presentationName="Realizar diagrama de clases" briefDescription="El diagrama de clases es una representación visual de las clases y sus relaciones en un proyecto de software." performedBy="_COT-IPd2Ee2tX4LLMx9DDg" mandatoryInput="_d8lToPeEEe2tX4LLMx9DDg" output="_d8lTofeEEe2tX4LLMx9DDg">
+            <methodElementProperty xmi:id="__r9gsPd2Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-BujdtMIwyOyznfGSMDOkew" href="uma://-BujdtMIwyOyznfGSMDOkew#-BujdtMIwyOyznfGSMDOkew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xRV0wPd3Ee2tX4LLMx9DDg" name="realizar_diagrama_de_interaccion" guid="_xRV0wPd3Ee2tX4LLMx9DDg" presentationName="Realizar diagrama de interaccion" briefDescription="El diagrama de interacción muestra cómo las diferentes partes de un sistema interactúan entre sí para lograr un objetivo específico.">
+            <methodElementProperty xmi:id="_Ba-KwPd4Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-9zhCyQaGIqCFoPH097vygQ" href="uma://-9zhCyQaGIqCFoPH097vygQ#-9zhCyQaGIqCFoPH097vygQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_efVR0Pd4Ee2tX4LLMx9DDg" name="presentar_diseno_de_las_interfaces" guid="_efVR0Pd4Ee2tX4LLMx9DDg" presentationName="Presentar diseno de las interfaces" briefDescription="Presentar el diseño de las interfaces implica mostrar visualmente cómo se verá y funcionará la interfaz de usuario de un sistema de software." performedBy="_COT-IPd2Ee2tX4LLMx9DDg" mandatoryInput="_1EKewPd6Ee2tX4LLMx9DDg" output="_Uhw_APeEEe2tX4LLMx9DDg">
+            <methodElementProperty xmi:id="_gE-Z8Pd4Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="--zDes-GVVNeSlrflSkXtMg" href="uma://--zDes-GVVNeSlrflSkXtMg#--zDes-GVVNeSlrflSkXtMg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uurY0Pd5Ee2tX4LLMx9DDg" name="realizar_las_directrices_de_patrones_de_disenos" guid="_uurY0Pd5Ee2tX4LLMx9DDg" presentationName="Realizar las directrices de patrones de disenos" briefDescription="Realizar las directrices de patrones de diseño implica documentar y comunicar las pautas y mejores prácticas para el uso de patrones de diseño en un proyecto de software.">
+            <methodElementProperty xmi:id="_t3cZYPd6Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-sY5P4weWglPH62_p7If3NQ" href="uma://-sY5P4weWglPH62_p7If3NQ#-sY5P4weWglPH62_p7If3NQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1EKewPd6Ee2tX4LLMx9DDg" name="diseno_de_interfaces" guid="_1EKewPd6Ee2tX4LLMx9DDg" presentationName="Diseno de interfaces" briefDescription="El diseño de interfaces implica la creación visual y funcional de las interfaces de usuario de un proyecto de software.">
+            <methodElementProperty xmi:id="_NoRtwPd7Ee2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-zern5M0Xi2Lju_0aafPJgg" href="uma://-zern5M0Xi2Lju_0aafPJgg#-zern5M0Xi2Lju_0aafPJgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Uhw_APeEEe2tX4LLMx9DDg" name="diseno_de_interfaces_realizado" guid="_Uhw_APeEEe2tX4LLMx9DDg" presentationName="Diseno de interfaces" briefDescription="El diseño de interfaces implica la creación visual y funcional de las interfaces de usuario de un proyecto de software.">
+            <methodElementProperty xmi:id="_VwWSAPeEEe2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-mCUkBHjVG7gV7FhHItikRw" href="uma://-mCUkBHjVG7gV7FhHItikRw#-mCUkBHjVG7gV7FhHItikRw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d8lToPeEEe2tX4LLMx9DDg" name="diagrama" guid="_d8lToPeEEe2tX4LLMx9DDg" presentationName="Diagrama" briefDescription="Un diagrama en un proyecto de software es una representación visual que muestra la estructura, la lógica o el flujo de información de un sistema o componente de software.">
+            <methodElementProperty xmi:id="_d9ujIPeEEe2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-730c1yyYCleNzbcIhZyNuA" href="uma://-730c1yyYCleNzbcIhZyNuA#-730c1yyYCleNzbcIhZyNuA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d8lTofeEEe2tX4LLMx9DDg" name="diagrama_finalizado" guid="_d8lTofeEEe2tX4LLMx9DDg" presentationName="Diagrama finalizado" briefDescription="Un diagrama MER en un proyecto de software es una representación visual que muestra las entidades, las relaciones y los atributos de una base de datos.">
+            <methodElementProperty xmi:id="_d9ujIfeEEe2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-R9u9T5-TNMAbqI3-OrI5QA" href="uma://-R9u9T5-TNMAbqI3-OrI5QA#-R9u9T5-TNMAbqI3-OrI5QA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d8lToveEEe2tX4LLMx9DDg" name="documento_patrones" guid="_d8lToveEEe2tX4LLMx9DDg" presentationName="Documento patrones" briefDescription="El documento es un artefacto contiene información detallada y documentación relevante sobre el sistema.">
+            <methodElementProperty xmi:id="_d9ujIveEEe2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-j5UNTZveVlDv0DaZp-tozQ" href="uma://-j5UNTZveVlDv0DaZp-tozQ#-j5UNTZveVlDv0DaZp-tozQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d8lTo_eEEe2tX4LLMx9DDg" name="documento_patrones_finalizado" guid="_d8lTo_eEEe2tX4LLMx9DDg" presentationName="Documento patrones finalizado" briefDescription="El documento es un artefacto contiene información detallada y documentación relevante sobre el sistema.">
+            <methodElementProperty xmi:id="_d9ujI_eEEe2tX4LLMx9DDg" name="me_edited" value="true"/>
+            <presentation xmi:id="-BBgSXoadMWXEDWotrTqxNQ" href="uma://-BBgSXoadMWXEDWotrTqxNQ#-BBgSXoadMWXEDWotrTqxNQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_N9FWUPgOEe27nrnM_TBeKQ" name="gestion_de_riesgos_y_seguridad" guid="_N9FWUPgOEe27nrnM_TBeKQ" presentationName="Gestion de riesgos y seguridad" briefDescription="Este método se encarga de identificar, evaluar y mitigar los riesgos asociados a un proyecto de software, así como de establecer medidas de seguridad para proteger los activos de la organización.">
+          <methodElementProperty xmi:id="_N9FWUfgOEe27nrnM_TBeKQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_PtuNgPgOEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_YF9q0PgOEe27nrnM_TBeKQ" name="auditor_de_seguridad" guid="_YF9q0PgOEe27nrnM_TBeKQ" presentationName="Auditor de seguridad" briefDescription="El rol de Auditor de Seguridad se encarga de evaluar y garantizar la integridad y confidencialidad de los sistemas de información en un proyecto de software.">
+            <methodElementProperty xmi:id="_abjMsPgPEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-2TWho48zHTIRv27MEMa0EA" href="uma://-2TWho48zHTIRv27MEMa0EA#-2TWho48zHTIRv27MEMa0EA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qfr-sPgPEe27nrnM_TBeKQ" name="realizar_informe_de_evaluacion_de_riesgos" guid="_qfr-sPgPEe27nrnM_TBeKQ" presentationName="Realizar informe de evaluacion de riesgos" briefDescription="El informe de evaluación de riesgos es un documento que resume los riesgos identificados y proporciona recomendaciones para mitigarlos en un proyecto de software.">
+            <methodElementProperty xmi:id="_qD6hUPgSEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-C8PivIefyunVAxRJfgzGBQ" href="uma://-C8PivIefyunVAxRJfgzGBQ#-C8PivIefyunVAxRJfgzGBQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Er9RwPglEe27nrnM_TBeKQ" name="realizar_matriz_de_riesgo" guid="_Er9RwPglEe27nrnM_TBeKQ" presentationName="Realizar matriz de riesgo" briefDescription="La matriz de riesgo es una herramienta utilizada para identificar y evaluar los riesgos en un proyecto de software" performedBy="_YF9q0PgOEe27nrnM_TBeKQ" mandatoryInput="_Kc1EMfglEe27nrnM_TBeKQ" output="_Kc1EMPglEe27nrnM_TBeKQ">
+            <methodElementProperty xmi:id="_FyZ8cPglEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tjIFqHVxVHiPAinJRevMkw" href="uma://-tjIFqHVxVHiPAinJRevMkw#-tjIFqHVxVHiPAinJRevMkw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Kc1EMPglEe27nrnM_TBeKQ" name="matriz_de_riesgo_finalizada" guid="_Kc1EMPglEe27nrnM_TBeKQ" presentationName="Matriz de riesgo finalizada" briefDescription="La planeación de la matriz de riesgo es un artefacto que identifica y evalúa los riesgos en un proyecto de software.">
+            <methodElementProperty xmi:id="_Kd4NEPglEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sfV6ZaicEFPqagQb3eAJ2Q" href="uma://-sfV6ZaicEFPqagQb3eAJ2Q#-sfV6ZaicEFPqagQb3eAJ2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Kc1EMfglEe27nrnM_TBeKQ" name="planeacion_matriz_de_riesgo" guid="_Kc1EMfglEe27nrnM_TBeKQ" presentationName="Planeacion matriz de riesgo" briefDescription="La planeación de la matriz de riesgo es un artefacto que identifica y evalúa los riesgos en un proyecto de software.">
+            <methodElementProperty xmi:id="_Kd40IPglEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-DRxTHugchAQHnnWpDev3Fg" href="uma://-DRxTHugchAQHnnWpDev3Fg#-DRxTHugchAQHnnWpDev3Fg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_emzqMPglEe27nrnM_TBeKQ" name="realizar_plan_de_mitigacion_de_riesgos" guid="_emzqMPglEe27nrnM_TBeKQ" presentationName="Realizar plan de mitigacion de riesgos" briefDescription="Realizar un plan de mitigación de riesgos como tarea en un proyecto de software implica identificar y abordar los riesgos potenciales asociados con el desarrollo, implementación y operación del software." performedBy="_ezww4PdQEe2RbJufFOgbsg" mandatoryInput="_XTs0kPdXEe2RbJufFOgbsg" output="_6sXLQPdXEe2RbJufFOgbsg">
+            <methodElementProperty xmi:id="_entCEPglEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-n7n3J0ci3XABrLGIBnNzLA" href="uma://-n7n3J0ci3XABrLGIBnNzLA#-n7n3J0ci3XABrLGIBnNzLA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gJIYkPglEe27nrnM_TBeKQ" name="plan_de_mitigacion_de_riesgos" guid="_gJIYkPglEe27nrnM_TBeKQ" presentationName="Plan de mitigacion de riesgos" briefDescription="Un plan de mitigación de riesgos es un documento que identifica, evalúa y establece acciones para reducir los riesgos asociados a un proyecto de software.">
+            <methodElementProperty xmi:id="_gKVScPglEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-pWTO_Wqwdnij2HCXRIJ20A" href="uma://-pWTO_Wqwdnij2HCXRIJ20A#-pWTO_Wqwdnij2HCXRIJ20A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gJIYkfglEe27nrnM_TBeKQ" name="plan_de_mitigacion_de_riesgos_terminado" guid="_gJIYkfglEe27nrnM_TBeKQ" presentationName="Plan de mitigacion de riesgos terminado" briefDescription="Un plan de mitigación de riesgos es un documento que identifica, evalúa y establece acciones para reducir los riesgos asociados a un proyecto de software.">
+            <methodElementProperty xmi:id="_gKVScfglEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-b1QEniOpPGCHtN_Z_U60YQ" href="uma://-b1QEniOpPGCHtN_Z_U60YQ#-b1QEniOpPGCHtN_Z_U60YQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rB7uIPglEe27nrnM_TBeKQ" name="realizar_las_recomendaciones_de_seguridad" guid="_rB7uIPglEe27nrnM_TBeKQ" presentationName="Realizar las recomendaciones de seguridad" briefDescription="Sugerir acciones y medidas para fortalecer la seguridad del proyecto y prevenir posibles vulnerabilidades o riesgos." performedBy="_YF9q0PgOEe27nrnM_TBeKQ">
+            <methodElementProperty xmi:id="_tS_8YPgmEe27nrnM_TBeKQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-e5G9xFNo1yJnlW26knLlcw" href="uma://-e5G9xFNo1yJnlW26knLlcw#-e5G9xFNo1yJnlW26knLlcw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_y1xnrfXlEe2sYpjh_H8PKQ" name="CapabilityPatterns" guid="_y1xnrfXlEe2sYpjh_H8PKQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_y1xnrvXlEe2sYpjh_H8PKQ" name="DeliveryProcesses" guid="_y1xnrvXlEe2sYpjh_H8PKQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_y1xnr_XlEe2sYpjh_H8PKQ" name="ProcessContributions" guid="_y1xnr_XlEe2sYpjh_H8PKQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

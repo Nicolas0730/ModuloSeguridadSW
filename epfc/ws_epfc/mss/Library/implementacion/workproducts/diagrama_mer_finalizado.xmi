@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qFsJQOWSvuNg0Yqo0_30kg" name="new_artifact,_ec1g0PdfEe2RbJufFOgbsg" guid="-qFsJQOWSvuNg0Yqo0_30kg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-20T17:43:17.589-0500" changeDescription="Se realiza el diagrama MER" version="1.0">
+  <mainDescription>Un diagrama MER (Modelo Entidad-Relación) en un proyecto de software es un artefacto utilizado para representar la&#xD;
+estructura lógica de una base de datos. Consiste en entidades que representan objetos o conceptos del mundo real,&#xD;
+relaciones que muestran las conexiones entre las entidades y atributos que describen las características de las entidades.&#xD;
+El diagrama MER ayuda a los desarrolladores y diseñadores a visualizar y comunicar de manera clara y concisa la estructura&#xD;
+y las relaciones de una base de datos.</mainDescription>
+  <keyConsiderations>Identificacion de entidades, Relaciones claras y precisas, Atributos relevantes</keyConsiderations>
+  <purpose>El propósito del diagrama MER es proporcionar una representación gráfica de la estructura y las relaciones de una base de&#xD;
+datos.</purpose>
+  <briefOutline>El diagrama MER es una herramienta esencial en el diseño de bases de datos en proyectos de software. Permite visualizar y&#xD;
+comunicar la estructura y las relaciones de la base de datos, lo que facilita la comprensión y el diseño eficiente de la&#xD;
+misma.</briefOutline>
+  <representation>La representación más común para un diagrama MER es utilizar cajas o rectángulos para representar las entidades, líneas&#xD;
+para representar las relaciones y óvalos o elipses para representar los atributos.</representation>
+</org.eclipse.epf.uma:ArtifactDescription>

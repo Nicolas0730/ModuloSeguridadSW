@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qpXpqWMekHjtfyX4767Stg" name=",_t3NJ4ParEe2RbJufFOgbsg" guid="-qpXpqWMekHjtfyX4767Stg" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-19T20:17:18.143-0500" changeDescription="Se realizan las funciones necesarias para el proyecto" version="1.0">
+  <mainDescription>Las funciones en un proyecto de software son segmentos de código que se utilizan para realizar una tarea específica. Son&#xD;
+bloques de código independientes que pueden recibir entradas (argumentos) y producir salidas (resultados). Las funciones se&#xD;
+crean para realizar tareas repetitivas o para encapsular la lógica de negocio en componentes más pequeños y manejables.&#xD;
+Pueden aceptar parámetros y devolver valores, lo que permite la reutilización y modularidad del código.</mainDescription>
+  <keyConsiderations>Buenas practicas, Definir los parametros, Documentacion adecuada&amp;nbsp;</keyConsiderations>
+  <sections xmi:id="_g7S7sPgtEe27nrnM_TBeKQ" name="Analisis de requisitos" guid="_g7S7sPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Comprender y analizar en detalle los requisitos funcionales y no funcionales del módulo de login. Identificar las&#xD;
+funcionalidades necesarias, como la validación de credenciales, la autenticación segura, la gestión de usuarios y cualquier&#xD;
+otra función específica relacionada con la seguridad del login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_knlAMPgtEe27nrnM_TBeKQ" name="Diseño de arquitectura" guid="_knlAMPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Diseñar la arquitectura del módulo de seguridad, considerando los principios de diseño seguro y las mejores prácticas.&#xD;
+Definir los componentes, módulos y sus interacciones, asegurando la separación de responsabilidades y la implementación de&#xD;
+capas de seguridad adecuadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_oBrvkPgtEe27nrnM_TBeKQ" name="Implementacion de las funciones" guid="_oBrvkPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Escribir el código que implemente las funciones del módulo de login, siguiendo las buenas prácticas de desarrollo de&#xD;
+software y las directrices de seguridad establecidas. Utilizar los lenguajes de programación y las tecnologías adecuadas&#xD;
+para implementar las funcionalidades requeridas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_rV8VoPgtEe27nrnM_TBeKQ" name="Pruebas unitarias" guid="_rV8VoPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar pruebas unitarias exhaustivas para cada función del módulo de login. Verificar que el código implementado funcione&#xD;
+correctamente, cumpla con los requisitos y mantenga la seguridad de los datos y las operaciones relacionadas con el login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_wISqUPgtEe27nrnM_TBeKQ" name="Pruebas de integracion" guid="_wISqUPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Integrar el módulo de login con otras partes del sistema y realizar pruebas de integración para garantizar su correcto&#xD;
+funcionamiento en conjunto con el resto del software.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4Mr-kPgtEe27nrnM_TBeKQ" name="Pruebas de seguridad" guid="_4Mr-kPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar pruebas de seguridad específicas para el módulo de login, como pruebas de penetración, pruebas de validación de&#xD;
+entrada y pruebas de autenticación. Identificar posibles vulnerabilidades y corregirlas antes de la implementación final.</sectionDescription>
+  </sections>
+  <sections xmi:id="_8TTOoPgtEe27nrnM_TBeKQ" name="Revision y refactorizacion del codigo" guid="_8TTOoPgtEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar revisiones del código para garantizar su calidad, legibilidad y mantenibilidad. Refactorizar el código si es&#xD;
+necesario para mejorar su estructura, rendimiento y seguridad.</sectionDescription>
+  </sections>
+  <sections xmi:id="_FPnCUPguEe27nrnM_TBeKQ" name="Documentacion" guid="_FPnCUPguEe27nrnM_TBeKQ">
+    <sectionDescription>Documentar las funciones implementadas, incluyendo comentarios claros y concisos que expliquen la lógica y el propósito de&#xD;
+cada función. También se pueden proporcionar ejemplos de uso y casos de prueba.</sectionDescription>
+  </sections>
+  <sections xmi:id="_IDTR8PguEe27nrnM_TBeKQ" name="Pruebas de aceptacion" guid="_IDTR8PguEe27nrnM_TBeKQ">
+    <sectionDescription>Realizar pruebas de aceptación en colaboración con los usuarios o los equipos responsables de la seguridad de la empresa.&#xD;
+Validar que las funciones del módulo de login cumplen con los requisitos establecidos y proporcionan el nivel de seguridad&#xD;
+requerido.</sectionDescription>
+  </sections>
+  <sections xmi:id="_TOk3kPguEe27nrnM_TBeKQ" name="Despliegue y puesta en produccion " guid="_TOk3kPguEe27nrnM_TBeKQ">
+    <sectionDescription>Preparar el módulo de login para su despliegue en el entorno de producción. Realizar pruebas finales y asegurarse de que&#xD;
+todas las configuraciones sean correctas antes de ponerlo en funcionamiento.</sectionDescription>
+  </sections>
+  <purpose>El propósito de las funciones en un proyecto de software es promover la reutilización de código, facilitar la modularidad y&#xD;
+mejorar la legibilidad y mantenibilidad del software.</purpose>
+  <alternatives>Una alternativa al enfoque de funciones en un proyecto de software es la programación orientada a objetos (POO).</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

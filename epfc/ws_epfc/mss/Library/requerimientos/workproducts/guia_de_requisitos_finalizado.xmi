@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MznEaF2sXXf6ImTTaNdiaw" name="new_artifact,_pC9gYPX-Ee2sYpjh_H8PKQ" guid="-MznEaF2sXXf6ImTTaNdiaw" changeDate="2023-05-18T23:37:41.632-0500">
+  <mainDescription>La guía de requisitos finalizados es un documento integral que recopila todos los requisitos del sistema de software&#xD;
+identificados, analizados y validados durante el proceso de captura de requisitos. Esta guía proporciona una descripción&#xD;
+detallada de cada requisito, incluyendo su propósito, descripción, funcionalidad esperada y cualquier restricción o&#xD;
+condición asociada.&lt;br />&#xD;
+El propósito principal de la guía de requisitos finalizados es proporcionar una referencia centralizada para el desarrollo&#xD;
+del software. Permite al equipo de desarrollo tener una comprensión clara de qué funcionalidades y características deben&#xD;
+ser implementadas, así como de las limitaciones y restricciones del sistema.</mainDescription>
+  <keyConsiderations>Consistencia, Rastreabilidad, Verificabilidad, Mantenimiento</keyConsiderations>
+  <purpose>El propósito principal de la guía de requisitos finalizados es proporcionar una referencia centralizada para el desarrollo&#xD;
+del software.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

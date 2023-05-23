@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AydXU79-pYEFnkK7doJA7A" name=",_ToghEPXqEe2sYpjh_H8PKQ" guid="-AydXU79-pYEFnkK7doJA7A" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-21T22:51:11.502-0500" changeDescription="Se hablara con los encargados de cada area" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Esta tarea es importante ya que al hablar con los encargados de cada area se podra tener una comprensión más completa&#xD;
+    de los requisitos y necesidades del sistema. Al comunicarse con los encargados de cada área, se pueden obtener&#xD;
+    perspectivas específicas sobre los procesos y flujos de trabajo existentes, identificar problemas y oportunidades de&#xD;
+    mejora, y garantizar que el software propuesto satisfaga las necesidades de todos los usuarios involucrados.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Requisitos funcionales, Requisitos no funcionales, Flujos de trabajo y de procesos, Restricciones y Limitaciones,&#xD;
+Retroalimentacion y validacion.</keyConsiderations>
+  <sections xmi:id="_m-ICAPhHEe27nrnM_TBeKQ" name="Identificar los encargados de cada area" guid="_m-ICAPhHEe27nrnM_TBeKQ">
+    <sectionDescription>Identifica las diferentes áreas relevantes para el proyecto, como desarrollo de software, seguridad de la información,&#xD;
+infraestructura de TI, gestión de usuarios, entre otros. Identifica también a los responsables de cada área.</sectionDescription>
+  </sections>
+  <sections xmi:id="_r7QDUPhHEe27nrnM_TBeKQ" name="Planificar las reuniones" guid="_r7QDUPhHEe27nrnM_TBeKQ">
+    <sectionDescription>Coordina y programa reuniones con los encargados de cada área. Asegúrate de asignar suficiente tiempo para discutir los&#xD;
+aspectos relacionados con el módulo de seguridad y el login.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vTsl0PhHEe27nrnM_TBeKQ" name="Preparar la agenda" guid="_vTsl0PhHEe27nrnM_TBeKQ">
+    <sectionDescription>Define una agenda clara para cada reunión, incluyendo los temas a tratar, los objetivos y las preguntas clave que necesitas&#xD;
+abordar. Esto te ayudará a mantener el enfoque durante las conversaciones.</sectionDescription>
+  </sections>
+  <sections xmi:id="_y1iU4PhHEe27nrnM_TBeKQ" name="Realizar las reuniones" guid="_y1iU4PhHEe27nrnM_TBeKQ">
+    <sectionDescription>Lleva a cabo las reuniones programadas con los encargados de cada área. Escucha atentamente sus perspectivas,&#xD;
+requerimientos y preocupaciones en relación con el módulo de seguridad y el login. Realiza preguntas pertinentes para&#xD;
+obtener información detallada.</sectionDescription>
+  </sections>
+  <sections xmi:id="_3OfSIPhHEe27nrnM_TBeKQ" name="Analizar y sintetizar la informacion" guid="_3OfSIPhHEe27nrnM_TBeKQ">
+    <sectionDescription>Después de las reuniones, analiza y sintetiza la información recopilada. Identifica los puntos en común, las necesidades y&#xD;
+las posibles áreas de conflicto o desafíos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_8YxlsPhHEe27nrnM_TBeKQ" name="Comunicar los hallazgos y acciones recomendadas" guid="_8YxlsPhHEe27nrnM_TBeKQ">
+    <sectionDescription>Prepara un informe o presentación que resuma los hallazgos de las reuniones y las acciones recomendadas para abordar los&#xD;
+aspectos de seguridad y login del proyecto. Comunica claramente tus recomendaciones a los encargados de cada área y&#xD;
+solicita su retroalimentación.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    El proposito de esta tarea es tener una correcta planeacion del proyecto para no tener contratiempos en el desarollo de&#xD;
+    este.&#xD;
+&lt;/p></purpose>
+  <alternatives>Una alternativa a esta tarea seria tener una recoleccion de datos como una encuesta o formulario para poder conocer cada&#xD;
+uno de los requsitos y demas necesidades de cada area.</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

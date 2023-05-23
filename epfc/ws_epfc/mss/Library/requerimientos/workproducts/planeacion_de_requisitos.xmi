@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RDM4dmtJBwzG2dWA4NveYQ" name="new_artifact,_NsdJoPX7Ee2sYpjh_H8PKQ" guid="-RDM4dmtJBwzG2dWA4NveYQ" authors="Diego Alexander Zuñiga Mosquera Nicolas Jaramillo Arcos Sebastian Sabogal Gonzalez" changeDate="2023-05-18T23:15:42.813-0500">
+  <mainDescription>La planeación de requisitos es un artefacto fundamental en un proyecto de software que abarca la estrategia y las&#xD;
+actividades necesarias para identificar, analizar y documentar los requisitos del sistema. Esta etapa implica la definición&#xD;
+de un plan que describe cómo se llevará a cabo el proceso de captura de requisitos, qué técnicas y herramientas se&#xD;
+utilizarán, y cómo se gestionarán los cambios y actualizaciones en los requisitos a lo largo del proyecto.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Definicion del alcance, Identificacion de partes interesadas, Gestion del cambio de requisitos.&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>El propósito de la planeación de requisitos es establecer una base sólida para comprender y definir los objetivos,&#xD;
+funcionalidades y restricciones del sistema.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
