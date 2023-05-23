@@ -67,8 +67,8 @@ public class RecuperarContraseñaController {
     @FXML
     void restablecer(ActionEvent event) throws SQLException {
 
-//        Stage stage = (Stage) restablecerbtn.getScene().getWindow();
-//        stage.close();
+        Stage stage = (Stage) restablecerbtn.getScene().getWindow();
+        stage.close();
 
         if (nuevaContraseñatxt.getText().isEmpty()||nuevaContraseña2txt.getText().isEmpty()){
             alerta.alertWarning("ERROR","CAMPOS VACÍOS");

@@ -44,11 +44,11 @@ public class correoRecuperacionController {
             //Código aleatorio que se enviará al usuario y se almacenará en la BD
             String codigo=validar.getCodigo().generarCadenaAleatoria(8);//El codigo es de 8 caracteres
 //           ********ACTIVAR****************
-//            validar.enviarCorreoRecuperacion(correoRecuperaciontxt.getText(), codigo);
+            validar.enviarCorreoRecuperacion(correoRecuperaciontxt.getText(), codigo);
 //            *********************
 
             //envío el correo a recuperarContraseñaController para que este sea buscado y posteriormente validado
-//            RecuperarContraseñaController recuperarContraseñaController= new RecuperarContraseñaController(correoRecuperaciontxt.getText());
+            //RecuperarContraseñaController recuperarContraseñaController= new RecuperarContraseñaController(correoRecuperaciontxt.getText());
             aplicacion.mostrarVentanaRecuperarContraseña(correoRecuperaciontxt.getText());
 
         }

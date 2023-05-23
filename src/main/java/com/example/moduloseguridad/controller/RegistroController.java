@@ -38,6 +38,12 @@ public class RegistroController {
     private Label labelContrasenia=new Label("Debe contener al menos una letra mayúscula, un digito ");
 
     @FXML
+    private Label labelInforme;
+
+    @FXML
+    private Label labelInforme2;
+
+    @FXML
     private PasswordField contraseñatxt;
 
     @FXML
@@ -54,9 +60,16 @@ public class RegistroController {
         tipoDocumento.add("DNI");
         tipoDocumento.add("Pasaporte");
 
-        labelContrasenia.setText("ERROR:La contraseña debe contener al menos una letra mayúscula, un digito , un caracter especial y un tamaño de 8");
-        labelContrasenia.setVisible(false);
-        labelContrasenia.setStyle("-fx-text-fill: red;");
+//        labelContrasenia.setText("ERROR:La contraseña debe contener al menos una letra mayúscula, un digito , un caracter especial y un tamaño de 8");
+//        labelContrasenia.setVisible(false);
+//        labelContrasenia.setStyle("-fx-text-fill: red;");
+
+//        labelInforme.setText("ERROR:La contraseña debe contener al menos una letra mayúscula, un digito , un caracter especial y un tamaño de 8");
+//        labelInforme.setVisible(false);
+//        labelInforme.setStyle("-fx-text-fill: red;");
+
+//        labelInforme2.setVisible(false);
+//        labelInforme2.setStyle("-fx-text-fill: red;");
 
         tipoDocumentoCB.setItems(tipoDocumento);
 
@@ -78,6 +91,10 @@ public class RegistroController {
             }else{
                 if (!matcher.matches()) {
                     labelContrasenia.setVisible(true);
+//                    labelInforme.setVisible(true);
+//                    labelInforme2.setVisible(true);
+                    labelInforme.setStyle("-fx-text-fill: red;");
+                    labelInforme2.setStyle("-fx-text-fill: red;");
                 }else {
                     userDAO.RegisterUser(nombretxt.getText(), tipoDocumentoCB.getValue(), numeroCCtxt.getText(), correotxt.getText(), contraseñatxt.getText());
                     limpiarCampos();
