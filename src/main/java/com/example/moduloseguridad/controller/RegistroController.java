@@ -41,6 +41,9 @@ public class RegistroController {
     private PasswordField contraseñatxt;
 
     @FXML
+    private PasswordField repetirContraseñatxt;
+
+    @FXML
     private Button registrarbtn;
 
     @FXML
@@ -67,17 +70,31 @@ public class RegistroController {
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(contraseñatxt.getText());
 
-        if (nombretxt.getText().isEmpty()||numeroCCtxt.getText().isEmpty()||correotxt.getText().isEmpty()|| contraseñatxt.getText().isEmpty()){
+        if (nombretxt.getText().isEmpty()||numeroCCtxt.getText().isEmpty()||correotxt.getText().isEmpty()||contraseñatxt.getText().isEmpty()){
             alerta.alertWarning("ERROR","CAMPOS VACÍOS");
-
-        } if (!matcher.matches()) {
-            labelContrasenia.setVisible(true);
         }else {
-            userDAO.RegisterUser(nombretxt.getText(), tipoDocumentoCB.getValue(), numeroCCtxt.getText(), correotxt.getText(), contraseñatxt.getText());
-            limpiarCampos();
+            if (validarContraseñas() == false) {
+                alerta.alertWarning("ERROR", "La Contraseña no coincide");
+            }else{
+                if (!matcher.matches()) {
+                    labelContrasenia.setVisible(true);
+                }else {
+                    userDAO.RegisterUser(nombretxt.getText(), tipoDocumentoCB.getValue(), numeroCCtxt.getText(), correotxt.getText(), contraseñatxt.getText());
+                    limpiarCampos();
 
-            aplicacion.mostrarVentanaLogin();
+                    aplicacion.mostrarVentanaLogin();
+
+                    Stage stage = (Stage) registrarbtn.getScene().getWindow();
+                    stage.close();
+                }
+            }
         }
+    }
+
+    private boolean validarContraseñas() {
+        if (repetirContraseñatxt.getText().equals(contraseñatxt.getText()))
+            return true;
+        else return false;
     }
 
     private void limpiarCampos() {
